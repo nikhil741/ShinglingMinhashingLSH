@@ -1,0 +1,2027 @@
+---------------------------------
+Book1
+----------------------------------
+[2, 3, 10, 13, 15, 18, 20, 22, 23, 25, 26, 27, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 56, 57, 60, 63, 64, 65, 66, 67, 68, 69, 70, 73, 75, 76, 77, 79, 80, 81, 84, 86, 87, 88, 91, 94, 95, 96, 97, 98, 99, 100, 101, 103, 107, 108, 109, 110, 114, 115, 116, 117, 118, 128, 129, 130, 131, 132, 133, 134, 137, 138, 142, 143, 144, 145, 146, 147, 148, 149, 150, 154, 155, 156, 157, 158, 162, 167, 168, 169, 170, 171, 174, 175, 176, 179, 180, 181, 183, 184, 185, 186, 188, 189, 190, 191, 192, 195, 196, 197, 198, 199, 200, 202, 204, 205, 206, 207, 210, 211, 213, 214, 215, 216, 219, 220, 221, 222, 223, 224, 225, 231, 233, 235, 236, 237, 238, 240, 243, 244, 245, 246, 247, 250, 251, 252, 253, 256, 271, 285, 288, 296, 302, 309, 315, 321, 326, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 354, 356, 357, 358, 359, 360, 361, 364, 365, 366, 367, 368, 370, 372, 373, 374, 381, 383, 385, 386, 387, 388, 389, 392, 393, 394, 395, 396, 397, 398, 399, 400, 405, 406, 407, 408, 409, 410, 412, 413, 414, 415, 416, 418, 419, 420, 421, 422, 425, 426, 427, 429, 430, 431, 436, 437, 438, 439, 442, 443, 444, 446, 447, 451, 452, 453, 455, 456, 457, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 476, 477, 478, 479, 480, 481, 482, 483, 484, 486, 487, 488, 489, 490, 492, 493, 494, 497, 498, 499, 500]
+----------------------------------
+Book2
+----------------------------------
+[1, 4, 5, 6, 7, 8, 9, 11, 12, 14, 16, 17, 19, 21, 24, 28, 29, 30, 41, 42, 49, 58, 59, 61, 62, 71, 72, 74, 78, 82, 83, 85, 89, 90, 92, 93, 102, 104, 105, 106, 111, 112, 113, 119, 120, 121, 122, 123, 124, 125, 126, 127, 135, 136, 139, 140, 141, 151, 152, 153, 159, 160, 161, 163, 164, 165, 166, 172, 173, 177, 178, 182, 187, 193, 194, 201, 203, 208, 209, 212, 217, 218, 226, 227, 228, 229, 230, 232, 234, 239, 241, 242, 248, 249, 254, 255, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 286, 287, 289, 290, 291, 292, 293, 294, 295, 297, 298, 299, 300, 301, 303, 304, 305, 306, 307, 308, 310, 311, 312, 313, 314, 316, 317, 318, 319, 320, 322, 323, 324, 325, 327, 328, 329, 330, 331, 332, 333, 334, 352, 353, 355, 362, 363, 369, 371, 375, 376, 377, 378, 379, 380, 382, 384, 390, 391, 401, 402, 403, 404, 411, 417, 423, 424, 428, 432, 433, 434, 435, 440, 441, 445, 448, 449, 450, 454, 458, 474, 475, 485, 491, 495, 496]
+-------------Shingles-----------------
+Para No1=152 - Para No2=153 Shingle="At t Index1=0 - Index2=0
+Para No1=152 - Para No2=153 Shingle=At th Index1=1 - Index2=1
+Para No1=152 - Para No2=153 Shingle=t tha Index1=2 - Index2=2
+Para No1=152 - Para No2=153 Shingle= that Index1=3 - Index2=3
+Para No1=152 - Para No2=153 Shingle=that  Index1=4 - Index2=4
+Para No1=152 - Para No2=153 Shingle=hat m Index1=5 - Index2=5
+Para No1=152 - Para No2=153 Shingle=at mo Index1=6 - Index2=6
+Para No1=152 - Para No2=153 Shingle=t mom Index1=7 - Index2=7
+Para No1=152 - Para No2=153 Shingle= mome Index1=8 - Index2=8
+Para No1=152 - Para No2=153 Shingle=momen Index1=9 - Index2=9
+Para No1=152 - Para No2=153 Shingle=oment Index1=10 - Index2=10
+Para No1=152 - Para No2=153 Shingle=ment  Index1=11 - Index2=11
+Para No1=152 - Para No2=153 Shingle=ent t Index1=12 - Index2=12
+Para No1=152 - Para No2=153 Shingle=nt th Index1=13 - Index2=13
+Para No1=152 - Para No2=153 Shingle=t the Index1=14 - Index2=14
+Para No1=152 - Para No2=153 Shingle= the  Index1=15 - Index2=15
+Para No1=152 - Para No2=153 Shingle=the t Index1=16 - Index2=16
+Para No1=152 - Para No2=153 Shingle=he te Index1=17 - Index2=17
+Para No1=152 - Para No2=153 Shingle=e tel Index1=18 - Index2=18
+Para No1=152 - Para No2=153 Shingle= tele Index1=19 - Index2=19
+Para No1=152 - Para No2=153 Shingle=telep Index1=20 - Index2=20
+Para No1=152 - Para No2=153 Shingle=eleph Index1=21 - Index2=21
+Para No1=152 - Para No2=153 Shingle=lepho Index1=22 - Index2=22
+Para No1=152 - Para No2=153 Shingle=ephon Index1=23 - Index2=23
+Para No1=152 - Para No2=153 Shingle=phone Index1=24 - Index2=24
+Para No1=152 - Para No2=153 Shingle=hone  Index1=25 - Index2=25
+Para No1=152 - Para No2=153 Shingle=one r Index1=26 - Index2=26
+Para No1=152 - Para No2=153 Shingle=ne ra Index1=27 - Index2=27
+Para No1=152 - Para No2=153 Shingle=e ran Index1=28 - Index2=28
+Para No1=152 - Para No2=153 Shingle= rang Index1=29 - Index2=29
+Para No1=152 - Para No2=153 Shingle=rang  Index1=30 - Index2=30
+Para No1=152 - Para No2=153 Shingle=ang a Index1=31 - Index2=31
+Para No1=152 - Para No2=153 Shingle=ng an Index1=32 - Index2=32
+Para No1=152 - Para No2=153 Shingle=g and Index1=33 - Index2=33
+Para No1=152 - Para No2=153 Shingle= and  Index1=34 - Index2=34
+Para No1=152 - Para No2=153 Shingle=and A Index1=35 - Index2=35
+Para No1=152 - Para No2=153 Shingle=nd Au Index1=36 - Index2=36
+Para No1=152 - Para No2=153 Shingle=d Aun Index1=37 - Index2=37
+Para No1=152 - Para No2=153 Shingle= Aunt Index1=38 - Index2=38
+Para No1=152 - Para No2=153 Shingle=Aunt  Index1=39 - Index2=39
+Para No1=152 - Para No2=153 Shingle=unt P Index1=40 - Index2=40
+Para No1=152 - Para No2=153 Shingle=nt Pe Index1=41 - Index2=41
+Para No1=152 - Para No2=153 Shingle=t Pet Index1=42 - Index2=42
+Para No1=152 - Para No2=153 Shingle= Petu Index1=43 - Index2=43
+Para No1=152 - Para No2=153 Shingle=Petun Index1=44 - Index2=44
+Para No1=152 - Para No2=153 Shingle=etuni Index1=45 - Index2=45
+Para No1=152 - Para No2=153 Shingle=tunia Index1=46 - Index2=46
+Para No1=152 - Para No2=153 Shingle=unia  Index1=47 - Index2=47
+Para No1=152 - Para No2=153 Shingle=nia w Index1=48 - Index2=48
+Para No1=152 - Para No2=153 Shingle=ia we Index1=49 - Index2=49
+Para No1=152 - Para No2=153 Shingle=a wen Index1=50 - Index2=50
+Para No1=152 - Para No2=153 Shingle= went Index1=51 - Index2=51
+Para No1=152 - Para No2=153 Shingle=went  Index1=52 - Index2=52
+Para No1=152 - Para No2=153 Shingle=ent t Index1=53 - Index2=12
+Para No1=152 - Para No2=153 Shingle=nt to Index1=54 - Index2=54
+Para No1=152 - Para No2=153 Shingle=t to  Index1=55 - Index2=55
+Para No1=152 - Para No2=153 Shingle= to a Index1=56 - Index2=56
+Para No1=152 - Para No2=153 Shingle=to an Index1=57 - Index2=57
+Para No1=152 - Para No2=153 Shingle=o ans Index1=58 - Index2=58
+Para No1=152 - Para No2=153 Shingle= answ Index1=59 - Index2=59
+Para No1=152 - Para No2=153 Shingle=answe Index1=60 - Index2=60
+Para No1=152 - Para No2=153 Shingle=nswer Index1=61 - Index2=61
+Para No1=152 - Para No2=153 Shingle=swer  Index1=62 - Index2=62
+Para No1=152 - Para No2=153 Shingle=wer i Index1=63 - Index2=63
+Para No1=152 - Para No2=153 Shingle=er it Index1=64 - Index2=64
+Para No1=152 - Para No2=153 Shingle=r it  Index1=65 - Index2=65
+Para No1=152 - Para No2=153 Shingle= it w Index1=66 - Index2=66
+Para No1=152 - Para No2=153 Shingle=it wh Index1=67 - Index2=67
+Para No1=152 - Para No2=153 Shingle=t whi Index1=68 - Index2=68
+Para No1=152 - Para No2=153 Shingle= whil Index1=69 - Index2=69
+Para No1=152 - Para No2=153 Shingle=while Index1=70 - Index2=70
+Para No1=152 - Para No2=153 Shingle=hile  Index1=71 - Index2=71
+Para No1=152 - Para No2=153 Shingle=ile H Index1=72 - Index2=72
+Para No1=152 - Para No2=153 Shingle=le Ha Index1=73 - Index2=73
+Para No1=152 - Para No2=153 Shingle=e Har Index1=74 - Index2=74
+Para No1=152 - Para No2=153 Shingle= Harr Index1=75 - Index2=75
+Para No1=152 - Para No2=153 Shingle=Harry Index1=76 - Index2=76
+Para No1=152 - Para No2=153 Shingle=arry  Index1=77 - Index2=77
+Para No1=152 - Para No2=153 Shingle=rry a Index1=78 - Index2=78
+Para No1=152 - Para No2=153 Shingle=ry an Index1=79 - Index2=79
+Para No1=152 - Para No2=153 Shingle=y and Index1=80 - Index2=80
+Para No1=152 - Para No2=153 Shingle= and  Index1=81 - Index2=34
+Para No1=152 - Para No2=153 Shingle=and U Index1=82 - Index2=82
+Para No1=152 - Para No2=153 Shingle=nd Un Index1=83 - Index2=83
+Para No1=152 - Para No2=153 Shingle=d Unc Index1=84 - Index2=84
+Para No1=152 - Para No2=153 Shingle= Uncl Index1=85 - Index2=85
+Para No1=152 - Para No2=153 Shingle=Uncle Index1=86 - Index2=86
+Para No1=152 - Para No2=153 Shingle=ncle  Index1=87 - Index2=87
+Para No1=152 - Para No2=153 Shingle=cle V Index1=88 - Index2=88
+Para No1=152 - Para No2=153 Shingle=le Ve Index1=89 - Index2=89
+Para No1=152 - Para No2=153 Shingle=e Ver Index1=90 - Index2=90
+Para No1=152 - Para No2=153 Shingle= Vern Index1=91 - Index2=91
+Para No1=152 - Para No2=153 Shingle=Verno Index1=92 - Index2=92
+Para No1=152 - Para No2=153 Shingle=ernon Index1=93 - Index2=93
+Para No1=152 - Para No2=153 Shingle=rnon  Index1=94 - Index2=94
+Para No1=152 - Para No2=153 Shingle=non w Index1=95 - Index2=95
+Para No1=152 - Para No2=153 Shingle=on wa Index1=96 - Index2=96
+Para No1=152 - Para No2=153 Shingle=n wat Index1=97 - Index2=97
+Para No1=152 - Para No2=153 Shingle= watc Index1=98 - Index2=98
+Para No1=152 - Para No2=153 Shingle=watch Index1=99 - Index2=99
+Para No1=152 - Para No2=153 Shingle=atche Index1=100 - Index2=100
+Para No1=152 - Para No2=153 Shingle=tched Index1=101 - Index2=101
+Para No1=152 - Para No2=153 Shingle=ched  Index1=102 - Index2=102
+Para No1=152 - Para No2=153 Shingle=hed D Index1=103 - Index2=103
+Para No1=152 - Para No2=153 Shingle=ed Du Index1=104 - Index2=104
+Para No1=152 - Para No2=153 Shingle=d Dud Index1=105 - Index2=105
+Para No1=152 - Para No2=153 Shingle= Dudl Index1=106 - Index2=106
+Para No1=152 - Para No2=153 Shingle=Dudle Index1=107 - Index2=107
+Para No1=152 - Para No2=153 Shingle=udley Index1=108 - Index2=108
+Para No1=152 - Para No2=153 Shingle=dley  Index1=109 - Index2=109
+Para No1=152 - Para No2=153 Shingle=ley u Index1=110 - Index2=110
+Para No1=152 - Para No2=153 Shingle=ey un Index1=111 - Index2=111
+Para No1=152 - Para No2=153 Shingle=y unw Index1=112 - Index2=112
+Para No1=152 - Para No2=153 Shingle= unwr Index1=113 - Index2=113
+Para No1=152 - Para No2=153 Shingle=unwra Index1=114 - Index2=114
+Para No1=152 - Para No2=153 Shingle=nwrap Index1=115 - Index2=115
+Para No1=152 - Para No2=153 Shingle=wrap  Index1=116 - Index2=116
+Para No1=152 - Para No2=153 Shingle=rap t Index1=117 - Index2=117
+Para No1=152 - Para No2=153 Shingle=ap th Index1=118 - Index2=118
+Para No1=152 - Para No2=153 Shingle=p the Index1=119 - Index2=119
+Para No1=152 - Para No2=153 Shingle= the  Index1=120 - Index2=15
+Para No1=152 - Para No2=153 Shingle=the r Index1=121 - Index2=121
+Para No1=152 - Para No2=153 Shingle=he ra Index1=122 - Index2=122
+Para No1=152 - Para No2=153 Shingle=e rac Index1=123 - Index2=123
+Para No1=152 - Para No2=153 Shingle= raci Index1=124 - Index2=124
+Para No1=152 - Para No2=153 Shingle=racin Index1=125 - Index2=125
+Para No1=152 - Para No2=153 Shingle=acing Index1=126 - Index2=126
+Para No1=152 - Para No2=153 Shingle=cing  Index1=127 - Index2=127
+Para No1=152 - Para No2=153 Shingle=ing b Index1=128 - Index2=128
+Para No1=152 - Para No2=153 Shingle=ng bi Index1=129 - Index2=129
+Para No1=152 - Para No2=153 Shingle=g bik Index1=130 - Index2=130
+Para No1=152 - Para No2=153 Shingle= bike Index1=131 - Index2=131
+Para No1=152 - Para No2=153 Shingle=bike, Index1=132 - Index2=132
+Para No1=152 - Para No2=153 Shingle=ike,  Index1=133 - Index2=133
+Para No1=152 - Para No2=153 Shingle=ke, a Index1=134 - Index2=134
+Para No1=152 - Para No2=153 Shingle=e, a  Index1=135 - Index2=135
+Para No1=152 - Para No2=153 Shingle=, a v Index1=136 - Index2=136
+Para No1=152 - Para No2=153 Shingle= a vi Index1=137 - Index2=137
+Para No1=152 - Para No2=153 Shingle=a vid Index1=138 - Index2=138
+Para No1=152 - Para No2=153 Shingle= vide Index1=139 - Index2=139
+Para No1=152 - Para No2=153 Shingle=video Index1=140 - Index2=140
+Para No1=152 - Para No2=153 Shingle=ideo  Index1=141 - Index2=141
+Para No1=152 - Para No2=153 Shingle=deo c Index1=142 - Index2=142
+Para No1=152 - Para No2=153 Shingle=eo ca Index1=143 - Index2=143
+Para No1=152 - Para No2=153 Shingle=o cam Index1=144 - Index2=144
+Para No1=152 - Para No2=153 Shingle= came Index1=145 - Index2=145
+Para No1=152 - Para No2=153 Shingle=camer Index1=146 - Index2=146
+Para No1=152 - Para No2=153 Shingle=amera Index1=147 - Index2=147
+Para No1=152 - Para No2=153 Shingle=mera, Index1=148 - Index2=148
+Para No1=152 - Para No2=153 Shingle=era,  Index1=149 - Index2=149
+Para No1=152 - Para No2=153 Shingle=ra, a Index1=150 - Index2=150
+Para No1=152 - Para No2=153 Shingle=a, a  Index1=151 - Index2=151
+Para No1=152 - Para No2=153 Shingle=, a r Index1=152 - Index2=152
+Para No1=152 - Para No2=153 Shingle= a re Index1=153 - Index2=153
+Para No1=152 - Para No2=153 Shingle=a rem Index1=154 - Index2=154
+Para No1=152 - Para No2=153 Shingle= remo Index1=155 - Index2=155
+Para No1=152 - Para No2=153 Shingle=remot Index1=156 - Index2=156
+Para No1=152 - Para No2=153 Shingle=emote Index1=157 - Index2=157
+Para No1=152 - Para No2=153 Shingle=mote  Index1=158 - Index2=158
+Para No1=152 - Para No2=153 Shingle=ote c Index1=159 - Index2=159
+Para No1=152 - Para No2=153 Shingle=te co Index1=160 - Index2=160
+Para No1=152 - Para No2=153 Shingle=e con Index1=161 - Index2=161
+Para No1=152 - Para No2=153 Shingle= cont Index1=162 - Index2=162
+Para No1=152 - Para No2=153 Shingle=contr Index1=163 - Index2=163
+Para No1=152 - Para No2=153 Shingle=ontro Index1=164 - Index2=164
+Para No1=152 - Para No2=153 Shingle=ntrol Index1=165 - Index2=165
+Para No1=152 - Para No2=153 Shingle=trol  Index1=166 - Index2=166
+Para No1=152 - Para No2=153 Shingle=rol a Index1=167 - Index2=167
+Para No1=152 - Para No2=153 Shingle=ol ai Index1=168 - Index2=168
+Para No1=152 - Para No2=153 Shingle=l air Index1=169 - Index2=169
+Para No1=152 - Para No2=153 Shingle= airp Index1=170 - Index2=170
+Para No1=152 - Para No2=153 Shingle=airpl Index1=171 - Index2=171
+Para No1=152 - Para No2=153 Shingle=irpla Index1=172 - Index2=172
+Para No1=152 - Para No2=153 Shingle=rplan Index1=173 - Index2=173
+Para No1=152 - Para No2=153 Shingle=plane Index1=174 - Index2=174
+Para No1=152 - Para No2=153 Shingle=lane, Index1=175 - Index2=175
+Para No1=152 - Para No2=153 Shingle=ane,  Index1=176 - Index2=176
+Para No1=152 - Para No2=153 Shingle=ne, s Index1=177 - Index2=177
+Para No1=152 - Para No2=153 Shingle=e, si Index1=178 - Index2=178
+Para No1=152 - Para No2=153 Shingle=, six Index1=179 - Index2=179
+Para No1=152 - Para No2=153 Shingle= sixt Index1=180 - Index2=180
+Para No1=152 - Para No2=153 Shingle=sixte Index1=181 - Index2=181
+Para No1=152 - Para No2=153 Shingle=ixtee Index1=182 - Index2=182
+Para No1=152 - Para No2=153 Shingle=xteen Index1=183 - Index2=183
+Para No1=152 - Para No2=153 Shingle=teen  Index1=184 - Index2=184
+Para No1=152 - Para No2=153 Shingle=een n Index1=185 - Index2=185
+Para No1=152 - Para No2=153 Shingle=en ne Index1=186 - Index2=186
+Para No1=152 - Para No2=153 Shingle=n new Index1=187 - Index2=187
+Para No1=152 - Para No2=153 Shingle= new  Index1=188 - Index2=188
+Para No1=152 - Para No2=153 Shingle=new c Index1=189 - Index2=189
+Para No1=152 - Para No2=153 Shingle=ew co Index1=190 - Index2=190
+Para No1=152 - Para No2=153 Shingle=w com Index1=191 - Index2=191
+Para No1=152 - Para No2=153 Shingle= comp Index1=192 - Index2=192
+Para No1=152 - Para No2=153 Shingle=compu Index1=193 - Index2=193
+Para No1=152 - Para No2=153 Shingle=omput Index1=194 - Index2=194
+Para No1=152 - Para No2=153 Shingle=mpute Index1=195 - Index2=195
+Para No1=152 - Para No2=153 Shingle=puter Index1=196 - Index2=196
+Para No1=152 - Para No2=153 Shingle=uter  Index1=197 - Index2=197
+Para No1=152 - Para No2=153 Shingle=ter g Index1=198 - Index2=198
+Para No1=152 - Para No2=153 Shingle=er ga Index1=199 - Index2=199
+Para No1=152 - Para No2=153 Shingle=r gam Index1=200 - Index2=200
+Para No1=152 - Para No2=153 Shingle= game Index1=201 - Index2=201
+Para No1=152 - Para No2=153 Shingle=games Index1=202 - Index2=202
+Para No1=152 - Para No2=153 Shingle=ames, Index1=203 - Index2=203
+Para No1=152 - Para No2=153 Shingle=mes,  Index1=204 - Index2=204
+Para No1=152 - Para No2=153 Shingle=es, a Index1=205 - Index2=205
+Para No1=152 - Para No2=153 Shingle=s, an Index1=206 - Index2=206
+Para No1=152 - Para No2=153 Shingle=, and Index1=207 - Index2=207
+Para No1=152 - Para No2=153 Shingle= and  Index1=208 - Index2=34
+Para No1=152 - Para No2=153 Shingle=and a Index1=209 - Index2=209
+Para No1=152 - Para No2=153 Shingle=nd a  Index1=210 - Index2=210
+Para No1=152 - Para No2=153 Shingle=d a V Index1=211 - Index2=211
+Para No1=152 - Para No2=153 Shingle= a VC Index1=212 - Index2=212
+Para No1=152 - Para No2=153 Shingle=a VCR Index1=213 - Index2=213
+Para No1=152 - Para No2=153 Shingle= VCR. Index1=214 - Index2=214
+Para No1=152 - Para No2=153 Shingle=VCR.  Index1=215 - Index2=215
+Para No1=152 - Para No2=153 Shingle=CR. H Index1=216 - Index2=216
+Para No1=152 - Para No2=153 Shingle=R. He Index1=217 - Index2=217
+Para No1=152 - Para No2=153 Shingle=. He  Index1=218 - Index2=218
+Para No1=152 - Para No2=153 Shingle= He w Index1=219 - Index2=219
+Para No1=152 - Para No2=153 Shingle=He wa Index1=220 - Index2=220
+Para No1=152 - Para No2=153 Shingle=e was Index1=221 - Index2=221
+Para No1=152 - Para No2=153 Shingle= was  Index1=222 - Index2=222
+Para No1=152 - Para No2=153 Shingle=was r Index1=223 - Index2=223
+Para No1=152 - Para No2=153 Shingle=as ri Index1=224 - Index2=224
+Para No1=152 - Para No2=153 Shingle=s rip Index1=225 - Index2=225
+Para No1=152 - Para No2=153 Shingle= ripp Index1=226 - Index2=226
+Para No1=152 - Para No2=153 Shingle=rippi Index1=227 - Index2=227
+Para No1=152 - Para No2=153 Shingle=ippin Index1=228 - Index2=228
+Para No1=152 - Para No2=153 Shingle=pping Index1=229 - Index2=229
+Para No1=152 - Para No2=153 Shingle=ping  Index1=230 - Index2=230
+Para No1=152 - Para No2=153 Shingle=ing t Index1=231 - Index2=231
+Para No1=152 - Para No2=153 Shingle=ng th Index1=232 - Index2=232
+Para No1=152 - Para No2=153 Shingle=g the Index1=233 - Index2=233
+Para No1=152 - Para No2=153 Shingle= the  Index1=234 - Index2=15
+Para No1=152 - Para No2=153 Shingle=the p Index1=235 - Index2=235
+Para No1=152 - Para No2=153 Shingle=he pa Index1=236 - Index2=236
+Para No1=152 - Para No2=153 Shingle=e pap Index1=237 - Index2=237
+Para No1=152 - Para No2=153 Shingle= pape Index1=238 - Index2=238
+Para No1=152 - Para No2=153 Shingle=paper Index1=239 - Index2=239
+Para No1=152 - Para No2=153 Shingle=aper  Index1=240 - Index2=240
+Para No1=152 - Para No2=153 Shingle=per o Index1=241 - Index2=241
+Para No1=152 - Para No2=153 Shingle=er of Index1=242 - Index2=242
+Para No1=152 - Para No2=153 Shingle=r off Index1=243 - Index2=243
+Para No1=152 - Para No2=153 Shingle= off  Index1=244 - Index2=244
+Para No1=152 - Para No2=153 Shingle=off a Index1=245 - Index2=245
+Para No1=152 - Para No2=153 Shingle=ff a  Index1=246 - Index2=246
+Para No1=152 - Para No2=153 Shingle=f a g Index1=247 - Index2=247
+Para No1=152 - Para No2=153 Shingle= a go Index1=248 - Index2=248
+Para No1=152 - Para No2=153 Shingle=a gol Index1=249 - Index2=249
+Para No1=152 - Para No2=153 Shingle= gold Index1=250 - Index2=250
+Para No1=152 - Para No2=153 Shingle=gold  Index1=251 - Index2=251
+Para No1=152 - Para No2=153 Shingle=old w Index1=252 - Index2=252
+Para No1=152 - Para No2=153 Shingle=ld wr Index1=253 - Index2=253
+Para No1=152 - Para No2=153 Shingle=d wri Index1=254 - Index2=254
+Para No1=152 - Para No2=153 Shingle= wris Index1=255 - Index2=255
+Para No1=152 - Para No2=153 Shingle=wrist Index1=256 - Index2=256
+Para No1=152 - Para No2=153 Shingle=ristw Index1=257 - Index2=257
+Para No1=152 - Para No2=153 Shingle=istwa Index1=258 - Index2=258
+Para No1=152 - Para No2=153 Shingle=stwat Index1=259 - Index2=259
+Para No1=152 - Para No2=153 Shingle=twatc Index1=260 - Index2=260
+Para No1=152 - Para No2=153 Shingle=watch Index1=261 - Index2=99
+Para No1=152 - Para No2=153 Shingle=atch  Index1=262 - Index2=262
+Para No1=152 - Para No2=153 Shingle=tch w Index1=263 - Index2=263
+Para No1=152 - Para No2=153 Shingle=ch wh Index1=264 - Index2=264
+Para No1=152 - Para No2=153 Shingle=h whe Index1=265 - Index2=265
+Para No1=152 - Para No2=153 Shingle= when Index1=266 - Index2=266
+Para No1=152 - Para No2=153 Shingle=when  Index1=267 - Index2=267
+Para No1=152 - Para No2=153 Shingle=hen A Index1=268 - Index2=268
+Para No1=152 - Para No2=153 Shingle=en Au Index1=269 - Index2=269
+Para No1=152 - Para No2=153 Shingle=n Aun Index1=270 - Index2=270
+Para No1=152 - Para No2=153 Shingle= Aunt Index1=271 - Index2=38
+Para No1=152 - Para No2=153 Shingle=Aunt  Index1=272 - Index2=39
+Para No1=152 - Para No2=153 Shingle=unt P Index1=273 - Index2=40
+Para No1=152 - Para No2=153 Shingle=nt Pe Index1=274 - Index2=41
+Para No1=152 - Para No2=153 Shingle=t Pet Index1=275 - Index2=42
+Para No1=152 - Para No2=153 Shingle= Petu Index1=276 - Index2=43
+Para No1=152 - Para No2=153 Shingle=Petun Index1=277 - Index2=44
+Para No1=152 - Para No2=153 Shingle=etuni Index1=278 - Index2=45
+Para No1=152 - Para No2=153 Shingle=tunia Index1=279 - Index2=46
+Para No1=152 - Para No2=153 Shingle=unia  Index1=280 - Index2=47
+Para No1=152 - Para No2=153 Shingle=nia c Index1=281 - Index2=281
+Para No1=152 - Para No2=153 Shingle=ia ca Index1=282 - Index2=282
+Para No1=152 - Para No2=153 Shingle=a cam Index1=283 - Index2=283
+Para No1=152 - Para No2=153 Shingle= came Index1=284 - Index2=145
+Para No1=152 - Para No2=153 Shingle=came  Index1=285 - Index2=285
+Para No1=152 - Para No2=153 Shingle=ame b Index1=286 - Index2=286
+Para No1=152 - Para No2=153 Shingle=me ba Index1=287 - Index2=287
+Para No1=152 - Para No2=153 Shingle=e bac Index1=288 - Index2=288
+Para No1=152 - Para No2=153 Shingle= back Index1=289 - Index2=289
+Para No1=152 - Para No2=153 Shingle=back  Index1=290 - Index2=290
+Para No1=152 - Para No2=153 Shingle=ack f Index1=291 - Index2=291
+Para No1=152 - Para No2=153 Shingle=ck fr Index1=292 - Index2=292
+Para No1=152 - Para No2=153 Shingle=k fro Index1=293 - Index2=293
+Para No1=152 - Para No2=153 Shingle= from Index1=294 - Index2=294
+Para No1=152 - Para No2=153 Shingle=from  Index1=295 - Index2=295
+Para No1=152 - Para No2=153 Shingle=rom t Index1=296 - Index2=296
+Para No1=152 - Para No2=153 Shingle=om th Index1=297 - Index2=297
+Para No1=152 - Para No2=153 Shingle=m the Index1=298 - Index2=298
+Para No1=152 - Para No2=153 Shingle= the  Index1=299 - Index2=15
+Para No1=152 - Para No2=153 Shingle=the t Index1=300 - Index2=16
+Para No1=152 - Para No2=153 Shingle=he te Index1=301 - Index2=17
+Para No1=152 - Para No2=153 Shingle=e tel Index1=302 - Index2=18
+Para No1=152 - Para No2=153 Shingle= tele Index1=303 - Index2=19
+Para No1=152 - Para No2=153 Shingle=telep Index1=304 - Index2=20
+Para No1=152 - Para No2=153 Shingle=eleph Index1=305 - Index2=21
+Para No1=152 - Para No2=153 Shingle=lepho Index1=306 - Index2=22
+Para No1=152 - Para No2=153 Shingle=ephon Index1=307 - Index2=23
+Para No1=152 - Para No2=153 Shingle=phone Index1=308 - Index2=24
+Para No1=152 - Para No2=153 Shingle=hone  Index1=309 - Index2=25
+Para No1=152 - Para No2=153 Shingle=one l Index1=310 - Index2=310
+Para No1=152 - Para No2=153 Shingle=ne lo Index1=311 - Index2=311
+Para No1=152 - Para No2=153 Shingle=e loo Index1=312 - Index2=312
+Para No1=152 - Para No2=153 Shingle= look Index1=313 - Index2=313
+Para No1=152 - Para No2=153 Shingle=looki Index1=314 - Index2=314
+Para No1=152 - Para No2=153 Shingle=ookin Index1=315 - Index2=315
+Para No1=152 - Para No2=153 Shingle=oking Index1=316 - Index2=316
+Para No1=152 - Para No2=153 Shingle=king  Index1=317 - Index2=317
+Para No1=152 - Para No2=153 Shingle=ing b Index1=318 - Index2=128
+Para No1=152 - Para No2=153 Shingle=ng bo Index1=319 - Index2=319
+Para No1=152 - Para No2=153 Shingle=g bot Index1=320 - Index2=320
+Para No1=152 - Para No2=153 Shingle= both Index1=321 - Index2=321
+Para No1=152 - Para No2=153 Shingle=both  Index1=322 - Index2=322
+Para No1=152 - Para No2=153 Shingle=oth a Index1=323 - Index2=323
+Para No1=152 - Para No2=153 Shingle=th an Index1=324 - Index2=324
+Para No1=152 - Para No2=153 Shingle=h ang Index1=325 - Index2=325
+Para No1=152 - Para No2=153 Shingle= angr Index1=326 - Index2=326
+Para No1=152 - Para No2=153 Shingle=angry Index1=327 - Index2=327
+Para No1=152 - Para No2=153 Shingle=ngry  Index1=328 - Index2=328
+Para No1=152 - Para No2=153 Shingle=gry a Index1=329 - Index2=329
+Para No1=152 - Para No2=153 Shingle=ry an Index1=330 - Index2=79
+Para No1=152 - Para No2=153 Shingle=y and Index1=331 - Index2=80
+Para No1=152 - Para No2=153 Shingle= and  Index1=332 - Index2=34
+Para No1=152 - Para No2=153 Shingle=and w Index1=333 - Index2=333
+Para No1=152 - Para No2=153 Shingle=nd wo Index1=334 - Index2=334
+Para No1=152 - Para No2=153 Shingle=d wor Index1=335 - Index2=335
+Para No1=152 - Para No2=153 Shingle= worr Index1=336 - Index2=336
+Para No1=152 - Para No2=153 Shingle=worri Index1=337 - Index2=337
+Para No1=152 - Para No2=153 Shingle=orrie Index1=338 - Index2=338
+Para No1=152 - Para No2=153 Shingle=rried Index1=339 - Index2=339
+Para No1=152 - Para No2=153 Shingle=ried. Index1=340 - Index2=340
+Para No1=152 - Para No2=153 Shingle=ied." Index1=341 - Index2=341
+-------------------------------------------
+Para No1=156 - Para No2=175 Shingle="In a Index1=0 - Index2=0
+Para No1=156 - Para No2=175 Shingle=In ad Index1=1 - Index2=1
+Para No1=156 - Para No2=175 Shingle=n add Index1=2 - Index2=2
+Para No1=156 - Para No2=175 Shingle= addi Index1=3 - Index2=3
+Para No1=156 - Para No2=175 Shingle=addit Index1=4 - Index2=4
+Para No1=156 - Para No2=175 Shingle=dditi Index1=5 - Index2=5
+Para No1=156 - Para No2=175 Shingle=ditio Index1=6 - Index2=6
+Para No1=156 - Para No2=175 Shingle=ition Index1=7 - Index2=7
+Para No1=156 - Para No2=175 Shingle=tion  Index1=8 - Index2=8
+Para No1=156 - Para No2=175 Shingle=ion t Index1=9 - Index2=9
+Para No1=156 - Para No2=175 Shingle=on to Index1=10 - Index2=10
+Para No1=156 - Para No2=175 Shingle=n to  Index1=11 - Index2=11
+Para No1=156 - Para No2=175 Shingle= to h Index1=12 - Index2=12
+Para No1=156 - Para No2=175 Shingle=to hi Index1=13 - Index2=13
+Para No1=156 - Para No2=175 Shingle=o his Index1=14 - Index2=14
+Para No1=156 - Para No2=175 Shingle= his  Index1=15 - Index2=15
+Para No1=156 - Para No2=175 Shingle=his l Index1=16 - Index2=16
+Para No1=156 - Para No2=175 Shingle=is la Index1=17 - Index2=17
+Para No1=156 - Para No2=175 Shingle=s law Index1=18 - Index2=18
+Para No1=156 - Para No2=175 Shingle= laws Index1=19 - Index2=19
+Para No1=156 - Para No2=175 Shingle=laws  Index1=20 - Index2=20
+Para No1=156 - Para No2=175 Shingle=aws o Index1=21 - Index2=21
+Para No1=156 - Para No2=175 Shingle=ws of Index1=22 - Index2=22
+Para No1=156 - Para No2=175 Shingle=s of  Index1=23 - Index2=23
+Para No1=156 - Para No2=175 Shingle= of m Index1=24 - Index2=24
+Para No1=156 - Para No2=175 Shingle=of mo Index1=25 - Index2=25
+Para No1=156 - Para No2=175 Shingle=f mot Index1=26 - Index2=26
+Para No1=156 - Para No2=175 Shingle= moti Index1=27 - Index2=27
+Para No1=156 - Para No2=175 Shingle=motio Index1=28 - Index2=28
+Para No1=156 - Para No2=175 Shingle=otion Index1=29 - Index2=29
+Para No1=156 - Para No2=175 Shingle=tion, Index1=30 - Index2=30
+Para No1=156 - Para No2=175 Shingle=ion,  Index1=31 - Index2=31
+Para No1=156 - Para No2=175 Shingle=on, N Index1=32 - Index2=32
+Para No1=156 - Para No2=175 Shingle=n, Ne Index1=33 - Index2=33
+Para No1=156 - Para No2=175 Shingle=, New Index1=34 - Index2=34
+Para No1=156 - Para No2=175 Shingle= Newt Index1=35 - Index2=35
+Para No1=156 - Para No2=175 Shingle=Newto Index1=36 - Index2=36
+Para No1=156 - Para No2=175 Shingle=ewton Index1=37 - Index2=37
+Para No1=156 - Para No2=175 Shingle=wton  Index1=38 - Index2=38
+Para No1=156 - Para No2=175 Shingle=ton d Index1=39 - Index2=39
+Para No1=156 - Para No2=175 Shingle=on di Index1=40 - Index2=40
+Para No1=156 - Para No2=175 Shingle=n dis Index1=41 - Index2=41
+Para No1=156 - Para No2=175 Shingle= disc Index1=42 - Index2=42
+Para No1=156 - Para No2=175 Shingle=disco Index1=43 - Index2=43
+Para No1=156 - Para No2=175 Shingle=iscov Index1=44 - Index2=44
+Para No1=156 - Para No2=175 Shingle=scove Index1=45 - Index2=45
+Para No1=156 - Para No2=175 Shingle=cover Index1=46 - Index2=46
+Para No1=156 - Para No2=175 Shingle=overe Index1=47 - Index2=47
+Para No1=156 - Para No2=175 Shingle=vered Index1=48 - Index2=48
+Para No1=156 - Para No2=175 Shingle=ered  Index1=49 - Index2=49
+Para No1=156 - Para No2=175 Shingle=red a Index1=50 - Index2=50
+Para No1=156 - Para No2=175 Shingle=ed a  Index1=51 - Index2=51
+Para No1=156 - Para No2=175 Shingle=d a l Index1=52 - Index2=52
+Para No1=156 - Para No2=175 Shingle= a la Index1=53 - Index2=53
+Para No1=156 - Para No2=175 Shingle=a law Index1=54 - Index2=54
+Para No1=156 - Para No2=175 Shingle= law  Index1=55 - Index2=55
+Para No1=156 - Para No2=175 Shingle=law t Index1=56 - Index2=56
+Para No1=156 - Para No2=175 Shingle=aw to Index1=57 - Index2=57
+Para No1=156 - Para No2=175 Shingle=w to  Index1=58 - Index2=58
+Para No1=156 - Para No2=175 Shingle= to d Index1=59 - Index2=59
+Para No1=156 - Para No2=175 Shingle=to de Index1=60 - Index2=60
+Para No1=156 - Para No2=175 Shingle=o des Index1=61 - Index2=61
+Para No1=156 - Para No2=175 Shingle= desc Index1=62 - Index2=62
+Para No1=156 - Para No2=175 Shingle=descr Index1=63 - Index2=63
+Para No1=156 - Para No2=175 Shingle=escri Index1=64 - Index2=64
+Para No1=156 - Para No2=175 Shingle=scrib Index1=65 - Index2=65
+Para No1=156 - Para No2=175 Shingle=cribe Index1=66 - Index2=66
+Para No1=156 - Para No2=175 Shingle=ribe  Index1=67 - Index2=67
+Para No1=156 - Para No2=175 Shingle=ibe t Index1=68 - Index2=68
+Para No1=156 - Para No2=175 Shingle=be th Index1=69 - Index2=69
+Para No1=156 - Para No2=175 Shingle=e the Index1=70 - Index2=70
+Para No1=156 - Para No2=175 Shingle= the  Index1=71 - Index2=71
+Para No1=156 - Para No2=175 Shingle=the f Index1=72 - Index2=72
+Para No1=156 - Para No2=175 Shingle=he fo Index1=73 - Index2=73
+Para No1=156 - Para No2=175 Shingle=e for Index1=74 - Index2=74
+Para No1=156 - Para No2=175 Shingle= forc Index1=75 - Index2=75
+Para No1=156 - Para No2=175 Shingle=force Index1=76 - Index2=76
+Para No1=156 - Para No2=175 Shingle=orce  Index1=77 - Index2=77
+Para No1=156 - Para No2=175 Shingle=rce o Index1=78 - Index2=78
+Para No1=156 - Para No2=175 Shingle=ce of Index1=79 - Index2=79
+Para No1=156 - Para No2=175 Shingle=e of  Index1=80 - Index2=80
+Para No1=156 - Para No2=175 Shingle= of g Index1=81 - Index2=81
+Para No1=156 - Para No2=175 Shingle=of gr Index1=82 - Index2=82
+Para No1=156 - Para No2=175 Shingle=f gra Index1=83 - Index2=83
+Para No1=156 - Para No2=175 Shingle= grav Index1=84 - Index2=84
+Para No1=156 - Para No2=175 Shingle=gravi Index1=85 - Index2=85
+Para No1=156 - Para No2=175 Shingle=ravit Index1=86 - Index2=86
+Para No1=156 - Para No2=175 Shingle=avity Index1=87 - Index2=87
+Para No1=156 - Para No2=175 Shingle=vity, Index1=88 - Index2=88
+Para No1=156 - Para No2=175 Shingle=ity,  Index1=89 - Index2=89
+Para No1=156 - Para No2=175 Shingle=ty, w Index1=90 - Index2=90
+Para No1=156 - Para No2=175 Shingle=y, wh Index1=91 - Index2=91
+Para No1=156 - Para No2=175 Shingle=, whi Index1=92 - Index2=92
+Para No1=156 - Para No2=175 Shingle= whic Index1=93 - Index2=93
+Para No1=156 - Para No2=175 Shingle=which Index1=94 - Index2=94
+Para No1=156 - Para No2=175 Shingle=hich  Index1=95 - Index2=95
+Para No1=156 - Para No2=175 Shingle=ich s Index1=96 - Index2=96
+Para No1=156 - Para No2=175 Shingle=ch st Index1=97 - Index2=97
+Para No1=156 - Para No2=175 Shingle=h sta Index1=98 - Index2=98
+Para No1=156 - Para No2=175 Shingle= stat Index1=99 - Index2=99
+Para No1=156 - Para No2=175 Shingle=state Index1=100 - Index2=100
+Para No1=156 - Para No2=175 Shingle=tates Index1=101 - Index2=101
+Para No1=156 - Para No2=175 Shingle=ates  Index1=102 - Index2=102
+Para No1=156 - Para No2=175 Shingle=tes t Index1=103 - Index2=103
+Para No1=156 - Para No2=175 Shingle=es th Index1=104 - Index2=104
+Para No1=156 - Para No2=175 Shingle=s tha Index1=105 - Index2=105
+Para No1=156 - Para No2=175 Shingle= that Index1=106 - Index2=106
+Para No1=156 - Para No2=175 Shingle=that  Index1=107 - Index2=107
+Para No1=156 - Para No2=175 Shingle=hat e Index1=108 - Index2=108
+Para No1=156 - Para No2=175 Shingle=at ev Index1=109 - Index2=109
+Para No1=156 - Para No2=175 Shingle=t eve Index1=110 - Index2=110
+Para No1=156 - Para No2=175 Shingle= ever Index1=111 - Index2=111
+Para No1=156 - Para No2=175 Shingle=every Index1=112 - Index2=112
+Para No1=156 - Para No2=175 Shingle=very  Index1=113 - Index2=113
+Para No1=156 - Para No2=175 Shingle=ery b Index1=114 - Index2=114
+Para No1=156 - Para No2=175 Shingle=ry bo Index1=115 - Index2=115
+Para No1=156 - Para No2=175 Shingle=y bod Index1=116 - Index2=116
+Para No1=156 - Para No2=175 Shingle= body Index1=117 - Index2=117
+Para No1=156 - Para No2=175 Shingle=body  Index1=118 - Index2=118
+Para No1=156 - Para No2=175 Shingle=ody a Index1=119 - Index2=119
+Para No1=156 - Para No2=175 Shingle=dy at Index1=120 - Index2=120
+Para No1=156 - Para No2=175 Shingle=y att Index1=121 - Index2=121
+Para No1=156 - Para No2=175 Shingle= attr Index1=122 - Index2=122
+Para No1=156 - Para No2=175 Shingle=attra Index1=123 - Index2=123
+Para No1=156 - Para No2=175 Shingle=ttrac Index1=124 - Index2=124
+Para No1=156 - Para No2=175 Shingle=tract Index1=125 - Index2=125
+Para No1=156 - Para No2=175 Shingle=racts Index1=126 - Index2=126
+Para No1=156 - Para No2=175 Shingle=acts  Index1=127 - Index2=127
+Para No1=156 - Para No2=175 Shingle=cts e Index1=128 - Index2=128
+Para No1=156 - Para No2=175 Shingle=ts ev Index1=129 - Index2=129
+Para No1=156 - Para No2=175 Shingle=s eve Index1=130 - Index2=130
+Para No1=156 - Para No2=175 Shingle= ever Index1=131 - Index2=111
+Para No1=156 - Para No2=175 Shingle=every Index1=132 - Index2=112
+Para No1=156 - Para No2=175 Shingle=very  Index1=133 - Index2=113
+Para No1=156 - Para No2=175 Shingle=ery o Index1=134 - Index2=134
+Para No1=156 - Para No2=175 Shingle=ry ot Index1=135 - Index2=135
+Para No1=156 - Para No2=175 Shingle=y oth Index1=136 - Index2=136
+Para No1=156 - Para No2=175 Shingle= othe Index1=137 - Index2=137
+Para No1=156 - Para No2=175 Shingle=other Index1=138 - Index2=138
+Para No1=156 - Para No2=175 Shingle=ther  Index1=139 - Index2=139
+Para No1=156 - Para No2=175 Shingle=her b Index1=140 - Index2=140
+Para No1=156 - Para No2=175 Shingle=er bo Index1=141 - Index2=141
+Para No1=156 - Para No2=175 Shingle=r bod Index1=142 - Index2=142
+Para No1=156 - Para No2=175 Shingle= body Index1=143 - Index2=117
+Para No1=156 - Para No2=175 Shingle=body  Index1=144 - Index2=118
+Para No1=156 - Para No2=175 Shingle=ody w Index1=145 - Index2=145
+Para No1=156 - Para No2=175 Shingle=dy wi Index1=146 - Index2=146
+Para No1=156 - Para No2=175 Shingle=y wit Index1=147 - Index2=147
+Para No1=156 - Para No2=175 Shingle= with Index1=148 - Index2=148
+Para No1=156 - Para No2=175 Shingle=with  Index1=149 - Index2=149
+Para No1=156 - Para No2=175 Shingle=ith a Index1=150 - Index2=150
+Para No1=156 - Para No2=175 Shingle=th a  Index1=151 - Index2=151
+Para No1=156 - Para No2=175 Shingle=h a f Index1=152 - Index2=152
+Para No1=156 - Para No2=175 Shingle= a fo Index1=153 - Index2=153
+Para No1=156 - Para No2=175 Shingle=a for Index1=154 - Index2=154
+Para No1=156 - Para No2=175 Shingle= forc Index1=155 - Index2=75
+Para No1=156 - Para No2=175 Shingle=force Index1=156 - Index2=76
+Para No1=156 - Para No2=175 Shingle=orce  Index1=157 - Index2=77
+Para No1=156 - Para No2=175 Shingle=rce t Index1=158 - Index2=158
+Para No1=156 - Para No2=175 Shingle=ce th Index1=159 - Index2=159
+Para No1=156 - Para No2=175 Shingle=e tha Index1=160 - Index2=160
+Para No1=156 - Para No2=175 Shingle= that Index1=161 - Index2=106
+Para No1=156 - Para No2=175 Shingle=that  Index1=162 - Index2=107
+Para No1=156 - Para No2=175 Shingle=hat i Index1=163 - Index2=163
+Para No1=156 - Para No2=175 Shingle=at is Index1=164 - Index2=164
+Para No1=156 - Para No2=175 Shingle=t is  Index1=165 - Index2=165
+Para No1=156 - Para No2=175 Shingle= is p Index1=166 - Index2=166
+Para No1=156 - Para No2=175 Shingle=is pr Index1=167 - Index2=167
+Para No1=156 - Para No2=175 Shingle=s pro Index1=168 - Index2=168
+Para No1=156 - Para No2=175 Shingle= prop Index1=169 - Index2=169
+Para No1=156 - Para No2=175 Shingle=propo Index1=170 - Index2=170
+Para No1=156 - Para No2=175 Shingle=ropor Index1=171 - Index2=171
+Para No1=156 - Para No2=175 Shingle=oport Index1=172 - Index2=172
+Para No1=156 - Para No2=175 Shingle=porti Index1=173 - Index2=173
+Para No1=156 - Para No2=175 Shingle=ortio Index1=174 - Index2=174
+Para No1=156 - Para No2=175 Shingle=rtion Index1=175 - Index2=175
+Para No1=156 - Para No2=175 Shingle=tiona Index1=176 - Index2=176
+Para No1=156 - Para No2=175 Shingle=ional Index1=177 - Index2=177
+Para No1=156 - Para No2=175 Shingle=onal  Index1=178 - Index2=178
+Para No1=156 - Para No2=175 Shingle=nal t Index1=179 - Index2=179
+Para No1=156 - Para No2=175 Shingle=al to Index1=180 - Index2=180
+Para No1=156 - Para No2=175 Shingle=l to  Index1=181 - Index2=181
+Para No1=156 - Para No2=175 Shingle= to t Index1=182 - Index2=182
+Para No1=156 - Para No2=175 Shingle=to th Index1=183 - Index2=183
+Para No1=156 - Para No2=175 Shingle=o the Index1=184 - Index2=184
+Para No1=156 - Para No2=175 Shingle= the  Index1=185 - Index2=71
+Para No1=156 - Para No2=175 Shingle=the m Index1=186 - Index2=186
+Para No1=156 - Para No2=175 Shingle=he ma Index1=187 - Index2=187
+Para No1=156 - Para No2=175 Shingle=e mas Index1=188 - Index2=188
+Para No1=156 - Para No2=175 Shingle= mass Index1=189 - Index2=189
+Para No1=156 - Para No2=175 Shingle=mass  Index1=190 - Index2=190
+Para No1=156 - Para No2=175 Shingle=ass o Index1=191 - Index2=191
+Para No1=156 - Para No2=175 Shingle=ss of Index1=192 - Index2=192
+Para No1=156 - Para No2=175 Shingle=s of  Index1=193 - Index2=23
+Para No1=156 - Para No2=175 Shingle= of e Index1=194 - Index2=194
+Para No1=156 - Para No2=175 Shingle=of ea Index1=195 - Index2=195
+Para No1=156 - Para No2=175 Shingle=f eac Index1=196 - Index2=196
+Para No1=156 - Para No2=175 Shingle= each Index1=197 - Index2=197
+Para No1=156 - Para No2=175 Shingle=each  Index1=198 - Index2=198
+Para No1=156 - Para No2=175 Shingle=ach b Index1=199 - Index2=199
+Para No1=156 - Para No2=175 Shingle=ch bo Index1=200 - Index2=200
+Para No1=156 - Para No2=175 Shingle=h bod Index1=201 - Index2=201
+Para No1=156 - Para No2=175 Shingle= body Index1=202 - Index2=117
+Para No1=156 - Para No2=175 Shingle=body. Index1=203 - Index2=203
+Para No1=156 - Para No2=175 Shingle=ody.  Index1=204 - Index2=204
+Para No1=156 - Para No2=175 Shingle=dy. T Index1=205 - Index2=205
+Para No1=156 - Para No2=175 Shingle=y. Th Index1=206 - Index2=206
+Para No1=156 - Para No2=175 Shingle=. Thu Index1=207 - Index2=207
+Para No1=156 - Para No2=175 Shingle= Thus Index1=208 - Index2=208
+Para No1=156 - Para No2=175 Shingle=Thus  Index1=209 - Index2=209
+Para No1=156 - Para No2=175 Shingle=hus t Index1=210 - Index2=210
+Para No1=156 - Para No2=175 Shingle=us th Index1=211 - Index2=211
+Para No1=156 - Para No2=175 Shingle=s the Index1=212 - Index2=212
+Para No1=156 - Para No2=175 Shingle= the  Index1=213 - Index2=71
+Para No1=156 - Para No2=175 Shingle=the f Index1=214 - Index2=72
+Para No1=156 - Para No2=175 Shingle=he fo Index1=215 - Index2=73
+Para No1=156 - Para No2=175 Shingle=e for Index1=216 - Index2=74
+Para No1=156 - Para No2=175 Shingle= forc Index1=217 - Index2=75
+Para No1=156 - Para No2=175 Shingle=force Index1=218 - Index2=76
+Para No1=156 - Para No2=175 Shingle=orce  Index1=219 - Index2=77
+Para No1=156 - Para No2=175 Shingle=rce b Index1=220 - Index2=220
+Para No1=156 - Para No2=175 Shingle=ce be Index1=221 - Index2=221
+Para No1=156 - Para No2=175 Shingle=e bet Index1=222 - Index2=222
+Para No1=156 - Para No2=175 Shingle= betw Index1=223 - Index2=223
+Para No1=156 - Para No2=175 Shingle=betwe Index1=224 - Index2=224
+Para No1=156 - Para No2=175 Shingle=etwee Index1=225 - Index2=225
+Para No1=156 - Para No2=175 Shingle=tween Index1=226 - Index2=226
+Para No1=156 - Para No2=175 Shingle=ween  Index1=227 - Index2=227
+Para No1=156 - Para No2=175 Shingle=een t Index1=228 - Index2=228
+Para No1=156 - Para No2=175 Shingle=en tw Index1=229 - Index2=229
+Para No1=156 - Para No2=175 Shingle=n two Index1=230 - Index2=230
+Para No1=156 - Para No2=175 Shingle= two  Index1=231 - Index2=231
+Para No1=156 - Para No2=175 Shingle=two b Index1=232 - Index2=232
+Para No1=156 - Para No2=175 Shingle=wo bo Index1=233 - Index2=233
+Para No1=156 - Para No2=175 Shingle=o bod Index1=234 - Index2=234
+Para No1=156 - Para No2=175 Shingle= bodi Index1=235 - Index2=235
+Para No1=156 - Para No2=175 Shingle=bodie Index1=236 - Index2=236
+Para No1=156 - Para No2=175 Shingle=odies Index1=237 - Index2=237
+Para No1=156 - Para No2=175 Shingle=dies  Index1=238 - Index2=238
+Para No1=156 - Para No2=175 Shingle=ies w Index1=239 - Index2=239
+Para No1=156 - Para No2=175 Shingle=es wo Index1=240 - Index2=240
+Para No1=156 - Para No2=175 Shingle=s wou Index1=241 - Index2=241
+Para No1=156 - Para No2=175 Shingle= woul Index1=242 - Index2=242
+Para No1=156 - Para No2=175 Shingle=would Index1=243 - Index2=243
+Para No1=156 - Para No2=175 Shingle=ould  Index1=244 - Index2=244
+Para No1=156 - Para No2=175 Shingle=uld b Index1=245 - Index2=245
+Para No1=156 - Para No2=175 Shingle=ld be Index1=246 - Index2=246
+Para No1=156 - Para No2=175 Shingle=d be  Index1=247 - Index2=247
+Para No1=156 - Para No2=175 Shingle= be t Index1=248 - Index2=248
+Para No1=156 - Para No2=175 Shingle=be tw Index1=249 - Index2=249
+Para No1=156 - Para No2=175 Shingle=e twi Index1=250 - Index2=250
+Para No1=156 - Para No2=175 Shingle= twic Index1=251 - Index2=251
+Para No1=156 - Para No2=175 Shingle=twice Index1=252 - Index2=252
+Para No1=156 - Para No2=175 Shingle=wice  Index1=253 - Index2=253
+Para No1=156 - Para No2=175 Shingle=ice a Index1=254 - Index2=254
+Para No1=156 - Para No2=175 Shingle=ce as Index1=255 - Index2=255
+Para No1=156 - Para No2=175 Shingle=e as  Index1=256 - Index2=256
+Para No1=156 - Para No2=175 Shingle= as s Index1=257 - Index2=257
+Para No1=156 - Para No2=175 Shingle=as st Index1=258 - Index2=258
+Para No1=156 - Para No2=175 Shingle=s str Index1=259 - Index2=259
+Para No1=156 - Para No2=175 Shingle= stro Index1=260 - Index2=260
+Para No1=156 - Para No2=175 Shingle=stron Index1=261 - Index2=261
+Para No1=156 - Para No2=175 Shingle=trong Index1=262 - Index2=262
+Para No1=156 - Para No2=175 Shingle=rong  Index1=263 - Index2=263
+Para No1=156 - Para No2=175 Shingle=ong i Index1=264 - Index2=264
+Para No1=156 - Para No2=175 Shingle=ng if Index1=265 - Index2=265
+Para No1=156 - Para No2=175 Shingle=g if  Index1=266 - Index2=266
+Para No1=156 - Para No2=175 Shingle= if o Index1=267 - Index2=267
+Para No1=156 - Para No2=175 Shingle=if on Index1=268 - Index2=268
+Para No1=156 - Para No2=175 Shingle=f one Index1=269 - Index2=269
+Para No1=156 - Para No2=175 Shingle= one  Index1=270 - Index2=270
+Para No1=156 - Para No2=175 Shingle=one o Index1=271 - Index2=271
+Para No1=156 - Para No2=175 Shingle=ne of Index1=272 - Index2=272
+Para No1=156 - Para No2=175 Shingle=e of  Index1=273 - Index2=80
+Para No1=156 - Para No2=175 Shingle= of t Index1=274 - Index2=274
+Para No1=156 - Para No2=175 Shingle=of th Index1=275 - Index2=275
+Para No1=156 - Para No2=175 Shingle=f the Index1=276 - Index2=276
+Para No1=156 - Para No2=175 Shingle= the  Index1=277 - Index2=71
+Para No1=156 - Para No2=175 Shingle=the b Index1=278 - Index2=278
+Para No1=156 - Para No2=175 Shingle=he bo Index1=279 - Index2=279
+Para No1=156 - Para No2=175 Shingle=e bod Index1=280 - Index2=280
+Para No1=156 - Para No2=175 Shingle= bodi Index1=281 - Index2=235
+Para No1=156 - Para No2=175 Shingle=bodie Index1=282 - Index2=236
+Para No1=156 - Para No2=175 Shingle=odies Index1=283 - Index2=237
+Para No1=156 - Para No2=175 Shingle=dies  Index1=284 - Index2=238
+Para No1=156 - Para No2=175 Shingle=ies ( Index1=285 - Index2=285
+Para No1=156 - Para No2=175 Shingle=es (s Index1=286 - Index2=286
+Para No1=156 - Para No2=175 Shingle=s (sa Index1=287 - Index2=287
+Para No1=156 - Para No2=175 Shingle= (say Index1=288 - Index2=288
+Para No1=156 - Para No2=175 Shingle=(say, Index1=289 - Index2=289
+Para No1=156 - Para No2=175 Shingle=say,  Index1=290 - Index2=290
+Para No1=156 - Para No2=175 Shingle=ay, b Index1=291 - Index2=291
+Para No1=156 - Para No2=175 Shingle=y, bo Index1=292 - Index2=292
+Para No1=156 - Para No2=175 Shingle=, bod Index1=293 - Index2=293
+Para No1=156 - Para No2=175 Shingle= body Index1=294 - Index2=117
+Para No1=156 - Para No2=175 Shingle=body  Index1=295 - Index2=118
+Para No1=156 - Para No2=175 Shingle=ody A Index1=296 - Index2=296
+Para No1=156 - Para No2=175 Shingle=dy A) Index1=297 - Index2=297
+Para No1=156 - Para No2=175 Shingle=y A)  Index1=298 - Index2=298
+Para No1=156 - Para No2=175 Shingle= A) h Index1=299 - Index2=299
+Para No1=156 - Para No2=175 Shingle=A) ha Index1=300 - Index2=300
+Para No1=156 - Para No2=175 Shingle=) had Index1=301 - Index2=301
+Para No1=156 - Para No2=175 Shingle= had  Index1=302 - Index2=302
+Para No1=156 - Para No2=175 Shingle=had i Index1=303 - Index2=303
+Para No1=156 - Para No2=175 Shingle=ad it Index1=304 - Index2=304
+Para No1=156 - Para No2=175 Shingle=d its Index1=305 - Index2=305
+Para No1=156 - Para No2=175 Shingle= its  Index1=306 - Index2=306
+Para No1=156 - Para No2=175 Shingle=its m Index1=307 - Index2=307
+Para No1=156 - Para No2=175 Shingle=ts ma Index1=308 - Index2=308
+Para No1=156 - Para No2=175 Shingle=s mas Index1=309 - Index2=309
+Para No1=156 - Para No2=175 Shingle= mass Index1=310 - Index2=189
+Para No1=156 - Para No2=175 Shingle=mass  Index1=311 - Index2=190
+Para No1=156 - Para No2=175 Shingle=ass d Index1=312 - Index2=312
+Para No1=156 - Para No2=175 Shingle=ss do Index1=313 - Index2=313
+Para No1=156 - Para No2=175 Shingle=s dou Index1=314 - Index2=314
+Para No1=156 - Para No2=175 Shingle= doub Index1=315 - Index2=315
+Para No1=156 - Para No2=175 Shingle=doubl Index1=316 - Index2=316
+Para No1=156 - Para No2=175 Shingle=ouble Index1=317 - Index2=317
+Para No1=156 - Para No2=175 Shingle=ubled Index1=318 - Index2=318
+Para No1=156 - Para No2=175 Shingle=bled. Index1=319 - Index2=319
+Para No1=156 - Para No2=175 Shingle=led." Index1=320 - Index2=320
+-------------------------------------------
+Para No1=392 - Para No2=397 Shingle="In 1 Index1=0 - Index2=0
+Para No1=392 - Para No2=397 Shingle=In 19 Index1=1 - Index2=1
+Para No1=392 - Para No2=397 Shingle=n 196 Index1=2 - Index2=2
+Para No1=392 - Para No2=397 Shingle= 1965 Index1=3 - Index2=3
+Para No1=392 - Para No2=397 Shingle=1965  Index1=4 - Index2=4
+Para No1=392 - Para No2=397 Shingle=965 t Index1=5 - Index2=5
+Para No1=392 - Para No2=397 Shingle=65 tw Index1=6 - Index2=6
+Para No1=392 - Para No2=397 Shingle=5 two Index1=7 - Index2=7
+Para No1=392 - Para No2=397 Shingle= two  Index1=8 - Index2=8
+Para No1=392 - Para No2=397 Shingle=two A Index1=9 - Index2=9
+Para No1=392 - Para No2=397 Shingle=wo Am Index1=10 - Index2=10
+Para No1=392 - Para No2=397 Shingle=o Ame Index1=11 - Index2=11
+Para No1=392 - Para No2=397 Shingle= Amer Index1=12 - Index2=12
+Para No1=392 - Para No2=397 Shingle=Ameri Index1=13 - Index2=13
+Para No1=392 - Para No2=397 Shingle=meric Index1=14 - Index2=14
+Para No1=392 - Para No2=397 Shingle=erica Index1=15 - Index2=15
+Para No1=392 - Para No2=397 Shingle=rican Index1=16 - Index2=16
+Para No1=392 - Para No2=397 Shingle=ican  Index1=17 - Index2=17
+Para No1=392 - Para No2=397 Shingle=can p Index1=18 - Index2=18
+Para No1=392 - Para No2=397 Shingle=an ph Index1=19 - Index2=19
+Para No1=392 - Para No2=397 Shingle=n phy Index1=20 - Index2=20
+Para No1=392 - Para No2=397 Shingle= phys Index1=21 - Index2=21
+Para No1=392 - Para No2=397 Shingle=physi Index1=22 - Index2=22
+Para No1=392 - Para No2=397 Shingle=hysic Index1=23 - Index2=23
+Para No1=392 - Para No2=397 Shingle=ysici Index1=24 - Index2=24
+Para No1=392 - Para No2=397 Shingle=sicis Index1=25 - Index2=25
+Para No1=392 - Para No2=397 Shingle=icist Index1=26 - Index2=26
+Para No1=392 - Para No2=397 Shingle=cists Index1=27 - Index2=27
+Para No1=392 - Para No2=397 Shingle=ists  Index1=28 - Index2=28
+Para No1=392 - Para No2=397 Shingle=sts a Index1=29 - Index2=29
+Para No1=392 - Para No2=397 Shingle=ts at Index1=30 - Index2=30
+Para No1=392 - Para No2=397 Shingle=s at  Index1=31 - Index2=31
+Para No1=392 - Para No2=397 Shingle= at t Index1=32 - Index2=32
+Para No1=392 - Para No2=397 Shingle=at th Index1=33 - Index2=33
+Para No1=392 - Para No2=397 Shingle=t the Index1=34 - Index2=34
+Para No1=392 - Para No2=397 Shingle= the  Index1=35 - Index2=35
+Para No1=392 - Para No2=397 Shingle=the B Index1=36 - Index2=36
+Para No1=392 - Para No2=397 Shingle=he Be Index1=37 - Index2=37
+Para No1=392 - Para No2=397 Shingle=e Bel Index1=38 - Index2=38
+Para No1=392 - Para No2=397 Shingle= Bell Index1=39 - Index2=39
+Para No1=392 - Para No2=397 Shingle=Bell  Index1=40 - Index2=40
+Para No1=392 - Para No2=397 Shingle=ell T Index1=41 - Index2=41
+Para No1=392 - Para No2=397 Shingle=ll Te Index1=42 - Index2=42
+Para No1=392 - Para No2=397 Shingle=l Tel Index1=43 - Index2=43
+Para No1=392 - Para No2=397 Shingle= Tele Index1=44 - Index2=44
+Para No1=392 - Para No2=397 Shingle=Telep Index1=45 - Index2=45
+Para No1=392 - Para No2=397 Shingle=eleph Index1=46 - Index2=46
+Para No1=392 - Para No2=397 Shingle=lepho Index1=47 - Index2=47
+Para No1=392 - Para No2=397 Shingle=ephon Index1=48 - Index2=48
+Para No1=392 - Para No2=397 Shingle=phone Index1=49 - Index2=49
+Para No1=392 - Para No2=397 Shingle=hone  Index1=50 - Index2=50
+Para No1=392 - Para No2=397 Shingle=one L Index1=51 - Index2=51
+Para No1=392 - Para No2=397 Shingle=ne La Index1=52 - Index2=52
+Para No1=392 - Para No2=397 Shingle=e Lab Index1=53 - Index2=53
+Para No1=392 - Para No2=397 Shingle= Labo Index1=54 - Index2=54
+Para No1=392 - Para No2=397 Shingle=Labor Index1=55 - Index2=55
+Para No1=392 - Para No2=397 Shingle=abora Index1=56 - Index2=56
+Para No1=392 - Para No2=397 Shingle=borat Index1=57 - Index2=57
+Para No1=392 - Para No2=397 Shingle=orato Index1=58 - Index2=58
+Para No1=392 - Para No2=397 Shingle=rator Index1=59 - Index2=59
+Para No1=392 - Para No2=397 Shingle=atori Index1=60 - Index2=60
+Para No1=392 - Para No2=397 Shingle=torie Index1=61 - Index2=61
+Para No1=392 - Para No2=397 Shingle=ories Index1=62 - Index2=62
+Para No1=392 - Para No2=397 Shingle=ries  Index1=63 - Index2=63
+Para No1=392 - Para No2=397 Shingle=ies i Index1=64 - Index2=64
+Para No1=392 - Para No2=397 Shingle=es in Index1=65 - Index2=65
+Para No1=392 - Para No2=397 Shingle=s in  Index1=66 - Index2=66
+Para No1=392 - Para No2=397 Shingle= in N Index1=67 - Index2=67
+Para No1=392 - Para No2=397 Shingle=in Ne Index1=68 - Index2=68
+Para No1=392 - Para No2=397 Shingle=n New Index1=69 - Index2=69
+Para No1=392 - Para No2=397 Shingle= New  Index1=70 - Index2=70
+Para No1=392 - Para No2=397 Shingle=New J Index1=71 - Index2=71
+Para No1=392 - Para No2=397 Shingle=ew Je Index1=72 - Index2=72
+Para No1=392 - Para No2=397 Shingle=w Jer Index1=73 - Index2=73
+Para No1=392 - Para No2=397 Shingle= Jers Index1=74 - Index2=74
+Para No1=392 - Para No2=397 Shingle=Jerse Index1=75 - Index2=75
+Para No1=392 - Para No2=397 Shingle=ersey Index1=76 - Index2=76
+Para No1=392 - Para No2=397 Shingle=rsey, Index1=77 - Index2=77
+Para No1=392 - Para No2=397 Shingle=sey,  Index1=78 - Index2=78
+Para No1=392 - Para No2=397 Shingle=ey, A Index1=79 - Index2=79
+Para No1=392 - Para No2=397 Shingle=y, Ar Index1=80 - Index2=80
+Para No1=392 - Para No2=397 Shingle=, Arn Index1=81 - Index2=81
+Para No1=392 - Para No2=397 Shingle= Arno Index1=82 - Index2=82
+Para No1=392 - Para No2=397 Shingle=Arno  Index1=83 - Index2=83
+Para No1=392 - Para No2=397 Shingle=rno P Index1=84 - Index2=84
+Para No1=392 - Para No2=397 Shingle=no Pe Index1=85 - Index2=85
+Para No1=392 - Para No2=397 Shingle=o Pen Index1=86 - Index2=86
+Para No1=392 - Para No2=397 Shingle= Penz Index1=87 - Index2=87
+Para No1=392 - Para No2=397 Shingle=Penzi Index1=88 - Index2=88
+Para No1=392 - Para No2=397 Shingle=enzia Index1=89 - Index2=89
+Para No1=392 - Para No2=397 Shingle=nzias Index1=90 - Index2=90
+Para No1=392 - Para No2=397 Shingle=zias  Index1=91 - Index2=91
+Para No1=392 - Para No2=397 Shingle=ias a Index1=92 - Index2=92
+Para No1=392 - Para No2=397 Shingle=as an Index1=93 - Index2=93
+Para No1=392 - Para No2=397 Shingle=s and Index1=94 - Index2=94
+Para No1=392 - Para No2=397 Shingle= and  Index1=95 - Index2=95
+Para No1=392 - Para No2=397 Shingle=and R Index1=96 - Index2=96
+Para No1=392 - Para No2=397 Shingle=nd Ro Index1=97 - Index2=97
+Para No1=392 - Para No2=397 Shingle=d Rob Index1=98 - Index2=98
+Para No1=392 - Para No2=397 Shingle= Robe Index1=99 - Index2=99
+Para No1=392 - Para No2=397 Shingle=Rober Index1=100 - Index2=100
+Para No1=392 - Para No2=397 Shingle=obert Index1=101 - Index2=101
+Para No1=392 - Para No2=397 Shingle=bert  Index1=102 - Index2=102
+Para No1=392 - Para No2=397 Shingle=ert W Index1=103 - Index2=103
+Para No1=392 - Para No2=397 Shingle=rt Wi Index1=104 - Index2=104
+Para No1=392 - Para No2=397 Shingle=t Wil Index1=105 - Index2=105
+Para No1=392 - Para No2=397 Shingle= Wils Index1=106 - Index2=106
+Para No1=392 - Para No2=397 Shingle=Wilso Index1=107 - Index2=107
+Para No1=392 - Para No2=397 Shingle=ilson Index1=108 - Index2=108
+Para No1=392 - Para No2=397 Shingle=lson, Index1=109 - Index2=109
+Para No1=392 - Para No2=397 Shingle=son,  Index1=110 - Index2=110
+Para No1=392 - Para No2=397 Shingle=on, w Index1=111 - Index2=111
+Para No1=392 - Para No2=397 Shingle=n, we Index1=112 - Index2=112
+Para No1=392 - Para No2=397 Shingle=, wer Index1=113 - Index2=113
+Para No1=392 - Para No2=397 Shingle= were Index1=114 - Index2=114
+Para No1=392 - Para No2=397 Shingle=were  Index1=115 - Index2=115
+Para No1=392 - Para No2=397 Shingle=ere t Index1=116 - Index2=116
+Para No1=392 - Para No2=397 Shingle=re te Index1=117 - Index2=117
+Para No1=392 - Para No2=397 Shingle=e tes Index1=118 - Index2=118
+Para No1=392 - Para No2=397 Shingle= test Index1=119 - Index2=119
+Para No1=392 - Para No2=397 Shingle=testi Index1=120 - Index2=120
+Para No1=392 - Para No2=397 Shingle=estin Index1=121 - Index2=121
+Para No1=392 - Para No2=397 Shingle=sting Index1=122 - Index2=122
+Para No1=392 - Para No2=397 Shingle=ting  Index1=123 - Index2=123
+Para No1=392 - Para No2=397 Shingle=ing a Index1=124 - Index2=124
+Para No1=392 - Para No2=397 Shingle=ng a  Index1=125 - Index2=125
+Para No1=392 - Para No2=397 Shingle=g a v Index1=126 - Index2=126
+Para No1=392 - Para No2=397 Shingle= a ve Index1=127 - Index2=127
+Para No1=392 - Para No2=397 Shingle=a ver Index1=128 - Index2=128
+Para No1=392 - Para No2=397 Shingle= very Index1=129 - Index2=129
+Para No1=392 - Para No2=397 Shingle=very  Index1=130 - Index2=130
+Para No1=392 - Para No2=397 Shingle=ery s Index1=131 - Index2=131
+Para No1=392 - Para No2=397 Shingle=ry se Index1=132 - Index2=132
+Para No1=392 - Para No2=397 Shingle=y sen Index1=133 - Index2=133
+Para No1=392 - Para No2=397 Shingle= sens Index1=134 - Index2=134
+Para No1=392 - Para No2=397 Shingle=sensi Index1=135 - Index2=135
+Para No1=392 - Para No2=397 Shingle=ensit Index1=136 - Index2=136
+Para No1=392 - Para No2=397 Shingle=nsiti Index1=137 - Index2=137
+Para No1=392 - Para No2=397 Shingle=sitiv Index1=138 - Index2=138
+Para No1=392 - Para No2=397 Shingle=itive Index1=139 - Index2=139
+Para No1=392 - Para No2=397 Shingle=tive  Index1=140 - Index2=140
+Para No1=392 - Para No2=397 Shingle=ive m Index1=141 - Index2=141
+Para No1=392 - Para No2=397 Shingle=ve mi Index1=142 - Index2=142
+Para No1=392 - Para No2=397 Shingle=e mic Index1=143 - Index2=143
+Para No1=392 - Para No2=397 Shingle= micr Index1=144 - Index2=144
+Para No1=392 - Para No2=397 Shingle=micro Index1=145 - Index2=145
+Para No1=392 - Para No2=397 Shingle=icrow Index1=146 - Index2=146
+Para No1=392 - Para No2=397 Shingle=crowa Index1=147 - Index2=147
+Para No1=392 - Para No2=397 Shingle=rowav Index1=148 - Index2=148
+Para No1=392 - Para No2=397 Shingle=owave Index1=149 - Index2=149
+Para No1=392 - Para No2=397 Shingle=wave  Index1=150 - Index2=150
+Para No1=392 - Para No2=397 Shingle=ave d Index1=151 - Index2=151
+Para No1=392 - Para No2=397 Shingle=ve de Index1=152 - Index2=152
+Para No1=392 - Para No2=397 Shingle=e det Index1=153 - Index2=153
+Para No1=392 - Para No2=397 Shingle= dete Index1=154 - Index2=154
+Para No1=392 - Para No2=397 Shingle=detec Index1=155 - Index2=155
+Para No1=392 - Para No2=397 Shingle=etect Index1=156 - Index2=156
+Para No1=392 - Para No2=397 Shingle=tecto Index1=157 - Index2=157
+Para No1=392 - Para No2=397 Shingle=ector Index1=158 - Index2=158
+Para No1=392 - Para No2=397 Shingle=ctor. Index1=159 - Index2=159
+Para No1=392 - Para No2=397 Shingle=tor.  Index1=160 - Index2=160
+Para No1=392 - Para No2=397 Shingle=or. ( Index1=161 - Index2=161
+Para No1=392 - Para No2=397 Shingle=r. (M Index1=162 - Index2=162
+Para No1=392 - Para No2=397 Shingle=. (Mi Index1=163 - Index2=163
+Para No1=392 - Para No2=397 Shingle= (Mic Index1=164 - Index2=164
+Para No1=392 - Para No2=397 Shingle=(Micr Index1=165 - Index2=165
+Para No1=392 - Para No2=397 Shingle=Micro Index1=166 - Index2=166
+Para No1=392 - Para No2=397 Shingle=icrow Index1=167 - Index2=146
+Para No1=392 - Para No2=397 Shingle=crowa Index1=168 - Index2=147
+Para No1=392 - Para No2=397 Shingle=rowav Index1=169 - Index2=148
+Para No1=392 - Para No2=397 Shingle=owave Index1=170 - Index2=149
+Para No1=392 - Para No2=397 Shingle=waves Index1=171 - Index2=171
+Para No1=392 - Para No2=397 Shingle=aves  Index1=172 - Index2=172
+Para No1=392 - Para No2=397 Shingle=ves a Index1=173 - Index2=173
+Para No1=392 - Para No2=397 Shingle=es ar Index1=174 - Index2=174
+Para No1=392 - Para No2=397 Shingle=s are Index1=175 - Index2=175
+Para No1=392 - Para No2=397 Shingle= are  Index1=176 - Index2=176
+Para No1=392 - Para No2=397 Shingle=are j Index1=177 - Index2=177
+Para No1=392 - Para No2=397 Shingle=re ju Index1=178 - Index2=178
+Para No1=392 - Para No2=397 Shingle=e jus Index1=179 - Index2=179
+Para No1=392 - Para No2=397 Shingle= just Index1=180 - Index2=180
+Para No1=392 - Para No2=397 Shingle=just  Index1=181 - Index2=181
+Para No1=392 - Para No2=397 Shingle=ust l Index1=182 - Index2=182
+Para No1=392 - Para No2=397 Shingle=st li Index1=183 - Index2=183
+Para No1=392 - Para No2=397 Shingle=t lik Index1=184 - Index2=184
+Para No1=392 - Para No2=397 Shingle= like Index1=185 - Index2=185
+Para No1=392 - Para No2=397 Shingle=like  Index1=186 - Index2=186
+Para No1=392 - Para No2=397 Shingle=ike l Index1=187 - Index2=187
+Para No1=392 - Para No2=397 Shingle=ke li Index1=188 - Index2=188
+Para No1=392 - Para No2=397 Shingle=e lig Index1=189 - Index2=189
+Para No1=392 - Para No2=397 Shingle= ligh Index1=190 - Index2=190
+Para No1=392 - Para No2=397 Shingle=light Index1=191 - Index2=191
+Para No1=392 - Para No2=397 Shingle=ight  Index1=192 - Index2=192
+Para No1=392 - Para No2=397 Shingle=ght w Index1=193 - Index2=193
+Para No1=392 - Para No2=397 Shingle=ht wa Index1=194 - Index2=194
+Para No1=392 - Para No2=397 Shingle=t wav Index1=195 - Index2=195
+Para No1=392 - Para No2=397 Shingle= wave Index1=196 - Index2=196
+Para No1=392 - Para No2=397 Shingle=waves Index1=197 - Index2=171
+Para No1=392 - Para No2=397 Shingle=aves, Index1=198 - Index2=198
+Para No1=392 - Para No2=397 Shingle=ves,  Index1=199 - Index2=199
+Para No1=392 - Para No2=397 Shingle=es, b Index1=200 - Index2=200
+Para No1=392 - Para No2=397 Shingle=s, bu Index1=201 - Index2=201
+Para No1=392 - Para No2=397 Shingle=, but Index1=202 - Index2=202
+Para No1=392 - Para No2=397 Shingle= but  Index1=203 - Index2=203
+Para No1=392 - Para No2=397 Shingle=but w Index1=204 - Index2=204
+Para No1=392 - Para No2=397 Shingle=ut wi Index1=205 - Index2=205
+Para No1=392 - Para No2=397 Shingle=t wit Index1=206 - Index2=206
+Para No1=392 - Para No2=397 Shingle= with Index1=207 - Index2=207
+Para No1=392 - Para No2=397 Shingle=with  Index1=208 - Index2=208
+Para No1=392 - Para No2=397 Shingle=ith a Index1=209 - Index2=209
+Para No1=392 - Para No2=397 Shingle=th a  Index1=210 - Index2=210
+Para No1=392 - Para No2=397 Shingle=h a w Index1=211 - Index2=211
+Para No1=392 - Para No2=397 Shingle= a wa Index1=212 - Index2=212
+Para No1=392 - Para No2=397 Shingle=a wav Index1=213 - Index2=213
+Para No1=392 - Para No2=397 Shingle= wave Index1=214 - Index2=196
+Para No1=392 - Para No2=397 Shingle=wavel Index1=215 - Index2=215
+Para No1=392 - Para No2=397 Shingle=avele Index1=216 - Index2=216
+Para No1=392 - Para No2=397 Shingle=velen Index1=217 - Index2=217
+Para No1=392 - Para No2=397 Shingle=eleng Index1=218 - Index2=218
+Para No1=392 - Para No2=397 Shingle=lengt Index1=219 - Index2=219
+Para No1=392 - Para No2=397 Shingle=ength Index1=220 - Index2=220
+Para No1=392 - Para No2=397 Shingle=ngth  Index1=221 - Index2=221
+Para No1=392 - Para No2=397 Shingle=gth o Index1=222 - Index2=222
+Para No1=392 - Para No2=397 Shingle=th of Index1=223 - Index2=223
+Para No1=392 - Para No2=397 Shingle=h of  Index1=224 - Index2=224
+Para No1=392 - Para No2=397 Shingle= of a Index1=225 - Index2=225
+Para No1=392 - Para No2=397 Shingle=of ar Index1=226 - Index2=226
+Para No1=392 - Para No2=397 Shingle=f aro Index1=227 - Index2=227
+Para No1=392 - Para No2=397 Shingle= arou Index1=228 - Index2=228
+Para No1=392 - Para No2=397 Shingle=aroun Index1=229 - Index2=229
+Para No1=392 - Para No2=397 Shingle=round Index1=230 - Index2=230
+Para No1=392 - Para No2=397 Shingle=ound  Index1=231 - Index2=231
+Para No1=392 - Para No2=397 Shingle=und a Index1=232 - Index2=232
+Para No1=392 - Para No2=397 Shingle=nd a  Index1=233 - Index2=233
+Para No1=392 - Para No2=397 Shingle=d a c Index1=234 - Index2=234
+Para No1=392 - Para No2=397 Shingle= a ce Index1=235 - Index2=235
+Para No1=392 - Para No2=397 Shingle=a cen Index1=236 - Index2=236
+Para No1=392 - Para No2=397 Shingle= cent Index1=237 - Index2=237
+Para No1=392 - Para No2=397 Shingle=centi Index1=238 - Index2=238
+Para No1=392 - Para No2=397 Shingle=entim Index1=239 - Index2=239
+Para No1=392 - Para No2=397 Shingle=ntime Index1=240 - Index2=240
+Para No1=392 - Para No2=397 Shingle=timet Index1=241 - Index2=241
+Para No1=392 - Para No2=397 Shingle=imete Index1=242 - Index2=242
+Para No1=392 - Para No2=397 Shingle=meter Index1=243 - Index2=243
+Para No1=392 - Para No2=397 Shingle=eter. Index1=244 - Index2=244
+Para No1=392 - Para No2=397 Shingle=ter.) Index1=245 - Index2=245
+Para No1=392 - Para No2=397 Shingle=er.)  Index1=246 - Index2=246
+Para No1=392 - Para No2=397 Shingle=r.) P Index1=247 - Index2=247
+Para No1=392 - Para No2=397 Shingle=.) Pe Index1=248 - Index2=248
+Para No1=392 - Para No2=397 Shingle=) Pen Index1=249 - Index2=249
+Para No1=392 - Para No2=397 Shingle= Penz Index1=250 - Index2=87
+Para No1=392 - Para No2=397 Shingle=Penzi Index1=251 - Index2=88
+Para No1=392 - Para No2=397 Shingle=enzia Index1=252 - Index2=89
+Para No1=392 - Para No2=397 Shingle=nzias Index1=253 - Index2=90
+Para No1=392 - Para No2=397 Shingle=zias  Index1=254 - Index2=91
+Para No1=392 - Para No2=397 Shingle=ias a Index1=255 - Index2=92
+Para No1=392 - Para No2=397 Shingle=as an Index1=256 - Index2=93
+Para No1=392 - Para No2=397 Shingle=s and Index1=257 - Index2=94
+Para No1=392 - Para No2=397 Shingle= and  Index1=258 - Index2=95
+Para No1=392 - Para No2=397 Shingle=and W Index1=259 - Index2=259
+Para No1=392 - Para No2=397 Shingle=nd Wi Index1=260 - Index2=260
+Para No1=392 - Para No2=397 Shingle=d Wil Index1=261 - Index2=261
+Para No1=392 - Para No2=397 Shingle= Wils Index1=262 - Index2=106
+Para No1=392 - Para No2=397 Shingle=Wilso Index1=263 - Index2=107
+Para No1=392 - Para No2=397 Shingle=ilson Index1=264 - Index2=108
+Para No1=392 - Para No2=397 Shingle=lson  Index1=265 - Index2=265
+Para No1=392 - Para No2=397 Shingle=son w Index1=266 - Index2=266
+Para No1=392 - Para No2=397 Shingle=on we Index1=267 - Index2=267
+Para No1=392 - Para No2=397 Shingle=n wer Index1=268 - Index2=268
+Para No1=392 - Para No2=397 Shingle= were Index1=269 - Index2=114
+Para No1=392 - Para No2=397 Shingle=were  Index1=270 - Index2=115
+Para No1=392 - Para No2=397 Shingle=ere w Index1=271 - Index2=271
+Para No1=392 - Para No2=397 Shingle=re wo Index1=272 - Index2=272
+Para No1=392 - Para No2=397 Shingle=e wor Index1=273 - Index2=273
+Para No1=392 - Para No2=397 Shingle= worr Index1=274 - Index2=274
+Para No1=392 - Para No2=397 Shingle=worri Index1=275 - Index2=275
+Para No1=392 - Para No2=397 Shingle=orrie Index1=276 - Index2=276
+Para No1=392 - Para No2=397 Shingle=rried Index1=277 - Index2=277
+Para No1=392 - Para No2=397 Shingle=ried  Index1=278 - Index2=278
+Para No1=392 - Para No2=397 Shingle=ied w Index1=279 - Index2=279
+Para No1=392 - Para No2=397 Shingle=ed wh Index1=280 - Index2=280
+Para No1=392 - Para No2=397 Shingle=d whe Index1=281 - Index2=281
+Para No1=392 - Para No2=397 Shingle= when Index1=282 - Index2=282
+Para No1=392 - Para No2=397 Shingle=when  Index1=283 - Index2=283
+Para No1=392 - Para No2=397 Shingle=hen t Index1=284 - Index2=284
+Para No1=392 - Para No2=397 Shingle=en th Index1=285 - Index2=285
+Para No1=392 - Para No2=397 Shingle=n the Index1=286 - Index2=286
+Para No1=392 - Para No2=397 Shingle= they Index1=287 - Index2=287
+Para No1=392 - Para No2=397 Shingle=they  Index1=288 - Index2=288
+Para No1=392 - Para No2=397 Shingle=hey f Index1=289 - Index2=289
+Para No1=392 - Para No2=397 Shingle=ey fo Index1=290 - Index2=290
+Para No1=392 - Para No2=397 Shingle=y fou Index1=291 - Index2=291
+Para No1=392 - Para No2=397 Shingle= foun Index1=292 - Index2=292
+Para No1=392 - Para No2=397 Shingle=found Index1=293 - Index2=293
+Para No1=392 - Para No2=397 Shingle=ound  Index1=294 - Index2=231
+Para No1=392 - Para No2=397 Shingle=und t Index1=295 - Index2=295
+Para No1=392 - Para No2=397 Shingle=nd th Index1=296 - Index2=296
+Para No1=392 - Para No2=397 Shingle=d tha Index1=297 - Index2=297
+Para No1=392 - Para No2=397 Shingle= that Index1=298 - Index2=298
+Para No1=392 - Para No2=397 Shingle=that  Index1=299 - Index2=299
+Para No1=392 - Para No2=397 Shingle=hat t Index1=300 - Index2=300
+Para No1=392 - Para No2=397 Shingle=at th Index1=301 - Index2=33
+Para No1=392 - Para No2=397 Shingle=t the Index1=302 - Index2=34
+Para No1=392 - Para No2=397 Shingle= thei Index1=303 - Index2=303
+Para No1=392 - Para No2=397 Shingle=their Index1=304 - Index2=304
+Para No1=392 - Para No2=397 Shingle=heir  Index1=305 - Index2=305
+Para No1=392 - Para No2=397 Shingle=eir d Index1=306 - Index2=306
+Para No1=392 - Para No2=397 Shingle=ir de Index1=307 - Index2=307
+Para No1=392 - Para No2=397 Shingle=r det Index1=308 - Index2=308
+Para No1=392 - Para No2=397 Shingle= dete Index1=309 - Index2=154
+Para No1=392 - Para No2=397 Shingle=detec Index1=310 - Index2=155
+Para No1=392 - Para No2=397 Shingle=etect Index1=311 - Index2=156
+Para No1=392 - Para No2=397 Shingle=tecto Index1=312 - Index2=157
+Para No1=392 - Para No2=397 Shingle=ector Index1=313 - Index2=158
+Para No1=392 - Para No2=397 Shingle=ctor  Index1=314 - Index2=314
+Para No1=392 - Para No2=397 Shingle=tor w Index1=315 - Index2=315
+Para No1=392 - Para No2=397 Shingle=or wa Index1=316 - Index2=316
+Para No1=392 - Para No2=397 Shingle=r was Index1=317 - Index2=317
+Para No1=392 - Para No2=397 Shingle= was  Index1=318 - Index2=318
+Para No1=392 - Para No2=397 Shingle=was p Index1=319 - Index2=319
+Para No1=392 - Para No2=397 Shingle=as pi Index1=320 - Index2=320
+Para No1=392 - Para No2=397 Shingle=s pic Index1=321 - Index2=321
+Para No1=392 - Para No2=397 Shingle= pick Index1=322 - Index2=322
+Para No1=392 - Para No2=397 Shingle=picki Index1=323 - Index2=323
+Para No1=392 - Para No2=397 Shingle=ickin Index1=324 - Index2=324
+Para No1=392 - Para No2=397 Shingle=cking Index1=325 - Index2=325
+Para No1=392 - Para No2=397 Shingle=king  Index1=326 - Index2=326
+Para No1=392 - Para No2=397 Shingle=ing u Index1=327 - Index2=327
+Para No1=392 - Para No2=397 Shingle=ng up Index1=328 - Index2=328
+Para No1=392 - Para No2=397 Shingle=g up  Index1=329 - Index2=329
+Para No1=392 - Para No2=397 Shingle= up m Index1=330 - Index2=330
+Para No1=392 - Para No2=397 Shingle=up mo Index1=331 - Index2=331
+Para No1=392 - Para No2=397 Shingle=p mor Index1=332 - Index2=332
+Para No1=392 - Para No2=397 Shingle= more Index1=333 - Index2=333
+Para No1=392 - Para No2=397 Shingle=more  Index1=334 - Index2=334
+Para No1=392 - Para No2=397 Shingle=ore n Index1=335 - Index2=335
+Para No1=392 - Para No2=397 Shingle=re no Index1=336 - Index2=336
+Para No1=392 - Para No2=397 Shingle=e noi Index1=337 - Index2=337
+Para No1=392 - Para No2=397 Shingle= nois Index1=338 - Index2=338
+Para No1=392 - Para No2=397 Shingle=noise Index1=339 - Index2=339
+Para No1=392 - Para No2=397 Shingle=oise  Index1=340 - Index2=340
+Para No1=392 - Para No2=397 Shingle=ise t Index1=341 - Index2=341
+Para No1=392 - Para No2=397 Shingle=se th Index1=342 - Index2=342
+Para No1=392 - Para No2=397 Shingle=e tha Index1=343 - Index2=343
+Para No1=392 - Para No2=397 Shingle= than Index1=344 - Index2=344
+Para No1=392 - Para No2=397 Shingle=than  Index1=345 - Index2=345
+Para No1=392 - Para No2=397 Shingle=han i Index1=346 - Index2=346
+Para No1=392 - Para No2=397 Shingle=an it Index1=347 - Index2=347
+Para No1=392 - Para No2=397 Shingle=n it  Index1=348 - Index2=348
+Para No1=392 - Para No2=397 Shingle= it o Index1=349 - Index2=349
+Para No1=392 - Para No2=397 Shingle=it ou Index1=350 - Index2=350
+Para No1=392 - Para No2=397 Shingle=t oug Index1=351 - Index2=351
+Para No1=392 - Para No2=397 Shingle= ough Index1=352 - Index2=352
+Para No1=392 - Para No2=397 Shingle=ought Index1=353 - Index2=353
+Para No1=392 - Para No2=397 Shingle=ught  Index1=354 - Index2=354
+Para No1=392 - Para No2=397 Shingle=ght t Index1=355 - Index2=355
+Para No1=392 - Para No2=397 Shingle=ht to Index1=356 - Index2=356
+Para No1=392 - Para No2=397 Shingle=t to. Index1=357 - Index2=357
+Para No1=392 - Para No2=397 Shingle= to." Index1=358 - Index2=358
+-------------------------------------------
+Para No1=169 - Para No2=360 Shingle="In t Index1=0 - Index2=0
+Para No1=169 - Para No2=360 Shingle=In th Index1=1 - Index2=1
+Para No1=169 - Para No2=360 Shingle=n the Index1=2 - Index2=2
+Para No1=169 - Para No2=360 Shingle= the  Index1=3 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the c Index1=4 - Index2=4
+Para No1=169 - Para No2=360 Shingle=he ca Index1=5 - Index2=5
+Para No1=169 - Para No2=360 Shingle=e cas Index1=6 - Index2=6
+Para No1=169 - Para No2=360 Shingle= case Index1=7 - Index2=7
+Para No1=169 - Para No2=360 Shingle=case  Index1=8 - Index2=8
+Para No1=169 - Para No2=360 Shingle=ase o Index1=9 - Index2=9
+Para No1=169 - Para No2=360 Shingle=se of Index1=10 - Index2=10
+Para No1=169 - Para No2=360 Shingle=e of  Index1=11 - Index2=11
+Para No1=169 - Para No2=360 Shingle= of l Index1=12 - Index2=12
+Para No1=169 - Para No2=360 Shingle=of li Index1=13 - Index2=13
+Para No1=169 - Para No2=360 Shingle=f lig Index1=14 - Index2=14
+Para No1=169 - Para No2=360 Shingle= ligh Index1=15 - Index2=15
+Para No1=169 - Para No2=360 Shingle=light Index1=16 - Index2=16
+Para No1=169 - Para No2=360 Shingle=ight, Index1=17 - Index2=17
+Para No1=169 - Para No2=360 Shingle=ght,  Index1=18 - Index2=18
+Para No1=169 - Para No2=360 Shingle=ht, t Index1=19 - Index2=19
+Para No1=169 - Para No2=360 Shingle=t, th Index1=20 - Index2=20
+Para No1=169 - Para No2=360 Shingle=, the Index1=21 - Index2=21
+Para No1=169 - Para No2=360 Shingle= ther Index1=22 - Index2=22
+Para No1=169 - Para No2=360 Shingle=there Index1=23 - Index2=23
+Para No1=169 - Para No2=360 Shingle=heref Index1=24 - Index2=24
+Para No1=169 - Para No2=360 Shingle=erefo Index1=25 - Index2=25
+Para No1=169 - Para No2=360 Shingle=refor Index1=26 - Index2=26
+Para No1=169 - Para No2=360 Shingle=efore Index1=27 - Index2=27
+Para No1=169 - Para No2=360 Shingle=fore, Index1=28 - Index2=28
+Para No1=169 - Para No2=360 Shingle=ore,  Index1=29 - Index2=29
+Para No1=169 - Para No2=360 Shingle=re, m Index1=30 - Index2=30
+Para No1=169 - Para No2=360 Shingle=e, me Index1=31 - Index2=31
+Para No1=169 - Para No2=360 Shingle=, mea Index1=32 - Index2=32
+Para No1=169 - Para No2=360 Shingle= mean Index1=33 - Index2=33
+Para No1=169 - Para No2=360 Shingle=means Index1=34 - Index2=34
+Para No1=169 - Para No2=360 Shingle=eans  Index1=35 - Index2=35
+Para No1=169 - Para No2=360 Shingle=ans t Index1=36 - Index2=36
+Para No1=169 - Para No2=360 Shingle=ns th Index1=37 - Index2=37
+Para No1=169 - Para No2=360 Shingle=s tha Index1=38 - Index2=38
+Para No1=169 - Para No2=360 Shingle= that Index1=39 - Index2=39
+Para No1=169 - Para No2=360 Shingle=that  Index1=40 - Index2=40
+Para No1=169 - Para No2=360 Shingle=hat s Index1=41 - Index2=41
+Para No1=169 - Para No2=360 Shingle=at st Index1=42 - Index2=42
+Para No1=169 - Para No2=360 Shingle=t sta Index1=43 - Index2=43
+Para No1=169 - Para No2=360 Shingle= star Index1=44 - Index2=44
+Para No1=169 - Para No2=360 Shingle=stars Index1=45 - Index2=45
+Para No1=169 - Para No2=360 Shingle=tars  Index1=46 - Index2=46
+Para No1=169 - Para No2=360 Shingle=ars m Index1=47 - Index2=47
+Para No1=169 - Para No2=360 Shingle=rs mo Index1=48 - Index2=48
+Para No1=169 - Para No2=360 Shingle=s mov Index1=49 - Index2=49
+Para No1=169 - Para No2=360 Shingle= movi Index1=50 - Index2=50
+Para No1=169 - Para No2=360 Shingle=movin Index1=51 - Index2=51
+Para No1=169 - Para No2=360 Shingle=oving Index1=52 - Index2=52
+Para No1=169 - Para No2=360 Shingle=ving  Index1=53 - Index2=53
+Para No1=169 - Para No2=360 Shingle=ing a Index1=54 - Index2=54
+Para No1=169 - Para No2=360 Shingle=ng aw Index1=55 - Index2=55
+Para No1=169 - Para No2=360 Shingle=g awa Index1=56 - Index2=56
+Para No1=169 - Para No2=360 Shingle= away Index1=57 - Index2=57
+Para No1=169 - Para No2=360 Shingle=away  Index1=58 - Index2=58
+Para No1=169 - Para No2=360 Shingle=way f Index1=59 - Index2=59
+Para No1=169 - Para No2=360 Shingle=ay fr Index1=60 - Index2=60
+Para No1=169 - Para No2=360 Shingle=y fro Index1=61 - Index2=61
+Para No1=169 - Para No2=360 Shingle= from Index1=62 - Index2=62
+Para No1=169 - Para No2=360 Shingle=from  Index1=63 - Index2=63
+Para No1=169 - Para No2=360 Shingle=rom u Index1=64 - Index2=64
+Para No1=169 - Para No2=360 Shingle=om us Index1=65 - Index2=65
+Para No1=169 - Para No2=360 Shingle=m us  Index1=66 - Index2=66
+Para No1=169 - Para No2=360 Shingle= us w Index1=67 - Index2=67
+Para No1=169 - Para No2=360 Shingle=us wi Index1=68 - Index2=68
+Para No1=169 - Para No2=360 Shingle=s wil Index1=69 - Index2=69
+Para No1=169 - Para No2=360 Shingle= will Index1=70 - Index2=70
+Para No1=169 - Para No2=360 Shingle=will  Index1=71 - Index2=71
+Para No1=169 - Para No2=360 Shingle=ill h Index1=72 - Index2=72
+Para No1=169 - Para No2=360 Shingle=ll ha Index1=73 - Index2=73
+Para No1=169 - Para No2=360 Shingle=l hav Index1=74 - Index2=74
+Para No1=169 - Para No2=360 Shingle= have Index1=75 - Index2=75
+Para No1=169 - Para No2=360 Shingle=have  Index1=76 - Index2=76
+Para No1=169 - Para No2=360 Shingle=ave t Index1=77 - Index2=77
+Para No1=169 - Para No2=360 Shingle=ve th Index1=78 - Index2=78
+Para No1=169 - Para No2=360 Shingle=e the Index1=79 - Index2=79
+Para No1=169 - Para No2=360 Shingle= thei Index1=80 - Index2=80
+Para No1=169 - Para No2=360 Shingle=their Index1=81 - Index2=81
+Para No1=169 - Para No2=360 Shingle=heir  Index1=82 - Index2=82
+Para No1=169 - Para No2=360 Shingle=eir s Index1=83 - Index2=83
+Para No1=169 - Para No2=360 Shingle=ir sp Index1=84 - Index2=84
+Para No1=169 - Para No2=360 Shingle=r spe Index1=85 - Index2=85
+Para No1=169 - Para No2=360 Shingle= spec Index1=86 - Index2=86
+Para No1=169 - Para No2=360 Shingle=spect Index1=87 - Index2=87
+Para No1=169 - Para No2=360 Shingle=pectr Index1=88 - Index2=88
+Para No1=169 - Para No2=360 Shingle=ectra Index1=89 - Index2=89
+Para No1=169 - Para No2=360 Shingle=ctra  Index1=90 - Index2=90
+Para No1=169 - Para No2=360 Shingle=tra s Index1=91 - Index2=91
+Para No1=169 - Para No2=360 Shingle=ra sh Index1=92 - Index2=92
+Para No1=169 - Para No2=360 Shingle=a shi Index1=93 - Index2=93
+Para No1=169 - Para No2=360 Shingle= shif Index1=94 - Index2=94
+Para No1=169 - Para No2=360 Shingle=shift Index1=95 - Index2=95
+Para No1=169 - Para No2=360 Shingle=hifte Index1=96 - Index2=96
+Para No1=169 - Para No2=360 Shingle=ifted Index1=97 - Index2=97
+Para No1=169 - Para No2=360 Shingle=fted  Index1=98 - Index2=98
+Para No1=169 - Para No2=360 Shingle=ted t Index1=99 - Index2=99
+Para No1=169 - Para No2=360 Shingle=ed to Index1=100 - Index2=100
+Para No1=169 - Para No2=360 Shingle=d tow Index1=101 - Index2=101
+Para No1=169 - Para No2=360 Shingle= towa Index1=102 - Index2=102
+Para No1=169 - Para No2=360 Shingle=towar Index1=103 - Index2=103
+Para No1=169 - Para No2=360 Shingle=oward Index1=104 - Index2=104
+Para No1=169 - Para No2=360 Shingle=ward  Index1=105 - Index2=105
+Para No1=169 - Para No2=360 Shingle=ard t Index1=106 - Index2=106
+Para No1=169 - Para No2=360 Shingle=rd th Index1=107 - Index2=107
+Para No1=169 - Para No2=360 Shingle=d the Index1=108 - Index2=108
+Para No1=169 - Para No2=360 Shingle= the  Index1=109 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the r Index1=110 - Index2=110
+Para No1=169 - Para No2=360 Shingle=he re Index1=111 - Index2=111
+Para No1=169 - Para No2=360 Shingle=e red Index1=112 - Index2=112
+Para No1=169 - Para No2=360 Shingle= red  Index1=113 - Index2=113
+Para No1=169 - Para No2=360 Shingle=red e Index1=114 - Index2=114
+Para No1=169 - Para No2=360 Shingle=ed en Index1=115 - Index2=115
+Para No1=169 - Para No2=360 Shingle=d end Index1=116 - Index2=116
+Para No1=169 - Para No2=360 Shingle= end  Index1=117 - Index2=117
+Para No1=169 - Para No2=360 Shingle=end o Index1=118 - Index2=118
+Para No1=169 - Para No2=360 Shingle=nd of Index1=119 - Index2=119
+Para No1=169 - Para No2=360 Shingle=d of  Index1=120 - Index2=120
+Para No1=169 - Para No2=360 Shingle= of t Index1=121 - Index2=121
+Para No1=169 - Para No2=360 Shingle=of th Index1=122 - Index2=122
+Para No1=169 - Para No2=360 Shingle=f the Index1=123 - Index2=123
+Para No1=169 - Para No2=360 Shingle= the  Index1=124 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the s Index1=125 - Index2=125
+Para No1=169 - Para No2=360 Shingle=he sp Index1=126 - Index2=126
+Para No1=169 - Para No2=360 Shingle=e spe Index1=127 - Index2=127
+Para No1=169 - Para No2=360 Shingle= spec Index1=128 - Index2=86
+Para No1=169 - Para No2=360 Shingle=spect Index1=129 - Index2=87
+Para No1=169 - Para No2=360 Shingle=pectr Index1=130 - Index2=88
+Para No1=169 - Para No2=360 Shingle=ectru Index1=131 - Index2=131
+Para No1=169 - Para No2=360 Shingle=ctrum Index1=132 - Index2=132
+Para No1=169 - Para No2=360 Shingle=trum  Index1=133 - Index2=133
+Para No1=169 - Para No2=360 Shingle=rum ( Index1=134 - Index2=134
+Para No1=169 - Para No2=360 Shingle=um (r Index1=135 - Index2=135
+Para No1=169 - Para No2=360 Shingle=m (re Index1=136 - Index2=136
+Para No1=169 - Para No2=360 Shingle= (red Index1=137 - Index2=137
+Para No1=169 - Para No2=360 Shingle=(red- Index1=138 - Index2=138
+Para No1=169 - Para No2=360 Shingle=red-s Index1=139 - Index2=139
+Para No1=169 - Para No2=360 Shingle=ed-sh Index1=140 - Index2=140
+Para No1=169 - Para No2=360 Shingle=d-shi Index1=141 - Index2=141
+Para No1=169 - Para No2=360 Shingle=-shif Index1=142 - Index2=142
+Para No1=169 - Para No2=360 Shingle=shift Index1=143 - Index2=95
+Para No1=169 - Para No2=360 Shingle=hifte Index1=144 - Index2=96
+Para No1=169 - Para No2=360 Shingle=ifted Index1=145 - Index2=97
+Para No1=169 - Para No2=360 Shingle=fted) Index1=146 - Index2=146
+Para No1=169 - Para No2=360 Shingle=ted)  Index1=147 - Index2=147
+Para No1=169 - Para No2=360 Shingle=ed) a Index1=148 - Index2=148
+Para No1=169 - Para No2=360 Shingle=d) an Index1=149 - Index2=149
+Para No1=169 - Para No2=360 Shingle=) and Index1=150 - Index2=150
+Para No1=169 - Para No2=360 Shingle= and  Index1=151 - Index2=151
+Para No1=169 - Para No2=360 Shingle=and t Index1=152 - Index2=152
+Para No1=169 - Para No2=360 Shingle=nd th Index1=153 - Index2=153
+Para No1=169 - Para No2=360 Shingle=d tho Index1=154 - Index2=154
+Para No1=169 - Para No2=360 Shingle= thos Index1=155 - Index2=155
+Para No1=169 - Para No2=360 Shingle=those Index1=156 - Index2=156
+Para No1=169 - Para No2=360 Shingle=hose  Index1=157 - Index2=157
+Para No1=169 - Para No2=360 Shingle=ose m Index1=158 - Index2=158
+Para No1=169 - Para No2=360 Shingle=se mo Index1=159 - Index2=159
+Para No1=169 - Para No2=360 Shingle=e mov Index1=160 - Index2=160
+Para No1=169 - Para No2=360 Shingle= movi Index1=161 - Index2=50
+Para No1=169 - Para No2=360 Shingle=movin Index1=162 - Index2=51
+Para No1=169 - Para No2=360 Shingle=oving Index1=163 - Index2=52
+Para No1=169 - Para No2=360 Shingle=ving  Index1=164 - Index2=53
+Para No1=169 - Para No2=360 Shingle=ing t Index1=165 - Index2=165
+Para No1=169 - Para No2=360 Shingle=ng to Index1=166 - Index2=166
+Para No1=169 - Para No2=360 Shingle=g tow Index1=167 - Index2=167
+Para No1=169 - Para No2=360 Shingle= towa Index1=168 - Index2=102
+Para No1=169 - Para No2=360 Shingle=towar Index1=169 - Index2=103
+Para No1=169 - Para No2=360 Shingle=oward Index1=170 - Index2=104
+Para No1=169 - Para No2=360 Shingle=ward  Index1=171 - Index2=105
+Para No1=169 - Para No2=360 Shingle=ard u Index1=172 - Index2=172
+Para No1=169 - Para No2=360 Shingle=rd us Index1=173 - Index2=173
+Para No1=169 - Para No2=360 Shingle=d us  Index1=174 - Index2=174
+Para No1=169 - Para No2=360 Shingle= us w Index1=175 - Index2=67
+Para No1=169 - Para No2=360 Shingle=us wi Index1=176 - Index2=68
+Para No1=169 - Para No2=360 Shingle=s wil Index1=177 - Index2=69
+Para No1=169 - Para No2=360 Shingle= will Index1=178 - Index2=70
+Para No1=169 - Para No2=360 Shingle=will  Index1=179 - Index2=71
+Para No1=169 - Para No2=360 Shingle=ill h Index1=180 - Index2=72
+Para No1=169 - Para No2=360 Shingle=ll ha Index1=181 - Index2=73
+Para No1=169 - Para No2=360 Shingle=l hav Index1=182 - Index2=74
+Para No1=169 - Para No2=360 Shingle= have Index1=183 - Index2=75
+Para No1=169 - Para No2=360 Shingle=have  Index1=184 - Index2=76
+Para No1=169 - Para No2=360 Shingle=ave t Index1=185 - Index2=77
+Para No1=169 - Para No2=360 Shingle=ve th Index1=186 - Index2=78
+Para No1=169 - Para No2=360 Shingle=e the Index1=187 - Index2=79
+Para No1=169 - Para No2=360 Shingle= thei Index1=188 - Index2=80
+Para No1=169 - Para No2=360 Shingle=their Index1=189 - Index2=81
+Para No1=169 - Para No2=360 Shingle=heir  Index1=190 - Index2=82
+Para No1=169 - Para No2=360 Shingle=eir s Index1=191 - Index2=83
+Para No1=169 - Para No2=360 Shingle=ir sp Index1=192 - Index2=84
+Para No1=169 - Para No2=360 Shingle=r spe Index1=193 - Index2=85
+Para No1=169 - Para No2=360 Shingle= spec Index1=194 - Index2=86
+Para No1=169 - Para No2=360 Shingle=spect Index1=195 - Index2=87
+Para No1=169 - Para No2=360 Shingle=pectr Index1=196 - Index2=88
+Para No1=169 - Para No2=360 Shingle=ectra Index1=197 - Index2=89
+Para No1=169 - Para No2=360 Shingle=ctra  Index1=198 - Index2=90
+Para No1=169 - Para No2=360 Shingle=tra b Index1=199 - Index2=199
+Para No1=169 - Para No2=360 Shingle=ra bl Index1=200 - Index2=200
+Para No1=169 - Para No2=360 Shingle=a blu Index1=201 - Index2=201
+Para No1=169 - Para No2=360 Shingle= blue Index1=202 - Index2=202
+Para No1=169 - Para No2=360 Shingle=blue- Index1=203 - Index2=203
+Para No1=169 - Para No2=360 Shingle=lue-s Index1=204 - Index2=204
+Para No1=169 - Para No2=360 Shingle=ue-sh Index1=205 - Index2=205
+Para No1=169 - Para No2=360 Shingle=e-shi Index1=206 - Index2=206
+Para No1=169 - Para No2=360 Shingle=-shif Index1=207 - Index2=142
+Para No1=169 - Para No2=360 Shingle=shift Index1=208 - Index2=95
+Para No1=169 - Para No2=360 Shingle=hifte Index1=209 - Index2=96
+Para No1=169 - Para No2=360 Shingle=ifted Index1=210 - Index2=97
+Para No1=169 - Para No2=360 Shingle=fted. Index1=211 - Index2=211
+Para No1=169 - Para No2=360 Shingle=ted.  Index1=212 - Index2=212
+Para No1=169 - Para No2=360 Shingle=ed. T Index1=213 - Index2=213
+Para No1=169 - Para No2=360 Shingle=d. Th Index1=214 - Index2=214
+Para No1=169 - Para No2=360 Shingle=. Thi Index1=215 - Index2=215
+Para No1=169 - Para No2=360 Shingle= This Index1=216 - Index2=216
+Para No1=169 - Para No2=360 Shingle=This  Index1=217 - Index2=217
+Para No1=169 - Para No2=360 Shingle=his r Index1=218 - Index2=218
+Para No1=169 - Para No2=360 Shingle=is re Index1=219 - Index2=219
+Para No1=169 - Para No2=360 Shingle=s rel Index1=220 - Index2=220
+Para No1=169 - Para No2=360 Shingle= rela Index1=221 - Index2=221
+Para No1=169 - Para No2=360 Shingle=relat Index1=222 - Index2=222
+Para No1=169 - Para No2=360 Shingle=elati Index1=223 - Index2=223
+Para No1=169 - Para No2=360 Shingle=latio Index1=224 - Index2=224
+Para No1=169 - Para No2=360 Shingle=ation Index1=225 - Index2=225
+Para No1=169 - Para No2=360 Shingle=tions Index1=226 - Index2=226
+Para No1=169 - Para No2=360 Shingle=ionsh Index1=227 - Index2=227
+Para No1=169 - Para No2=360 Shingle=onshi Index1=228 - Index2=228
+Para No1=169 - Para No2=360 Shingle=nship Index1=229 - Index2=229
+Para No1=169 - Para No2=360 Shingle=ship  Index1=230 - Index2=230
+Para No1=169 - Para No2=360 Shingle=hip b Index1=231 - Index2=231
+Para No1=169 - Para No2=360 Shingle=ip be Index1=232 - Index2=232
+Para No1=169 - Para No2=360 Shingle=p bet Index1=233 - Index2=233
+Para No1=169 - Para No2=360 Shingle= betw Index1=234 - Index2=234
+Para No1=169 - Para No2=360 Shingle=betwe Index1=235 - Index2=235
+Para No1=169 - Para No2=360 Shingle=etwee Index1=236 - Index2=236
+Para No1=169 - Para No2=360 Shingle=tween Index1=237 - Index2=237
+Para No1=169 - Para No2=360 Shingle=ween  Index1=238 - Index2=238
+Para No1=169 - Para No2=360 Shingle=een w Index1=239 - Index2=239
+Para No1=169 - Para No2=360 Shingle=en wa Index1=240 - Index2=240
+Para No1=169 - Para No2=360 Shingle=n wav Index1=241 - Index2=241
+Para No1=169 - Para No2=360 Shingle= wave Index1=242 - Index2=242
+Para No1=169 - Para No2=360 Shingle=wavel Index1=243 - Index2=243
+Para No1=169 - Para No2=360 Shingle=avele Index1=244 - Index2=244
+Para No1=169 - Para No2=360 Shingle=velen Index1=245 - Index2=245
+Para No1=169 - Para No2=360 Shingle=eleng Index1=246 - Index2=246
+Para No1=169 - Para No2=360 Shingle=lengt Index1=247 - Index2=247
+Para No1=169 - Para No2=360 Shingle=ength Index1=248 - Index2=248
+Para No1=169 - Para No2=360 Shingle=ngth  Index1=249 - Index2=249
+Para No1=169 - Para No2=360 Shingle=gth a Index1=250 - Index2=250
+Para No1=169 - Para No2=360 Shingle=th an Index1=251 - Index2=251
+Para No1=169 - Para No2=360 Shingle=h and Index1=252 - Index2=252
+Para No1=169 - Para No2=360 Shingle= and  Index1=253 - Index2=151
+Para No1=169 - Para No2=360 Shingle=and s Index1=254 - Index2=254
+Para No1=169 - Para No2=360 Shingle=nd sp Index1=255 - Index2=255
+Para No1=169 - Para No2=360 Shingle=d spe Index1=256 - Index2=256
+Para No1=169 - Para No2=360 Shingle= spee Index1=257 - Index2=257
+Para No1=169 - Para No2=360 Shingle=speed Index1=258 - Index2=258
+Para No1=169 - Para No2=360 Shingle=peed, Index1=259 - Index2=259
+Para No1=169 - Para No2=360 Shingle=eed,  Index1=260 - Index2=260
+Para No1=169 - Para No2=360 Shingle=ed, w Index1=261 - Index2=261
+Para No1=169 - Para No2=360 Shingle=d, wh Index1=262 - Index2=262
+Para No1=169 - Para No2=360 Shingle=, whi Index1=263 - Index2=263
+Para No1=169 - Para No2=360 Shingle= whic Index1=264 - Index2=264
+Para No1=169 - Para No2=360 Shingle=which Index1=265 - Index2=265
+Para No1=169 - Para No2=360 Shingle=hich  Index1=266 - Index2=266
+Para No1=169 - Para No2=360 Shingle=ich i Index1=267 - Index2=267
+Para No1=169 - Para No2=360 Shingle=ch is Index1=268 - Index2=268
+Para No1=169 - Para No2=360 Shingle=h is  Index1=269 - Index2=269
+Para No1=169 - Para No2=360 Shingle= is c Index1=270 - Index2=270
+Para No1=169 - Para No2=360 Shingle=is ca Index1=271 - Index2=271
+Para No1=169 - Para No2=360 Shingle=s cal Index1=272 - Index2=272
+Para No1=169 - Para No2=360 Shingle= call Index1=273 - Index2=273
+Para No1=169 - Para No2=360 Shingle=calle Index1=274 - Index2=274
+Para No1=169 - Para No2=360 Shingle=alled Index1=275 - Index2=275
+Para No1=169 - Para No2=360 Shingle=lled  Index1=276 - Index2=276
+Para No1=169 - Para No2=360 Shingle=led t Index1=277 - Index2=277
+Para No1=169 - Para No2=360 Shingle=ed th Index1=278 - Index2=278
+Para No1=169 - Para No2=360 Shingle=d the Index1=279 - Index2=108
+Para No1=169 - Para No2=360 Shingle= the  Index1=280 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the D Index1=281 - Index2=281
+Para No1=169 - Para No2=360 Shingle=he Do Index1=282 - Index2=282
+Para No1=169 - Para No2=360 Shingle=e Dop Index1=283 - Index2=283
+Para No1=169 - Para No2=360 Shingle= Dopp Index1=284 - Index2=284
+Para No1=169 - Para No2=360 Shingle=Doppl Index1=285 - Index2=285
+Para No1=169 - Para No2=360 Shingle=opple Index1=286 - Index2=286
+Para No1=169 - Para No2=360 Shingle=ppler Index1=287 - Index2=287
+Para No1=169 - Para No2=360 Shingle=pler  Index1=288 - Index2=288
+Para No1=169 - Para No2=360 Shingle=ler e Index1=289 - Index2=289
+Para No1=169 - Para No2=360 Shingle=er ef Index1=290 - Index2=290
+Para No1=169 - Para No2=360 Shingle=r eff Index1=291 - Index2=291
+Para No1=169 - Para No2=360 Shingle= effe Index1=292 - Index2=292
+Para No1=169 - Para No2=360 Shingle=effec Index1=293 - Index2=293
+Para No1=169 - Para No2=360 Shingle=ffect Index1=294 - Index2=294
+Para No1=169 - Para No2=360 Shingle=fect, Index1=295 - Index2=295
+Para No1=169 - Para No2=360 Shingle=ect,  Index1=296 - Index2=296
+Para No1=169 - Para No2=360 Shingle=ct, i Index1=297 - Index2=297
+Para No1=169 - Para No2=360 Shingle=t, is Index1=298 - Index2=298
+Para No1=169 - Para No2=360 Shingle=, is  Index1=299 - Index2=299
+Para No1=169 - Para No2=360 Shingle= is a Index1=300 - Index2=300
+Para No1=169 - Para No2=360 Shingle=is an Index1=301 - Index2=301
+Para No1=169 - Para No2=360 Shingle=s an  Index1=302 - Index2=302
+Para No1=169 - Para No2=360 Shingle= an e Index1=303 - Index2=303
+Para No1=169 - Para No2=360 Shingle=an ev Index1=304 - Index2=304
+Para No1=169 - Para No2=360 Shingle=n eve Index1=305 - Index2=305
+Para No1=169 - Para No2=360 Shingle= ever Index1=306 - Index2=306
+Para No1=169 - Para No2=360 Shingle=every Index1=307 - Index2=307
+Para No1=169 - Para No2=360 Shingle=veryd Index1=308 - Index2=308
+Para No1=169 - Para No2=360 Shingle=eryda Index1=309 - Index2=309
+Para No1=169 - Para No2=360 Shingle=ryday Index1=310 - Index2=310
+Para No1=169 - Para No2=360 Shingle=yday  Index1=311 - Index2=311
+Para No1=169 - Para No2=360 Shingle=day e Index1=312 - Index2=312
+Para No1=169 - Para No2=360 Shingle=ay ex Index1=313 - Index2=313
+Para No1=169 - Para No2=360 Shingle=y exp Index1=314 - Index2=314
+Para No1=169 - Para No2=360 Shingle= expe Index1=315 - Index2=315
+Para No1=169 - Para No2=360 Shingle=exper Index1=316 - Index2=316
+Para No1=169 - Para No2=360 Shingle=xperi Index1=317 - Index2=317
+Para No1=169 - Para No2=360 Shingle=perie Index1=318 - Index2=318
+Para No1=169 - Para No2=360 Shingle=erien Index1=319 - Index2=319
+Para No1=169 - Para No2=360 Shingle=rienc Index1=320 - Index2=320
+Para No1=169 - Para No2=360 Shingle=ience Index1=321 - Index2=321
+Para No1=169 - Para No2=360 Shingle=ence. Index1=322 - Index2=322
+Para No1=169 - Para No2=360 Shingle=nce.  Index1=323 - Index2=323
+Para No1=169 - Para No2=360 Shingle=ce. L Index1=324 - Index2=324
+Para No1=169 - Para No2=360 Shingle=e. Li Index1=325 - Index2=325
+Para No1=169 - Para No2=360 Shingle=. Lis Index1=326 - Index2=326
+Para No1=169 - Para No2=360 Shingle= List Index1=327 - Index2=327
+Para No1=169 - Para No2=360 Shingle=Liste Index1=328 - Index2=328
+Para No1=169 - Para No2=360 Shingle=isten Index1=329 - Index2=329
+Para No1=169 - Para No2=360 Shingle=sten  Index1=330 - Index2=330
+Para No1=169 - Para No2=360 Shingle=ten t Index1=331 - Index2=331
+Para No1=169 - Para No2=360 Shingle=en to Index1=332 - Index2=332
+Para No1=169 - Para No2=360 Shingle=n to  Index1=333 - Index2=333
+Para No1=169 - Para No2=360 Shingle= to a Index1=334 - Index2=334
+Para No1=169 - Para No2=360 Shingle=to a  Index1=335 - Index2=335
+Para No1=169 - Para No2=360 Shingle=o a c Index1=336 - Index2=336
+Para No1=169 - Para No2=360 Shingle= a ca Index1=337 - Index2=337
+Para No1=169 - Para No2=360 Shingle=a car Index1=338 - Index2=338
+Para No1=169 - Para No2=360 Shingle= car  Index1=339 - Index2=339
+Para No1=169 - Para No2=360 Shingle=car p Index1=340 - Index2=340
+Para No1=169 - Para No2=360 Shingle=ar pa Index1=341 - Index2=341
+Para No1=169 - Para No2=360 Shingle=r pas Index1=342 - Index2=342
+Para No1=169 - Para No2=360 Shingle= pass Index1=343 - Index2=343
+Para No1=169 - Para No2=360 Shingle=passi Index1=344 - Index2=344
+Para No1=169 - Para No2=360 Shingle=assin Index1=345 - Index2=345
+Para No1=169 - Para No2=360 Shingle=ssing Index1=346 - Index2=346
+Para No1=169 - Para No2=360 Shingle=sing  Index1=347 - Index2=347
+Para No1=169 - Para No2=360 Shingle=ing o Index1=348 - Index2=348
+Para No1=169 - Para No2=360 Shingle=ng on Index1=349 - Index2=349
+Para No1=169 - Para No2=360 Shingle=g on  Index1=350 - Index2=350
+Para No1=169 - Para No2=360 Shingle= on t Index1=351 - Index2=351
+Para No1=169 - Para No2=360 Shingle=on th Index1=352 - Index2=352
+Para No1=169 - Para No2=360 Shingle=n the Index1=353 - Index2=2
+Para No1=169 - Para No2=360 Shingle= the  Index1=354 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the r Index1=355 - Index2=110
+Para No1=169 - Para No2=360 Shingle=he ro Index1=356 - Index2=356
+Para No1=169 - Para No2=360 Shingle=e roa Index1=357 - Index2=357
+Para No1=169 - Para No2=360 Shingle= road Index1=358 - Index2=358
+Para No1=169 - Para No2=360 Shingle=road: Index1=359 - Index2=359
+Para No1=169 - Para No2=360 Shingle=oad:  Index1=360 - Index2=360
+Para No1=169 - Para No2=360 Shingle=ad: a Index1=361 - Index2=361
+Para No1=169 - Para No2=360 Shingle=d: as Index1=362 - Index2=362
+Para No1=169 - Para No2=360 Shingle=: as  Index1=363 - Index2=363
+Para No1=169 - Para No2=360 Shingle= as t Index1=364 - Index2=364
+Para No1=169 - Para No2=360 Shingle=as th Index1=365 - Index2=365
+Para No1=169 - Para No2=360 Shingle=s the Index1=366 - Index2=366
+Para No1=169 - Para No2=360 Shingle= the  Index1=367 - Index2=3
+Para No1=169 - Para No2=360 Shingle=the c Index1=368 - Index2=4
+Para No1=169 - Para No2=360 Shingle=he ca Index1=369 - Index2=5
+Para No1=169 - Para No2=360 Shingle=e car Index1=370 - Index2=370
+Para No1=169 - Para No2=360 Shingle= car  Index1=371 - Index2=339
+Para No1=169 - Para No2=360 Shingle=car i Index1=372 - Index2=372
+Para No1=169 - Para No2=360 Shingle=ar is Index1=373 - Index2=373
+Para No1=169 - Para No2=360 Shingle=r is  Index1=374 - Index2=374
+Para No1=169 - Para No2=360 Shingle= is a Index1=375 - Index2=300
+Para No1=169 - Para No2=360 Shingle=is ap Index1=376 - Index2=376
+Para No1=169 - Para No2=360 Shingle=s app Index1=377 - Index2=377
+Para No1=169 - Para No2=360 Shingle= appr Index1=378 - Index2=378
+Para No1=169 - Para No2=360 Shingle=appro Index1=379 - Index2=379
+Para No1=169 - Para No2=360 Shingle=pproa Index1=380 - Index2=380
+Para No1=169 - Para No2=360 Shingle=proac Index1=381 - Index2=381
+Para No1=169 - Para No2=360 Shingle=roach Index1=382 - Index2=382
+Para No1=169 - Para No2=360 Shingle=oachi Index1=383 - Index2=383
+Para No1=169 - Para No2=360 Shingle=achin Index1=384 - Index2=384
+Para No1=169 - Para No2=360 Shingle=ching Index1=385 - Index2=385
+Para No1=169 - Para No2=360 Shingle=hing, Index1=386 - Index2=386
+Para No1=169 - Para No2=360 Shingle=ing,  Index1=387 - Index2=387
+Para No1=169 - Para No2=360 Shingle=ng, i Index1=388 - Index2=388
+Para No1=169 - Para No2=360 Shingle=g, it Index1=389 - Index2=389
+Para No1=169 - Para No2=360 Shingle=, its Index1=390 - Index2=390
+Para No1=169 - Para No2=360 Shingle= its  Index1=391 - Index2=391
+Para No1=169 - Para No2=360 Shingle=its e Index1=392 - Index2=392
+Para No1=169 - Para No2=360 Shingle=ts en Index1=393 - Index2=393
+Para No1=169 - Para No2=360 Shingle=s eng Index1=394 - Index2=394
+Para No1=169 - Para No2=360 Shingle= engi Index1=395 - Index2=395
+Para No1=169 - Para No2=360 Shingle=engin Index1=396 - Index2=396
+Para No1=169 - Para No2=360 Shingle=ngine Index1=397 - Index2=397
+Para No1=169 - Para No2=360 Shingle=gine  Index1=398 - Index2=398
+Para No1=169 - Para No2=360 Shingle=ine s Index1=399 - Index2=399
+Para No1=169 - Para No2=360 Shingle=ne so Index1=400 - Index2=400
+Para No1=169 - Para No2=360 Shingle=e sou Index1=401 - Index2=401
+Para No1=169 - Para No2=360 Shingle= soun Index1=402 - Index2=402
+Para No1=169 - Para No2=360 Shingle=sound Index1=403 - Index2=403
+Para No1=169 - Para No2=360 Shingle=ounds Index1=404 - Index2=404
+Para No1=169 - Para No2=360 Shingle=unds  Index1=405 - Index2=405
+Para No1=169 - Para No2=360 Shingle=nds a Index1=406 - Index2=406
+Para No1=169 - Para No2=360 Shingle=ds at Index1=407 - Index2=407
+Para No1=169 - Para No2=360 Shingle=s at  Index1=408 - Index2=408
+Para No1=169 - Para No2=360 Shingle= at a Index1=409 - Index2=409
+Para No1=169 - Para No2=360 Shingle=at a  Index1=410 - Index2=410
+Para No1=169 - Para No2=360 Shingle=t a h Index1=411 - Index2=411
+Para No1=169 - Para No2=360 Shingle= a hi Index1=412 - Index2=412
+Para No1=169 - Para No2=360 Shingle=a hig Index1=413 - Index2=413
+Para No1=169 - Para No2=360 Shingle= high Index1=414 - Index2=414
+Para No1=169 - Para No2=360 Shingle=highe Index1=415 - Index2=415
+Para No1=169 - Para No2=360 Shingle=igher Index1=416 - Index2=416
+Para No1=169 - Para No2=360 Shingle=gher  Index1=417 - Index2=417
+Para No1=169 - Para No2=360 Shingle=her p Index1=418 - Index2=418
+Para No1=169 - Para No2=360 Shingle=er pi Index1=419 - Index2=419
+Para No1=169 - Para No2=360 Shingle=r pit Index1=420 - Index2=420
+Para No1=169 - Para No2=360 Shingle= pitc Index1=421 - Index2=421
+Para No1=169 - Para No2=360 Shingle=pitch Index1=422 - Index2=422
+Para No1=169 - Para No2=360 Shingle=itch  Index1=423 - Index2=423
+Para No1=169 - Para No2=360 Shingle=tch ( Index1=424 - Index2=424
+Para No1=169 - Para No2=360 Shingle=ch (c Index1=425 - Index2=425
+Para No1=169 - Para No2=360 Shingle=h (co Index1=426 - Index2=426
+Para No1=169 - Para No2=360 Shingle= (cor Index1=427 - Index2=427
+Para No1=169 - Para No2=360 Shingle=(corr Index1=428 - Index2=428
+Para No1=169 - Para No2=360 Shingle=corre Index1=429 - Index2=429
+Para No1=169 - Para No2=360 Shingle=orres Index1=430 - Index2=430
+Para No1=169 - Para No2=360 Shingle=rresp Index1=431 - Index2=431
+Para No1=169 - Para No2=360 Shingle=respo Index1=432 - Index2=432
+Para No1=169 - Para No2=360 Shingle=espon Index1=433 - Index2=433
+Para No1=169 - Para No2=360 Shingle=spond Index1=434 - Index2=434
+Para No1=169 - Para No2=360 Shingle=pondi Index1=435 - Index2=435
+Para No1=169 - Para No2=360 Shingle=ondin Index1=436 - Index2=436
+Para No1=169 - Para No2=360 Shingle=nding Index1=437 - Index2=437
+Para No1=169 - Para No2=360 Shingle=ding  Index1=438 - Index2=438
+Para No1=169 - Para No2=360 Shingle=ing t Index1=439 - Index2=165
+Para No1=169 - Para No2=360 Shingle=ng to Index1=440 - Index2=166
+Para No1=169 - Para No2=360 Shingle=g to  Index1=441 - Index2=441
+Para No1=169 - Para No2=360 Shingle= to a Index1=442 - Index2=334
+Para No1=169 - Para No2=360 Shingle=to a  Index1=443 - Index2=335
+Para No1=169 - Para No2=360 Shingle=o a s Index1=444 - Index2=444
+Para No1=169 - Para No2=360 Shingle= a sh Index1=445 - Index2=445
+Para No1=169 - Para No2=360 Shingle=a sho Index1=446 - Index2=446
+Para No1=169 - Para No2=360 Shingle= shor Index1=447 - Index2=447
+Para No1=169 - Para No2=360 Shingle=short Index1=448 - Index2=448
+Para No1=169 - Para No2=360 Shingle=horte Index1=449 - Index2=449
+Para No1=169 - Para No2=360 Shingle=orter Index1=450 - Index2=450
+Para No1=169 - Para No2=360 Shingle=rter  Index1=451 - Index2=451
+Para No1=169 - Para No2=360 Shingle=ter w Index1=452 - Index2=452
+Para No1=169 - Para No2=360 Shingle=er wa Index1=453 - Index2=453
+Para No1=169 - Para No2=360 Shingle=r wav Index1=454 - Index2=454
+Para No1=169 - Para No2=360 Shingle= wave Index1=455 - Index2=242
+Para No1=169 - Para No2=360 Shingle=wavel Index1=456 - Index2=243
+Para No1=169 - Para No2=360 Shingle=avele Index1=457 - Index2=244
+Para No1=169 - Para No2=360 Shingle=velen Index1=458 - Index2=245
+Para No1=169 - Para No2=360 Shingle=eleng Index1=459 - Index2=246
+Para No1=169 - Para No2=360 Shingle=lengt Index1=460 - Index2=247
+Para No1=169 - Para No2=360 Shingle=ength Index1=461 - Index2=248
+Para No1=169 - Para No2=360 Shingle=ngth  Index1=462 - Index2=249
+Para No1=169 - Para No2=360 Shingle=gth a Index1=463 - Index2=250
+Para No1=169 - Para No2=360 Shingle=th an Index1=464 - Index2=251
+Para No1=169 - Para No2=360 Shingle=h and Index1=465 - Index2=252
+Para No1=169 - Para No2=360 Shingle= and  Index1=466 - Index2=151
+Para No1=169 - Para No2=360 Shingle=and h Index1=467 - Index2=467
+Para No1=169 - Para No2=360 Shingle=nd hi Index1=468 - Index2=468
+Para No1=169 - Para No2=360 Shingle=d hig Index1=469 - Index2=469
+Para No1=169 - Para No2=360 Shingle= high Index1=470 - Index2=414
+Para No1=169 - Para No2=360 Shingle=highe Index1=471 - Index2=415
+Para No1=169 - Para No2=360 Shingle=igher Index1=472 - Index2=416
+Para No1=169 - Para No2=360 Shingle=gher  Index1=473 - Index2=417
+Para No1=169 - Para No2=360 Shingle=her f Index1=474 - Index2=474
+Para No1=169 - Para No2=360 Shingle=er fr Index1=475 - Index2=475
+Para No1=169 - Para No2=360 Shingle=r fre Index1=476 - Index2=476
+Para No1=169 - Para No2=360 Shingle= freq Index1=477 - Index2=477
+Para No1=169 - Para No2=360 Shingle=frequ Index1=478 - Index2=478
+Para No1=169 - Para No2=360 Shingle=reque Index1=479 - Index2=479
+Para No1=169 - Para No2=360 Shingle=equen Index1=480 - Index2=480
+Para No1=169 - Para No2=360 Shingle=quenc Index1=481 - Index2=481
+Para No1=169 - Para No2=360 Shingle=uency Index1=482 - Index2=482
+Para No1=169 - Para No2=360 Shingle=ency  Index1=483 - Index2=483
+Para No1=169 - Para No2=360 Shingle=ncy o Index1=484 - Index2=484
+Para No1=169 - Para No2=360 Shingle=cy of Index1=485 - Index2=485
+Para No1=169 - Para No2=360 Shingle=y of  Index1=486 - Index2=486
+Para No1=169 - Para No2=360 Shingle= of s Index1=487 - Index2=487
+Para No1=169 - Para No2=360 Shingle=of so Index1=488 - Index2=488
+Para No1=169 - Para No2=360 Shingle=f sou Index1=489 - Index2=489
+Para No1=169 - Para No2=360 Shingle= soun Index1=490 - Index2=402
+Para No1=169 - Para No2=360 Shingle=sound Index1=491 - Index2=403
+Para No1=169 - Para No2=360 Shingle=ound  Index1=492 - Index2=492
+Para No1=169 - Para No2=360 Shingle=und w Index1=493 - Index2=493
+Para No1=169 - Para No2=360 Shingle=nd wa Index1=494 - Index2=494
+Para No1=169 - Para No2=360 Shingle=d wav Index1=495 - Index2=495
+Para No1=169 - Para No2=360 Shingle= wave Index1=496 - Index2=242
+Para No1=169 - Para No2=360 Shingle=waves Index1=497 - Index2=497
+Para No1=169 - Para No2=360 Shingle=aves) Index1=498 - Index2=498
+Para No1=169 - Para No2=360 Shingle=ves), Index1=499 - Index2=499
+Para No1=169 - Para No2=360 Shingle=es),  Index1=500 - Index2=500
+Para No1=169 - Para No2=360 Shingle=s), a Index1=501 - Index2=501
+Para No1=169 - Para No2=360 Shingle=), an Index1=502 - Index2=502
+Para No1=169 - Para No2=360 Shingle=, and Index1=503 - Index2=503
+Para No1=169 - Para No2=360 Shingle= and  Index1=504 - Index2=151
+Para No1=169 - Para No2=360 Shingle=and w Index1=505 - Index2=505
+Para No1=169 - Para No2=360 Shingle=nd wh Index1=506 - Index2=506
+Para No1=169 - Para No2=360 Shingle=d whe Index1=507 - Index2=507
+Para No1=169 - Para No2=360 Shingle= when Index1=508 - Index2=508
+Para No1=169 - Para No2=360 Shingle=when  Index1=509 - Index2=509
+Para No1=169 - Para No2=360 Shingle=hen i Index1=510 - Index2=510
+Para No1=169 - Para No2=360 Shingle=en it Index1=511 - Index2=511
+Para No1=169 - Para No2=360 Shingle=n it  Index1=512 - Index2=512
+Para No1=169 - Para No2=360 Shingle= it p Index1=513 - Index2=513
+Para No1=169 - Para No2=360 Shingle=it pa Index1=514 - Index2=514
+Para No1=169 - Para No2=360 Shingle=t pas Index1=515 - Index2=515
+Para No1=169 - Para No2=360 Shingle= pass Index1=516 - Index2=343
+Para No1=169 - Para No2=360 Shingle=passe Index1=517 - Index2=517
+Para No1=169 - Para No2=360 Shingle=asses Index1=518 - Index2=518
+Para No1=169 - Para No2=360 Shingle=sses  Index1=519 - Index2=519
+Para No1=169 - Para No2=360 Shingle=ses a Index1=520 - Index2=520
+Para No1=169 - Para No2=360 Shingle=es an Index1=521 - Index2=521
+Para No1=169 - Para No2=360 Shingle=s and Index1=522 - Index2=522
+Para No1=169 - Para No2=360 Shingle= and  Index1=523 - Index2=151
+Para No1=169 - Para No2=360 Shingle=and g Index1=524 - Index2=524
+Para No1=169 - Para No2=360 Shingle=nd go Index1=525 - Index2=525
+Para No1=169 - Para No2=360 Shingle=d goe Index1=526 - Index2=526
+Para No1=169 - Para No2=360 Shingle= goes Index1=527 - Index2=527
+Para No1=169 - Para No2=360 Shingle=goes  Index1=528 - Index2=528
+Para No1=169 - Para No2=360 Shingle=oes a Index1=529 - Index2=529
+Para No1=169 - Para No2=360 Shingle=es aw Index1=530 - Index2=530
+Para No1=169 - Para No2=360 Shingle=s awa Index1=531 - Index2=531
+Para No1=169 - Para No2=360 Shingle= away Index1=532 - Index2=57
+Para No1=169 - Para No2=360 Shingle=away, Index1=533 - Index2=533
+Para No1=169 - Para No2=360 Shingle=way,  Index1=534 - Index2=534
+Para No1=169 - Para No2=360 Shingle=ay, i Index1=535 - Index2=535
+Para No1=169 - Para No2=360 Shingle=y, it Index1=536 - Index2=536
+Para No1=169 - Para No2=360 Shingle=, it  Index1=537 - Index2=537
+Para No1=169 - Para No2=360 Shingle= it s Index1=538 - Index2=538
+Para No1=169 - Para No2=360 Shingle=it so Index1=539 - Index2=539
+Para No1=169 - Para No2=360 Shingle=t sou Index1=540 - Index2=540
+Para No1=169 - Para No2=360 Shingle= soun Index1=541 - Index2=402
+Para No1=169 - Para No2=360 Shingle=sound Index1=542 - Index2=403
+Para No1=169 - Para No2=360 Shingle=ounds Index1=543 - Index2=404
+Para No1=169 - Para No2=360 Shingle=unds  Index1=544 - Index2=405
+Para No1=169 - Para No2=360 Shingle=nds a Index1=545 - Index2=406
+Para No1=169 - Para No2=360 Shingle=ds at Index1=546 - Index2=407
+Para No1=169 - Para No2=360 Shingle=s at  Index1=547 - Index2=408
+Para No1=169 - Para No2=360 Shingle= at a Index1=548 - Index2=409
+Para No1=169 - Para No2=360 Shingle=at a  Index1=549 - Index2=410
+Para No1=169 - Para No2=360 Shingle=t a l Index1=550 - Index2=550
+Para No1=169 - Para No2=360 Shingle= a lo Index1=551 - Index2=551
+Para No1=169 - Para No2=360 Shingle=a low Index1=552 - Index2=552
+Para No1=169 - Para No2=360 Shingle= lowe Index1=553 - Index2=553
+Para No1=169 - Para No2=360 Shingle=lower Index1=554 - Index2=554
+Para No1=169 - Para No2=360 Shingle=ower  Index1=555 - Index2=555
+Para No1=169 - Para No2=360 Shingle=wer p Index1=556 - Index2=556
+Para No1=169 - Para No2=360 Shingle=er pi Index1=557 - Index2=419
+Para No1=169 - Para No2=360 Shingle=r pit Index1=558 - Index2=420
+Para No1=169 - Para No2=360 Shingle= pitc Index1=559 - Index2=421
+Para No1=169 - Para No2=360 Shingle=pitch Index1=560 - Index2=422
+Para No1=169 - Para No2=360 Shingle=itch" Index1=561 - Index2=561
+-------------------------------------------
+Para No1=176 - Para No2=181 Shingle="Both Index1=0 - Index2=0
+Para No1=176 - Para No2=181 Shingle=Both  Index1=1 - Index2=1
+Para No1=176 - Para No2=181 Shingle=oth A Index1=2 - Index2=2
+Para No1=176 - Para No2=181 Shingle=th Ar Index1=3 - Index2=3
+Para No1=176 - Para No2=181 Shingle=h Ari Index1=4 - Index2=4
+Para No1=176 - Para No2=181 Shingle= Aris Index1=5 - Index2=5
+Para No1=176 - Para No2=181 Shingle=Arist Index1=6 - Index2=6
+Para No1=176 - Para No2=181 Shingle=risto Index1=7 - Index2=7
+Para No1=176 - Para No2=181 Shingle=istot Index1=8 - Index2=8
+Para No1=176 - Para No2=181 Shingle=stotl Index1=9 - Index2=9
+Para No1=176 - Para No2=181 Shingle=totle Index1=10 - Index2=10
+Para No1=176 - Para No2=181 Shingle=otle  Index1=11 - Index2=11
+Para No1=176 - Para No2=181 Shingle=tle a Index1=12 - Index2=12
+Para No1=176 - Para No2=181 Shingle=le an Index1=13 - Index2=13
+Para No1=176 - Para No2=181 Shingle=e and Index1=14 - Index2=14
+Para No1=176 - Para No2=181 Shingle= and  Index1=15 - Index2=15
+Para No1=176 - Para No2=181 Shingle=and N Index1=16 - Index2=16
+Para No1=176 - Para No2=181 Shingle=nd Ne Index1=17 - Index2=17
+Para No1=176 - Para No2=181 Shingle=d New Index1=18 - Index2=18
+Para No1=176 - Para No2=181 Shingle= Newt Index1=19 - Index2=19
+Para No1=176 - Para No2=181 Shingle=Newto Index1=20 - Index2=20
+Para No1=176 - Para No2=181 Shingle=ewton Index1=21 - Index2=21
+Para No1=176 - Para No2=181 Shingle=wton  Index1=22 - Index2=22
+Para No1=176 - Para No2=181 Shingle=ton b Index1=23 - Index2=23
+Para No1=176 - Para No2=181 Shingle=on be Index1=24 - Index2=24
+Para No1=176 - Para No2=181 Shingle=n bel Index1=25 - Index2=25
+Para No1=176 - Para No2=181 Shingle= beli Index1=26 - Index2=26
+Para No1=176 - Para No2=181 Shingle=belie Index1=27 - Index2=27
+Para No1=176 - Para No2=181 Shingle=eliev Index1=28 - Index2=28
+Para No1=176 - Para No2=181 Shingle=lieve Index1=29 - Index2=29
+Para No1=176 - Para No2=181 Shingle=ieved Index1=30 - Index2=30
+Para No1=176 - Para No2=181 Shingle=eved  Index1=31 - Index2=31
+Para No1=176 - Para No2=181 Shingle=ved i Index1=32 - Index2=32
+Para No1=176 - Para No2=181 Shingle=ed in Index1=33 - Index2=33
+Para No1=176 - Para No2=181 Shingle=d in  Index1=34 - Index2=34
+Para No1=176 - Para No2=181 Shingle= in a Index1=35 - Index2=35
+Para No1=176 - Para No2=181 Shingle=in ab Index1=36 - Index2=36
+Para No1=176 - Para No2=181 Shingle=n abs Index1=37 - Index2=37
+Para No1=176 - Para No2=181 Shingle= abso Index1=38 - Index2=38
+Para No1=176 - Para No2=181 Shingle=absol Index1=39 - Index2=39
+Para No1=176 - Para No2=181 Shingle=bsolu Index1=40 - Index2=40
+Para No1=176 - Para No2=181 Shingle=solut Index1=41 - Index2=41
+Para No1=176 - Para No2=181 Shingle=olute Index1=42 - Index2=42
+Para No1=176 - Para No2=181 Shingle=lute  Index1=43 - Index2=43
+Para No1=176 - Para No2=181 Shingle=ute t Index1=44 - Index2=44
+Para No1=176 - Para No2=181 Shingle=te ti Index1=45 - Index2=45
+Para No1=176 - Para No2=181 Shingle=e tim Index1=46 - Index2=46
+Para No1=176 - Para No2=181 Shingle= time Index1=47 - Index2=47
+Para No1=176 - Para No2=181 Shingle=time. Index1=48 - Index2=48
+Para No1=176 - Para No2=181 Shingle=ime.  Index1=49 - Index2=49
+Para No1=176 - Para No2=181 Shingle=me. T Index1=50 - Index2=50
+Para No1=176 - Para No2=181 Shingle=e. Th Index1=51 - Index2=51
+Para No1=176 - Para No2=181 Shingle=. Tha Index1=52 - Index2=52
+Para No1=176 - Para No2=181 Shingle= That Index1=53 - Index2=53
+Para No1=176 - Para No2=181 Shingle=That  Index1=54 - Index2=54
+Para No1=176 - Para No2=181 Shingle=hat i Index1=55 - Index2=55
+Para No1=176 - Para No2=181 Shingle=at is Index1=56 - Index2=56
+Para No1=176 - Para No2=181 Shingle=t is, Index1=57 - Index2=57
+Para No1=176 - Para No2=181 Shingle= is,  Index1=58 - Index2=58
+Para No1=176 - Para No2=181 Shingle=is, t Index1=59 - Index2=59
+Para No1=176 - Para No2=181 Shingle=s, th Index1=60 - Index2=60
+Para No1=176 - Para No2=181 Shingle=, the Index1=61 - Index2=61
+Para No1=176 - Para No2=181 Shingle= they Index1=62 - Index2=62
+Para No1=176 - Para No2=181 Shingle=they  Index1=63 - Index2=63
+Para No1=176 - Para No2=181 Shingle=hey b Index1=64 - Index2=64
+Para No1=176 - Para No2=181 Shingle=ey be Index1=65 - Index2=65
+Para No1=176 - Para No2=181 Shingle=y bel Index1=66 - Index2=66
+Para No1=176 - Para No2=181 Shingle= beli Index1=67 - Index2=26
+Para No1=176 - Para No2=181 Shingle=belie Index1=68 - Index2=27
+Para No1=176 - Para No2=181 Shingle=eliev Index1=69 - Index2=28
+Para No1=176 - Para No2=181 Shingle=lieve Index1=70 - Index2=29
+Para No1=176 - Para No2=181 Shingle=ieved Index1=71 - Index2=30
+Para No1=176 - Para No2=181 Shingle=eved  Index1=72 - Index2=31
+Para No1=176 - Para No2=181 Shingle=ved t Index1=73 - Index2=73
+Para No1=176 - Para No2=181 Shingle=ed th Index1=74 - Index2=74
+Para No1=176 - Para No2=181 Shingle=d tha Index1=75 - Index2=75
+Para No1=176 - Para No2=181 Shingle= that Index1=76 - Index2=76
+Para No1=176 - Para No2=181 Shingle=that  Index1=77 - Index2=77
+Para No1=176 - Para No2=181 Shingle=hat o Index1=78 - Index2=78
+Para No1=176 - Para No2=181 Shingle=at on Index1=79 - Index2=79
+Para No1=176 - Para No2=181 Shingle=t one Index1=80 - Index2=80
+Para No1=176 - Para No2=181 Shingle= one  Index1=81 - Index2=81
+Para No1=176 - Para No2=181 Shingle=one c Index1=82 - Index2=82
+Para No1=176 - Para No2=181 Shingle=ne co Index1=83 - Index2=83
+Para No1=176 - Para No2=181 Shingle=e cou Index1=84 - Index2=84
+Para No1=176 - Para No2=181 Shingle= coul Index1=85 - Index2=85
+Para No1=176 - Para No2=181 Shingle=could Index1=86 - Index2=86
+Para No1=176 - Para No2=181 Shingle=ould  Index1=87 - Index2=87
+Para No1=176 - Para No2=181 Shingle=uld u Index1=88 - Index2=88
+Para No1=176 - Para No2=181 Shingle=ld un Index1=89 - Index2=89
+Para No1=176 - Para No2=181 Shingle=d una Index1=90 - Index2=90
+Para No1=176 - Para No2=181 Shingle= unam Index1=91 - Index2=91
+Para No1=176 - Para No2=181 Shingle=unamb Index1=92 - Index2=92
+Para No1=176 - Para No2=181 Shingle=nambi Index1=93 - Index2=93
+Para No1=176 - Para No2=181 Shingle=ambig Index1=94 - Index2=94
+Para No1=176 - Para No2=181 Shingle=mbigu Index1=95 - Index2=95
+Para No1=176 - Para No2=181 Shingle=biguo Index1=96 - Index2=96
+Para No1=176 - Para No2=181 Shingle=iguou Index1=97 - Index2=97
+Para No1=176 - Para No2=181 Shingle=guous Index1=98 - Index2=98
+Para No1=176 - Para No2=181 Shingle=uousl Index1=99 - Index2=99
+Para No1=176 - Para No2=181 Shingle=ously Index1=100 - Index2=100
+Para No1=176 - Para No2=181 Shingle=usly  Index1=101 - Index2=101
+Para No1=176 - Para No2=181 Shingle=sly m Index1=102 - Index2=102
+Para No1=176 - Para No2=181 Shingle=ly me Index1=103 - Index2=103
+Para No1=176 - Para No2=181 Shingle=y mea Index1=104 - Index2=104
+Para No1=176 - Para No2=181 Shingle= meas Index1=105 - Index2=105
+Para No1=176 - Para No2=181 Shingle=measu Index1=106 - Index2=106
+Para No1=176 - Para No2=181 Shingle=easur Index1=107 - Index2=107
+Para No1=176 - Para No2=181 Shingle=asure Index1=108 - Index2=108
+Para No1=176 - Para No2=181 Shingle=sure  Index1=109 - Index2=109
+Para No1=176 - Para No2=181 Shingle=ure t Index1=110 - Index2=110
+Para No1=176 - Para No2=181 Shingle=re th Index1=111 - Index2=111
+Para No1=176 - Para No2=181 Shingle=e the Index1=112 - Index2=112
+Para No1=176 - Para No2=181 Shingle= the  Index1=113 - Index2=113
+Para No1=176 - Para No2=181 Shingle=the i Index1=114 - Index2=114
+Para No1=176 - Para No2=181 Shingle=he in Index1=115 - Index2=115
+Para No1=176 - Para No2=181 Shingle=e int Index1=116 - Index2=116
+Para No1=176 - Para No2=181 Shingle= inte Index1=117 - Index2=117
+Para No1=176 - Para No2=181 Shingle=inter Index1=118 - Index2=118
+Para No1=176 - Para No2=181 Shingle=nterv Index1=119 - Index2=119
+Para No1=176 - Para No2=181 Shingle=terva Index1=120 - Index2=120
+Para No1=176 - Para No2=181 Shingle=erval Index1=121 - Index2=121
+Para No1=176 - Para No2=181 Shingle=rval  Index1=122 - Index2=122
+Para No1=176 - Para No2=181 Shingle=val o Index1=123 - Index2=123
+Para No1=176 - Para No2=181 Shingle=al of Index1=124 - Index2=124
+Para No1=176 - Para No2=181 Shingle=l of  Index1=125 - Index2=125
+Para No1=176 - Para No2=181 Shingle= of t Index1=126 - Index2=126
+Para No1=176 - Para No2=181 Shingle=of ti Index1=127 - Index2=127
+Para No1=176 - Para No2=181 Shingle=f tim Index1=128 - Index2=128
+Para No1=176 - Para No2=181 Shingle= time Index1=129 - Index2=47
+Para No1=176 - Para No2=181 Shingle=time  Index1=130 - Index2=130
+Para No1=176 - Para No2=181 Shingle=ime b Index1=131 - Index2=131
+Para No1=176 - Para No2=181 Shingle=me be Index1=132 - Index2=132
+Para No1=176 - Para No2=181 Shingle=e bet Index1=133 - Index2=133
+Para No1=176 - Para No2=181 Shingle= betw Index1=134 - Index2=134
+Para No1=176 - Para No2=181 Shingle=betwe Index1=135 - Index2=135
+Para No1=176 - Para No2=181 Shingle=etwee Index1=136 - Index2=136
+Para No1=176 - Para No2=181 Shingle=tween Index1=137 - Index2=137
+Para No1=176 - Para No2=181 Shingle=ween  Index1=138 - Index2=138
+Para No1=176 - Para No2=181 Shingle=een t Index1=139 - Index2=139
+Para No1=176 - Para No2=181 Shingle=en tw Index1=140 - Index2=140
+Para No1=176 - Para No2=181 Shingle=n two Index1=141 - Index2=141
+Para No1=176 - Para No2=181 Shingle= two  Index1=142 - Index2=142
+Para No1=176 - Para No2=181 Shingle=two e Index1=143 - Index2=143
+Para No1=176 - Para No2=181 Shingle=wo ev Index1=144 - Index2=144
+Para No1=176 - Para No2=181 Shingle=o eve Index1=145 - Index2=145
+Para No1=176 - Para No2=181 Shingle= even Index1=146 - Index2=146
+Para No1=176 - Para No2=181 Shingle=event Index1=147 - Index2=147
+Para No1=176 - Para No2=181 Shingle=vents Index1=148 - Index2=148
+Para No1=176 - Para No2=181 Shingle=ents, Index1=149 - Index2=149
+Para No1=176 - Para No2=181 Shingle=nts,  Index1=150 - Index2=150
+Para No1=176 - Para No2=181 Shingle=ts, a Index1=151 - Index2=151
+Para No1=176 - Para No2=181 Shingle=s, an Index1=152 - Index2=152
+Para No1=176 - Para No2=181 Shingle=, and Index1=153 - Index2=153
+Para No1=176 - Para No2=181 Shingle= and  Index1=154 - Index2=15
+Para No1=176 - Para No2=181 Shingle=and t Index1=155 - Index2=155
+Para No1=176 - Para No2=181 Shingle=nd th Index1=156 - Index2=156
+Para No1=176 - Para No2=181 Shingle=d tha Index1=157 - Index2=75
+Para No1=176 - Para No2=181 Shingle= that Index1=158 - Index2=76
+Para No1=176 - Para No2=181 Shingle=that  Index1=159 - Index2=77
+Para No1=176 - Para No2=181 Shingle=hat t Index1=160 - Index2=160
+Para No1=176 - Para No2=181 Shingle=at th Index1=161 - Index2=161
+Para No1=176 - Para No2=181 Shingle=t thi Index1=162 - Index2=162
+Para No1=176 - Para No2=181 Shingle= this Index1=163 - Index2=163
+Para No1=176 - Para No2=181 Shingle=this  Index1=164 - Index2=164
+Para No1=176 - Para No2=181 Shingle=his t Index1=165 - Index2=165
+Para No1=176 - Para No2=181 Shingle=is ti Index1=166 - Index2=166
+Para No1=176 - Para No2=181 Shingle=s tim Index1=167 - Index2=167
+Para No1=176 - Para No2=181 Shingle= time Index1=168 - Index2=47
+Para No1=176 - Para No2=181 Shingle=time  Index1=169 - Index2=130
+Para No1=176 - Para No2=181 Shingle=ime w Index1=170 - Index2=170
+Para No1=176 - Para No2=181 Shingle=me wo Index1=171 - Index2=171
+Para No1=176 - Para No2=181 Shingle=e wou Index1=172 - Index2=172
+Para No1=176 - Para No2=181 Shingle= woul Index1=173 - Index2=173
+Para No1=176 - Para No2=181 Shingle=would Index1=174 - Index2=174
+Para No1=176 - Para No2=181 Shingle=ould  Index1=175 - Index2=87
+Para No1=176 - Para No2=181 Shingle=uld b Index1=176 - Index2=176
+Para No1=176 - Para No2=181 Shingle=ld be Index1=177 - Index2=177
+Para No1=176 - Para No2=181 Shingle=d be  Index1=178 - Index2=178
+Para No1=176 - Para No2=181 Shingle= be t Index1=179 - Index2=179
+Para No1=176 - Para No2=181 Shingle=be th Index1=180 - Index2=180
+Para No1=176 - Para No2=181 Shingle=e the Index1=181 - Index2=112
+Para No1=176 - Para No2=181 Shingle= the  Index1=182 - Index2=113
+Para No1=176 - Para No2=181 Shingle=the s Index1=183 - Index2=183
+Para No1=176 - Para No2=181 Shingle=he sa Index1=184 - Index2=184
+Para No1=176 - Para No2=181 Shingle=e sam Index1=185 - Index2=185
+Para No1=176 - Para No2=181 Shingle= same Index1=186 - Index2=186
+Para No1=176 - Para No2=181 Shingle=same  Index1=187 - Index2=187
+Para No1=176 - Para No2=181 Shingle=ame w Index1=188 - Index2=188
+Para No1=176 - Para No2=181 Shingle=me wh Index1=189 - Index2=189
+Para No1=176 - Para No2=181 Shingle=e who Index1=190 - Index2=190
+Para No1=176 - Para No2=181 Shingle= whoe Index1=191 - Index2=191
+Para No1=176 - Para No2=181 Shingle=whoev Index1=192 - Index2=192
+Para No1=176 - Para No2=181 Shingle=hoeve Index1=193 - Index2=193
+Para No1=176 - Para No2=181 Shingle=oever Index1=194 - Index2=194
+Para No1=176 - Para No2=181 Shingle=ever  Index1=195 - Index2=195
+Para No1=176 - Para No2=181 Shingle=ver m Index1=196 - Index2=196
+Para No1=176 - Para No2=181 Shingle=er me Index1=197 - Index2=197
+Para No1=176 - Para No2=181 Shingle=r mea Index1=198 - Index2=198
+Para No1=176 - Para No2=181 Shingle= meas Index1=199 - Index2=105
+Para No1=176 - Para No2=181 Shingle=measu Index1=200 - Index2=106
+Para No1=176 - Para No2=181 Shingle=easur Index1=201 - Index2=107
+Para No1=176 - Para No2=181 Shingle=asure Index1=202 - Index2=108
+Para No1=176 - Para No2=181 Shingle=sured Index1=203 - Index2=203
+Para No1=176 - Para No2=181 Shingle=ured  Index1=204 - Index2=204
+Para No1=176 - Para No2=181 Shingle=red i Index1=205 - Index2=205
+Para No1=176 - Para No2=181 Shingle=ed it Index1=206 - Index2=206
+Para No1=176 - Para No2=181 Shingle=d it, Index1=207 - Index2=207
+Para No1=176 - Para No2=181 Shingle= it,  Index1=208 - Index2=208
+Para No1=176 - Para No2=181 Shingle=it, p Index1=209 - Index2=209
+Para No1=176 - Para No2=181 Shingle=t, pr Index1=210 - Index2=210
+Para No1=176 - Para No2=181 Shingle=, pro Index1=211 - Index2=211
+Para No1=176 - Para No2=181 Shingle= prov Index1=212 - Index2=212
+Para No1=176 - Para No2=181 Shingle=provi Index1=213 - Index2=213
+Para No1=176 - Para No2=181 Shingle=rovid Index1=214 - Index2=214
+Para No1=176 - Para No2=181 Shingle=ovide Index1=215 - Index2=215
+Para No1=176 - Para No2=181 Shingle=vided Index1=216 - Index2=216
+Para No1=176 - Para No2=181 Shingle=ided  Index1=217 - Index2=217
+Para No1=176 - Para No2=181 Shingle=ded t Index1=218 - Index2=218
+Para No1=176 - Para No2=181 Shingle=ed th Index1=219 - Index2=74
+Para No1=176 - Para No2=181 Shingle=d the Index1=220 - Index2=220
+Para No1=176 - Para No2=181 Shingle= they Index1=221 - Index2=62
+Para No1=176 - Para No2=181 Shingle=they  Index1=222 - Index2=63
+Para No1=176 - Para No2=181 Shingle=hey u Index1=223 - Index2=223
+Para No1=176 - Para No2=181 Shingle=ey us Index1=224 - Index2=224
+Para No1=176 - Para No2=181 Shingle=y use Index1=225 - Index2=225
+Para No1=176 - Para No2=181 Shingle= used Index1=226 - Index2=226
+Para No1=176 - Para No2=181 Shingle=used  Index1=227 - Index2=227
+Para No1=176 - Para No2=181 Shingle=sed a Index1=228 - Index2=228
+Para No1=176 - Para No2=181 Shingle=ed a  Index1=229 - Index2=229
+Para No1=176 - Para No2=181 Shingle=d a g Index1=230 - Index2=230
+Para No1=176 - Para No2=181 Shingle= a go Index1=231 - Index2=231
+Para No1=176 - Para No2=181 Shingle=a goo Index1=232 - Index2=232
+Para No1=176 - Para No2=181 Shingle= good Index1=233 - Index2=233
+Para No1=176 - Para No2=181 Shingle=good  Index1=234 - Index2=234
+Para No1=176 - Para No2=181 Shingle=ood c Index1=235 - Index2=235
+Para No1=176 - Para No2=181 Shingle=od cl Index1=236 - Index2=236
+Para No1=176 - Para No2=181 Shingle=d clo Index1=237 - Index2=237
+Para No1=176 - Para No2=181 Shingle= cloc Index1=238 - Index2=238
+Para No1=176 - Para No2=181 Shingle=clock Index1=239 - Index2=239
+Para No1=176 - Para No2=181 Shingle=lock. Index1=240 - Index2=240
+Para No1=176 - Para No2=181 Shingle=ock.  Index1=241 - Index2=241
+Para No1=176 - Para No2=181 Shingle=ck. T Index1=242 - Index2=242
+Para No1=176 - Para No2=181 Shingle=k. Ti Index1=243 - Index2=243
+Para No1=176 - Para No2=181 Shingle=. Tim Index1=244 - Index2=244
+Para No1=176 - Para No2=181 Shingle= Time Index1=245 - Index2=245
+Para No1=176 - Para No2=181 Shingle=Time  Index1=246 - Index2=246
+Para No1=176 - Para No2=181 Shingle=ime w Index1=247 - Index2=170
+Para No1=176 - Para No2=181 Shingle=me wa Index1=248 - Index2=248
+Para No1=176 - Para No2=181 Shingle=e was Index1=249 - Index2=249
+Para No1=176 - Para No2=181 Shingle= was  Index1=250 - Index2=250
+Para No1=176 - Para No2=181 Shingle=was c Index1=251 - Index2=251
+Para No1=176 - Para No2=181 Shingle=as co Index1=252 - Index2=252
+Para No1=176 - Para No2=181 Shingle=s com Index1=253 - Index2=253
+Para No1=176 - Para No2=181 Shingle= comp Index1=254 - Index2=254
+Para No1=176 - Para No2=181 Shingle=compl Index1=255 - Index2=255
+Para No1=176 - Para No2=181 Shingle=omple Index1=256 - Index2=256
+Para No1=176 - Para No2=181 Shingle=mplet Index1=257 - Index2=257
+Para No1=176 - Para No2=181 Shingle=plete Index1=258 - Index2=258
+Para No1=176 - Para No2=181 Shingle=letel Index1=259 - Index2=259
+Para No1=176 - Para No2=181 Shingle=etely Index1=260 - Index2=260
+Para No1=176 - Para No2=181 Shingle=tely  Index1=261 - Index2=261
+Para No1=176 - Para No2=181 Shingle=ely s Index1=262 - Index2=262
+Para No1=176 - Para No2=181 Shingle=ly se Index1=263 - Index2=263
+Para No1=176 - Para No2=181 Shingle=y sep Index1=264 - Index2=264
+Para No1=176 - Para No2=181 Shingle= sepa Index1=265 - Index2=265
+Para No1=176 - Para No2=181 Shingle=separ Index1=266 - Index2=266
+Para No1=176 - Para No2=181 Shingle=epara Index1=267 - Index2=267
+Para No1=176 - Para No2=181 Shingle=parat Index1=268 - Index2=268
+Para No1=176 - Para No2=181 Shingle=arate Index1=269 - Index2=269
+Para No1=176 - Para No2=181 Shingle=rate  Index1=270 - Index2=270
+Para No1=176 - Para No2=181 Shingle=ate f Index1=271 - Index2=271
+Para No1=176 - Para No2=181 Shingle=te fr Index1=272 - Index2=272
+Para No1=176 - Para No2=181 Shingle=e fro Index1=273 - Index2=273
+Para No1=176 - Para No2=181 Shingle= from Index1=274 - Index2=274
+Para No1=176 - Para No2=181 Shingle=from  Index1=275 - Index2=275
+Para No1=176 - Para No2=181 Shingle=rom a Index1=276 - Index2=276
+Para No1=176 - Para No2=181 Shingle=om an Index1=277 - Index2=277
+Para No1=176 - Para No2=181 Shingle=m and Index1=278 - Index2=278
+Para No1=176 - Para No2=181 Shingle= and  Index1=279 - Index2=15
+Para No1=176 - Para No2=181 Shingle=and i Index1=280 - Index2=280
+Para No1=176 - Para No2=181 Shingle=nd in Index1=281 - Index2=281
+Para No1=176 - Para No2=181 Shingle=d ind Index1=282 - Index2=282
+Para No1=176 - Para No2=181 Shingle= inde Index1=283 - Index2=283
+Para No1=176 - Para No2=181 Shingle=indep Index1=284 - Index2=284
+Para No1=176 - Para No2=181 Shingle=ndepe Index1=285 - Index2=285
+Para No1=176 - Para No2=181 Shingle=depen Index1=286 - Index2=286
+Para No1=176 - Para No2=181 Shingle=epend Index1=287 - Index2=287
+Para No1=176 - Para No2=181 Shingle=pende Index1=288 - Index2=288
+Para No1=176 - Para No2=181 Shingle=enden Index1=289 - Index2=289
+Para No1=176 - Para No2=181 Shingle=ndent Index1=290 - Index2=290
+Para No1=176 - Para No2=181 Shingle=dent  Index1=291 - Index2=291
+Para No1=176 - Para No2=181 Shingle=ent o Index1=292 - Index2=292
+Para No1=176 - Para No2=181 Shingle=nt of Index1=293 - Index2=293
+Para No1=176 - Para No2=181 Shingle=t of  Index1=294 - Index2=294
+Para No1=176 - Para No2=181 Shingle= of s Index1=295 - Index2=295
+Para No1=176 - Para No2=181 Shingle=of sp Index1=296 - Index2=296
+Para No1=176 - Para No2=181 Shingle=f spa Index1=297 - Index2=297
+Para No1=176 - Para No2=181 Shingle= spac Index1=298 - Index2=298
+Para No1=176 - Para No2=181 Shingle=space Index1=299 - Index2=299
+Para No1=176 - Para No2=181 Shingle=pace. Index1=300 - Index2=300
+Para No1=176 - Para No2=181 Shingle=ace.  Index1=301 - Index2=301
+Para No1=176 - Para No2=181 Shingle=ce. T Index1=302 - Index2=302
+Para No1=176 - Para No2=181 Shingle=e. Th Index1=303 - Index2=51
+Para No1=176 - Para No2=181 Shingle=. Thi Index1=304 - Index2=304
+Para No1=176 - Para No2=181 Shingle= This Index1=305 - Index2=305
+Para No1=176 - Para No2=181 Shingle=This  Index1=306 - Index2=306
+Para No1=176 - Para No2=181 Shingle=his i Index1=307 - Index2=307
+Para No1=176 - Para No2=181 Shingle=is is Index1=308 - Index2=308
+Para No1=176 - Para No2=181 Shingle=s is  Index1=309 - Index2=309
+Para No1=176 - Para No2=181 Shingle= is w Index1=310 - Index2=310
+Para No1=176 - Para No2=181 Shingle=is wh Index1=311 - Index2=311
+Para No1=176 - Para No2=181 Shingle=s wha Index1=312 - Index2=312
+Para No1=176 - Para No2=181 Shingle= what Index1=313 - Index2=313
+Para No1=176 - Para No2=181 Shingle=what  Index1=314 - Index2=314
+Para No1=176 - Para No2=181 Shingle=hat m Index1=315 - Index2=315
+Para No1=176 - Para No2=181 Shingle=at mo Index1=316 - Index2=316
+Para No1=176 - Para No2=181 Shingle=t mos Index1=317 - Index2=317
+Para No1=176 - Para No2=181 Shingle= most Index1=318 - Index2=318
+Para No1=176 - Para No2=181 Shingle=most  Index1=319 - Index2=319
+Para No1=176 - Para No2=181 Shingle=ost p Index1=320 - Index2=320
+Para No1=176 - Para No2=181 Shingle=st pe Index1=321 - Index2=321
+Para No1=176 - Para No2=181 Shingle=t peo Index1=322 - Index2=322
+Para No1=176 - Para No2=181 Shingle= peop Index1=323 - Index2=323
+Para No1=176 - Para No2=181 Shingle=peopl Index1=324 - Index2=324
+Para No1=176 - Para No2=181 Shingle=eople Index1=325 - Index2=325
+Para No1=176 - Para No2=181 Shingle=ople  Index1=326 - Index2=326
+Para No1=176 - Para No2=181 Shingle=ple w Index1=327 - Index2=327
+Para No1=176 - Para No2=181 Shingle=le wo Index1=328 - Index2=328
+Para No1=176 - Para No2=181 Shingle=e wou Index1=329 - Index2=172
+Para No1=176 - Para No2=181 Shingle= woul Index1=330 - Index2=173
+Para No1=176 - Para No2=181 Shingle=would Index1=331 - Index2=174
+Para No1=176 - Para No2=181 Shingle=ould  Index1=332 - Index2=87
+Para No1=176 - Para No2=181 Shingle=uld t Index1=333 - Index2=333
+Para No1=176 - Para No2=181 Shingle=ld ta Index1=334 - Index2=334
+Para No1=176 - Para No2=181 Shingle=d tak Index1=335 - Index2=335
+Para No1=176 - Para No2=181 Shingle= take Index1=336 - Index2=336
+Para No1=176 - Para No2=181 Shingle=take  Index1=337 - Index2=337
+Para No1=176 - Para No2=181 Shingle=ake t Index1=338 - Index2=338
+Para No1=176 - Para No2=181 Shingle=ke to Index1=339 - Index2=339
+Para No1=176 - Para No2=181 Shingle=e to  Index1=340 - Index2=340
+Para No1=176 - Para No2=181 Shingle= to b Index1=341 - Index2=341
+Para No1=176 - Para No2=181 Shingle=to be Index1=342 - Index2=342
+Para No1=176 - Para No2=181 Shingle=o be  Index1=343 - Index2=343
+Para No1=176 - Para No2=181 Shingle= be t Index1=344 - Index2=179
+Para No1=176 - Para No2=181 Shingle=be th Index1=345 - Index2=180
+Para No1=176 - Para No2=181 Shingle=e the Index1=346 - Index2=112
+Para No1=176 - Para No2=181 Shingle= the  Index1=347 - Index2=113
+Para No1=176 - Para No2=181 Shingle=the c Index1=348 - Index2=348
+Para No1=176 - Para No2=181 Shingle=he co Index1=349 - Index2=349
+Para No1=176 - Para No2=181 Shingle=e com Index1=350 - Index2=350
+Para No1=176 - Para No2=181 Shingle= comm Index1=351 - Index2=351
+Para No1=176 - Para No2=181 Shingle=commo Index1=352 - Index2=352
+Para No1=176 - Para No2=181 Shingle=ommon Index1=353 - Index2=353
+Para No1=176 - Para No2=181 Shingle=mmons Index1=354 - Index2=354
+Para No1=176 - Para No2=181 Shingle=monse Index1=355 - Index2=355
+Para No1=176 - Para No2=181 Shingle=onsen Index1=356 - Index2=356
+Para No1=176 - Para No2=181 Shingle=nsens Index1=357 - Index2=357
+Para No1=176 - Para No2=181 Shingle=sense Index1=358 - Index2=358
+Para No1=176 - Para No2=181 Shingle=ense  Index1=359 - Index2=359
+Para No1=176 - Para No2=181 Shingle=nse v Index1=360 - Index2=360
+Para No1=176 - Para No2=181 Shingle=se vi Index1=361 - Index2=361
+Para No1=176 - Para No2=181 Shingle=e vie Index1=362 - Index2=362
+Para No1=176 - Para No2=181 Shingle= view Index1=363 - Index2=363
+Para No1=176 - Para No2=181 Shingle=view. Index1=364 - Index2=364
+Para No1=176 - Para No2=181 Shingle=iew.  Index1=365 - Index2=365
+Para No1=176 - Para No2=181 Shingle=ew. H Index1=366 - Index2=366
+Para No1=176 - Para No2=181 Shingle=w. Ho Index1=367 - Index2=367
+Para No1=176 - Para No2=181 Shingle=. How Index1=368 - Index2=368
+Para No1=176 - Para No2=181 Shingle= Howe Index1=369 - Index2=369
+Para No1=176 - Para No2=181 Shingle=Howev Index1=370 - Index2=370
+Para No1=176 - Para No2=181 Shingle=oweve Index1=371 - Index2=371
+Para No1=176 - Para No2=181 Shingle=wever Index1=372 - Index2=372
+Para No1=176 - Para No2=181 Shingle=ever, Index1=373 - Index2=373
+Para No1=176 - Para No2=181 Shingle=ver,  Index1=374 - Index2=374
+Para No1=176 - Para No2=181 Shingle=er, w Index1=375 - Index2=375
+Para No1=176 - Para No2=181 Shingle=r, we Index1=376 - Index2=376
+Para No1=176 - Para No2=181 Shingle=, we  Index1=377 - Index2=377
+Para No1=176 - Para No2=181 Shingle= we h Index1=378 - Index2=378
+Para No1=176 - Para No2=181 Shingle=we ha Index1=379 - Index2=379
+Para No1=176 - Para No2=181 Shingle=e hav Index1=380 - Index2=380
+Para No1=176 - Para No2=181 Shingle= have Index1=381 - Index2=381
+Para No1=176 - Para No2=181 Shingle=have  Index1=382 - Index2=382
+Para No1=176 - Para No2=181 Shingle=ave h Index1=383 - Index2=383
+Para No1=176 - Para No2=181 Shingle=ve ha Index1=384 - Index2=384
+Para No1=176 - Para No2=181 Shingle=e had Index1=385 - Index2=385
+Para No1=176 - Para No2=181 Shingle= had  Index1=386 - Index2=386
+Para No1=176 - Para No2=181 Shingle=had t Index1=387 - Index2=387
+Para No1=176 - Para No2=181 Shingle=ad to Index1=388 - Index2=388
+Para No1=176 - Para No2=181 Shingle=d to  Index1=389 - Index2=389
+Para No1=176 - Para No2=181 Shingle= to c Index1=390 - Index2=390
+Para No1=176 - Para No2=181 Shingle=to ch Index1=391 - Index2=391
+Para No1=176 - Para No2=181 Shingle=o cha Index1=392 - Index2=392
+Para No1=176 - Para No2=181 Shingle= chan Index1=393 - Index2=393
+Para No1=176 - Para No2=181 Shingle=chang Index1=394 - Index2=394
+Para No1=176 - Para No2=181 Shingle=hange Index1=395 - Index2=395
+Para No1=176 - Para No2=181 Shingle=ange  Index1=396 - Index2=396
+Para No1=176 - Para No2=181 Shingle=nge o Index1=397 - Index2=397
+Para No1=176 - Para No2=181 Shingle=ge ou Index1=398 - Index2=398
+Para No1=176 - Para No2=181 Shingle=e our Index1=399 - Index2=399
+Para No1=176 - Para No2=181 Shingle= our  Index1=400 - Index2=400
+Para No1=176 - Para No2=181 Shingle=our i Index1=401 - Index2=401
+Para No1=176 - Para No2=181 Shingle=ur id Index1=402 - Index2=402
+Para No1=176 - Para No2=181 Shingle=r ide Index1=403 - Index2=403
+Para No1=176 - Para No2=181 Shingle= idea Index1=404 - Index2=404
+Para No1=176 - Para No2=181 Shingle=ideas Index1=405 - Index2=405
+Para No1=176 - Para No2=181 Shingle=deas  Index1=406 - Index2=406
+Para No1=176 - Para No2=181 Shingle=eas a Index1=407 - Index2=407
+Para No1=176 - Para No2=181 Shingle=as ab Index1=408 - Index2=408
+Para No1=176 - Para No2=181 Shingle=s abo Index1=409 - Index2=409
+Para No1=176 - Para No2=181 Shingle= abou Index1=410 - Index2=410
+Para No1=176 - Para No2=181 Shingle=about Index1=411 - Index2=411
+Para No1=176 - Para No2=181 Shingle=bout  Index1=412 - Index2=412
+Para No1=176 - Para No2=181 Shingle=out s Index1=413 - Index2=413
+Para No1=176 - Para No2=181 Shingle=ut sp Index1=414 - Index2=414
+Para No1=176 - Para No2=181 Shingle=t spa Index1=415 - Index2=415
+Para No1=176 - Para No2=181 Shingle= spac Index1=416 - Index2=298
+Para No1=176 - Para No2=181 Shingle=space Index1=417 - Index2=299
+Para No1=176 - Para No2=181 Shingle=pace  Index1=418 - Index2=418
+Para No1=176 - Para No2=181 Shingle=ace a Index1=419 - Index2=419
+Para No1=176 - Para No2=181 Shingle=ce an Index1=420 - Index2=420
+Para No1=176 - Para No2=181 Shingle=e and Index1=421 - Index2=14
+Para No1=176 - Para No2=181 Shingle= and  Index1=422 - Index2=15
+Para No1=176 - Para No2=181 Shingle=and t Index1=423 - Index2=155
+Para No1=176 - Para No2=181 Shingle=nd ti Index1=424 - Index2=424
+Para No1=176 - Para No2=181 Shingle=d tim Index1=425 - Index2=425
+Para No1=176 - Para No2=181 Shingle= time Index1=426 - Index2=47
+Para No1=176 - Para No2=181 Shingle=time. Index1=427 - Index2=48
+Para No1=176 - Para No2=181 Shingle=ime." Index1=428 - Index2=428
+-------------------------------------------

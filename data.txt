@@ -1,0 +1,1339 @@
+Sl No	Para			
+				
+1	"Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense." 
+		
+2	"I didn’t write a foreword to the original edition of A Brief History of Time. That was done by Carl Sagan. Instead, I wrote a short piece titled Acknowledgments in which I was advised to thank everyone. Some of the foundations that had given me support weren’t too pleased to have been mentioned, however, because it led to a great increase in applications"	
+		
+3	"I have taken the opportunity to update the book and include new theoretical and observational results obtained since the book was first published (on April Fools Day, 1988). I have included a new chapter on wormholes and time travel. Einsteins General Theory of Relativity seems to offer the possibility that we could create and maintain wormholes, little tubes that connect different regions of space-time. If so, we might be able to use them for rapid travel around the galaxy or travel back in time"	
+		
+4	"Mr. Dursley was the director of a firm called Grunnings, which made drills. He was a big, beefy man with hardly any neck, although he did have a very large mustache. Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors. The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere."			
+
+5	"When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr. Dursley hummed as he picked out his most boring tie for work, and Mrs. Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair."	
+		
+6	"When Mr. and Mrs. Dursley woke up on the dull, gray Tuesday our story starts, there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country. Mr. Dursley hummed as he picked out his most boring tie for work, and Mrs. Dursley gossiped away happily as she wrestled a screaming Dudley into his high chair. None of them noticed a large, tawny owl flutter past the window."			
+
+7	"He dashed back across the road, hurried up to his office, snapped at his secretary not to disturb him, seized his telephone, and had almost finished dialing his home number when he changed his mind. He put the receiver back down and stroked his mustache, thinking... no, he was being stupid. Potter wasnt such an unusual name. He was sure there were lots of people called Potter who had a son called Harry."			
+
+8	"And the old man hugged Mr. Dursley around the middle and walked off."		
+	
+9	"And the old man hugged Mr. Dursley around the middle and walked off. Mr. Dursley stood rooted to the spot. He had been hugged by a complete stranger. He also thought he had been called a Muggle, whatever that was. He was rattled."	
+		
+10	"I also describe the progress that has been made recently in finding dualities or correspondences between apparently different theories of physics. These correspondences are a strong indication that there is a complete unified theory of physics, but they also suggest that it may not be possible to express this theory in a single fundamental formulation."	
+		
+11	"Mrs. Dursley had had a nice, normal day. She told him over dinner all about Mrs. Next Door's problems with her daughter and how Dudley had learned a new word"		
+	
+12	"Mr. Dursley sat frozen in his armchair. Shooting stars all over Britain? Owls flying by daylight? Mysterious people in cloaks all over the place? And a whisper, a whisper about the Potters"			
+
+13	"Instead, we may have to use different reflections of the underlying theory in different situations. It might be like our being unable to represent the surface of the earth on a single map and having to use different maps in different regions. This would be a revolution in our view of the unification of the laws of science but it would not change the most important point: that the universe is governed by a set of rational laws that we can discover and understand"			
+
+14	"He didn't say another word on the subject as they went upstairs to bed. While Mrs. Dursley was in the bathroom, Mr. Dursley crept to the bedroom window and peered down into the front garden."			
+
+15	"On the observational side, by far the most important development has been the measurement of fluctuations in the cosmic microwave background radiation by COBE (the Cosmic Background Explorer satellite) and other collaborations. These fluctuations are the finger-prints of creation, tiny initial irregularities in the otherwisesmooth and uniform early universe that later grew into galaxies, stars, and all the structures we see around us."			
+
+16	"Was he imagining things? Could all this have anything to do with thePotters? If it did... if it got out that they were"			
+
+17	"The Dursleys got into bed. Mrs. Dursley fell asleep quickly but Mr.Dursley lay awake, turning it all over in his mind. His last, comfortingthought before he fell asleep was that even if the Potters were involved, there was no reason for them to come near him and Mrs.Dursley. The"			
+
+18	"Their form agrees with the predictions of the proposal that the universe has no boundaries or edges in the imaginary time direction; but further observations will be necessary to distinguish this proposal from other possible explanations for the fluctuations in the background. However, within a few years we should know whether we can believe that we live in a universe that is completely self-contained and without beginning orend."			
+
+19	"Mr. Dursley might have been drifting into an uneasy sleep, but the caton the wall outside was showing no sign of sleepiness."	
+		
+20	"A well-known scientist (some say it was Bertrand Russell) once gave a public lecture on astronomy. He described how the earth orbits around the sun and how the sun, in turn, orbits around the center of a vast collection of stars called our galaxy. At the end of the lecture, a little old lady at the back of the room got up andsaid: What you have told us is rubbish. The world is really a flat plate supported on the back of a giant tortoise. The scientist gave a superior smile before replying, What is the tortoise standing on. You’re very clever, young man, very clever, said the old lady. But it’s turtles all the way down!"			
+
+21	"Mr. Dursley might have been drifting into an uneasy sleep, but the cat  on the wall outside was showing no sign of sleepiness. It was sitting asstill as a statue, its eyes fixed unblinkingly on the far corner ofPrivet Drive."			
+
+22	"Most people would find the picture of our universe as an infinite tower of tortoises rather ridiculous, but why dowe think we know better? What do we know about the universe, and how do we know it? Where did theuniverse come from, and where is it going? Did the universe have a beginning, and if so, what happened beforethen? What is the nature of time? Will it ever come to an end? Can we go back in time? Recent breakthroughsin physics, made possible in part by fantastic new technologies, suggest answers to some of theselongstanding questions. Someday these answers may seem as obvious to us as the earth orbiting the sun – orperhaps as ridiculous as a tower of tortoises. Only time (whatever that may be) will tell."			
+
+23	"As long ago as 340 BC the Greek philosopher Aristotle, in his book On the Heavens, was able to put forwardtwo good arguments for believing that the earth was a round sphere rather than a Hat plate. First, he realizedthat eclipses of the moon were caused by the earth coming between the sun and the moon. The earth’sshadow on the moon was always round, which would be true only if the earth was spherical. If the earth hadbeen a flat disk, the shadow would have been elongated and elliptical, unless the eclipse always occurred at atime when the sun was directly under the center of the disk."			
+
+24	"Mr. Dursley might have been drifting into an uneasy sleep, but the cat on the wall outside was showing no sign of sleepiness. It was sitting as still as a statue, its eyes fixed unblinkingly on the far corner of Privet Drive. It didn't so much as quiver when a car door slammed on the next street, nor when two owls swooped overhead. In fact, it was nearly midnight before the cat moved at all."	
+		
+25	"Second, the Greeks knew from their travels that the North Star appeared lower in the sky when viewed in the south than it did in more northerly regions. (Since the North Star lies over the North Pole, it appears to be directly above an observer at the North Pole, but to someone looking from the equator, it appears to lie just at the horizon. From the difference in the apparet position of the North Star in Egypt and Greece, Aristotle even quoted an estimate that the distance around the earth was 400,000 stadia. It is not known exactly what length a stadium was, but it may have been about 200 yards, which would make Aristotle’s estimate about twice the currently accepted figure. The Greeks even had a third argument that the earth must be round, for why else does one first see the sails of a ship coming over the horizon, and only later see the hull?"			
+
+26	"Aristotle thought the earth was stationary and that the sun, the moon, the planets, and the stars moved in circular orbits about the earth. He believed this because he felt, for mystical reasons, that the earth was the center of the universe, and that circular motion was the most perfect"	
+		
+27	"Aristotle thought the earth was stationary and that the sun, the moon, the planets, and the stars moved in circular orbits about the earth. He believed this because he felt, for mystical reasons, that the earth was the center of the universe, and that circular motion was the most perfect. This idea was elaborated by Ptolemy in the second century AD into a complete cosmological model. The earth stood at the center, surrounded by eight spheres that carried the moon, the sun, the stars, and the five planets known at the time, Mercury, Venus, Mars, Jupiter, and Saturn."			
+
+28	"Albus Dumbledore didn't se em to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something."
+			
+29	"Albus Dumbledore didn't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome. He was busy rummaging in his cloak, looking for something. But he did seem to realize he was being watched, because he looked up suddenly at the cat, which was still staring at him from the other end of the street. For some reason, the sight of the cat seemed to amuse him. He chuckled and muttered,"			
+
+30	"Mrs. Dursley, they wouldn't be able to see anything that was happening down on the pavement. Dumbledore slipped the Put-Outer back inside his cloak and set off down"	
+		
+31	"The planets themselves moved on smaller circles attached to their respective spheres in order to account for their rather complicated observed paths in the sky. The outermost sphere carried the so-called fixed stars, which always stay in the same positions relative to each other but which rotate together across the sky. What lay beyond the last sphere was never made very clear, but it certainly was not part of mankind’s observable universe."			
+
+32	"Ptolemy’s model provided a reasonably accurate system for predicting the positions of heavenly bodies in the sky. But in order to predict these positions correctly, Ptolemy had to make an assumption that the moon followed a path that sometimes brought it twice as close to the earth as at other times. And that meant that the moon ought sometimes to appear twice as big as at other times! Ptolemy recognized this flaw, but nevertheless his model was generally, although not universally, accepted. It was adopted by the Christian church as the  picture of the universe that was in accordance with Scripture, for it had the great advantage that it left lots of room outside the sphere of fixed stars for heaven and hell"			
+
+33	"A simpler model, however, was proposed in 1514 by a Polish priest, Nicholas Copernicus. (At first, perhaps for fear of being branded a heretic by his church, Copernicus circulated his model anonymously.) His idea was that the sun was stationary at the center and that the earth and the planets moved in circular orbits around the sun.Nearly a century passed before this idea was taken seriously."			
+
+34	"Kepler, and the Italian, Galileo Galilei – started publicly to support the Copernican theory, despite the fact that the orbits it predicted did not quite match the ones observed. The death blow to the Aristotelian/Ptolemaic theory came in 1609. In that year, Galileo started observing the night sky with a telescope, which had just been invented. When he looked at the planet Jupiter, Galileo found that it was accompanied by several small satellites or moons that orbited around it."
+			
+35	"This implied that everything did not have to orbit directly around the earth, as Aristotle and Ptolemy had thought. (It was, of course, still possible to believe that the earth was stationary at the center of the universe and that the moons of Jupiter moved on extremely complicated paths around the earth, giving the appearance that they orbited Jupiter. However, Copernicus’s theory was much simpler.) At the same time, Johannes Kepler had modified Copernicus’s theory, suggesting that the planets moved not in circles but in ellipses (an ellipse is an elongated circle). The predictions now finally matched the observations."			
+
+36	"As far as Kepler was concerned, elliptical orbits were merely an ad hoc hypothesis, and a rather repugnant one at that, because ellipses were clearly less perfect than circles. Having discovered almost by accident that elliptical orbits fit the observations well, he could not reconcile them with his idea that the planets were made to orbit the sun by magnetic forces. An explanation was provided only much later, in 1687, when Sir Isaac Newton published his Philosophiae Naturalis Principia Mathematica, probably the most important single work ever published in the physical sciences"	
+		
+37	"when Sir Isaac Newton published his Philosophiae Naturalis Principia Mathematica, probably the most important single work ever published in the physical sciences. In it Newton not only put forward a theory of how bodies move in space and time, but he also developed the complicated mathematics needed to analyze those motions. In addition, Newton postulated a law of universal gravitation according to which each body in the universe was attracted toward every other body by a force that was"			
+
+38	"law of universal gravitation according to which each body in the universe was attracted toward every other body by a force that was stronger the more massive the bodies and the closer they were to each other. It was this same force that caused objects to fall to the ground. (The story that Newton was inspired by an apple hitting his head is almost certainly apocryphal."	
+		
+39	"It was this same force that caused objects to fall to the ground. (The story that Newton was inspired by an apple hitting his head is almost certainly apocryphal. All Newton himself ever said was that the idea of gravity came to him as he sat in a contemplative mood and was occasioned by the fall of an apple.) Newton went on to show that, according"			
+
+40	"him as he sat in a contemplative mood and was occasioned by the fall of an apple.) Newton went on to show that, according to his law, gravity causes the moon to move in an elliptical orbit around the earth and causes the earth and the planets to follow elliptical paths around the sun."	
+		
+41	"Dumbledore told her it was true. Dumbledore, however, was choosing another lemon drop and did not answer."		
+	
+42	"Dumbledore bowed his head. Professor McGonagall gasped."
+		
+43	"The Copernican model got rid of Ptolemy’s celestial spheres, and with them, the idea that the universe had a natural boundary. Since fixed stars did not appear to change their positions apart from a rotation across the sky caused by the earth spinning on its axis, it became natural to suppose that the fixed stars were objects like our sun but very much farther away"		
+	
+44	"Newton realized that, according to his theory of gravity, the stars should attract each other, so it seemed they could not remain essentially motionless. Would they not all fall together at some point? In a letter in 1691 to Richard Bentley, another leading thinker of his day, Newton argued that this would indeed happen if there were only a finite number of stars distributed over a finite region of space. But he reasoned that if, on the other hand, there were an infinite number of stars, distributed more or less uniformly over infinite space, this would not happen, because there would not be any central point for them to fall to."			
+
+45	"The Copernican model got rid of Ptolemy’s celestial spheres, and with them, the idea that the universe had a natural boundary. Since fixed stars did not appear to change their positions apart from a rotation across the sky caused by the earth spinning on its axis, it became natural to suppose that the fixed stars were objects like our sun but very much farther away. Newton realized that, according to his theory of gravity, the stars should attract each other, so it seemed they could not remain essentially motionless. Would they not all fall together at some point? In a letter in 1691 to Richard Bentley, another leading thinker of his day, Newton argued that this would indeed happen if there were only a finite number of stars distributed over a finite region of space. But he reasoned that if, on the other hand, there were an infinite number of stars, distributed more or less uniformly over infinite space, this would not happen, because there would not be any central point for them to fall to."
+			
+46	"This argument is an instance of the pitfalls that you can encounter in talking about infinity. In an infinite universe, every point can be regarded as the center, because every point has an infinite number of stars on each side of it. The correct approach, it was realized only much later, is to consider the finite situation, in which the stars all fall in on each other, and then to ask how things change if one adds more stars roughly uniformly distributed outside this region."
+
+47	"According to Newton’s law, the extra stars would make no difference at all to the original ones on average, so the stars would fall in just as fast. We can add as many stars as we like, but they will still always collapse in on themselves. We now know it is impossible to have an infinite static model of the universe in which gravity is always attractive"			
+
+48	"It is an interesting reflection on the general climate of thought before the twentieth century that no one had suggested that the universe was expanding or contracting. It was generally accepted that either the universe had existed forever in an unchanging state, or that it had been created at a finite time in the past more or less as we observe it today. In part this may have been due to people’s tendency to believe in eternal truths, as well as the comfort they found in the thought that even though they may grow old and die, the universe is eternal and unchanging."	
+		
+49	"Dumbledore you can't. I've been watching them all day. You couldn't find two people who are less like us. And they've got this son -- I saw him kicking his mother all the way up the street, screaming for sweets. Harry Potter come and live here"			
+
+50	"This did not significantly affect their predictions of the motions of the planets, but it allowed an infinite distribution of stars to remain in equilibrium – with the attractive forces between nearby stars balanced by the repulsive forces from those that were farther away. However, we now believe such an equilibrium would be unstable: if the stars in some region got only slightly nearer each other, the attractive forces between them would become stronger and dominate over the repulsive forces so that the stars would continue to fall toward each other. On the other hand, if the stars got a bit farther away from each other, the repulsive forces would dominate and drive them farther apart"	
+		
+51	"Another objection to an infinite static universe is normally ascribed to the German philosopher Heinrich Olbers, who wrote about this theory in 1823. In fact, various contemporaries of Newton had raised the problem, and the Olbers article was not even the first to contain plausible arguments against it. It was, however, the first t  bewidely noted."			
+
+52	"The difficulty is that in an infinite static universe nearly every line of sight would end on the surface of a star. Thus one would expect that the whole sky would be as bright as the sun, even at night. Olbers’ counter-argument was that the light from distant stars would be dimmed by absorption by intervening matter. However, if that happened the intervening matter would eventually heat up until it glowed as brightly as the stars."			
+
+53	"However, if that happened the intervening matter would eventually heat up until it glowed as brightly as the stars. The only way of avoiding the conclusion that the whole of the night sky should be as bright as thesurface of the sun would be to assume that the stars had not been shining forever but had turned on at somefinite time in the past. In that case the absorbing matter might not have heated up yet or the light from dstantstars might not yet have reached us. And that brings us to the question of what could have caused the stars tohave turned on in the first place"		
+	
+54	"if the stars in some region got only slightly nearer eachother, the attractive forces between them would become stronger and dominate over the repulsive forces sothat the stars would continue to fall toward each other. On the other hand, if the stars got a bit farther awayfrom each other, the repulsive forces would dominate and drive them farther apart."		
+	
+55	"Another argument was put forward by St. Augustine in his book The City of God. He pointed outthat civilization is progressing and we remember who performed this deed or developed that technique. Thusman, and so also perhaps the universe, could not have been around all that long. St. Augustine accepted adate of about 5000 BC for the Creation of the universe according to the book of Genesis. (It is interesting thatthis is not so far from the end of the last Ice Age, about 10,000 BC, which is when archaeologists tell us thatcivilization really began.)"			
+
+56	"that it had existed forever. His argument for the thesis was that if the universe didnot have a beginning, there would be an infinite period of time before any event, which he considered absurd.The argument for the antithesis was that if the universe had a beginning, there would be an infinite period oftime before it, so why should the universe begin at any one particular time? In fact, his cases for both th thesisand the antithesis are really the same argument"	
+		
+57	"Aristotle, and most of the other Greek philosophers, on the other hand, did not like the idea of  creationbecause it smacked too much of divine intervention. They believed, therefore, that the human race and theworld around it had existed, and would exist, forever. The ancients had already considered the argument aboutprogress described above, and answered it by saying that there had been periodic floods or other disasters thatrepeatedly set the human race right back to the beginning of civilization."			
+
+58	"If the motorcycle was huge, it was nothing to the man sitting astride it. He was almost twice as tall as a normal man and at least five times as wide."			
+
+59	"If the motorcycle was huge, it was nothing to the man sitting astride it. He was almost twice as tall as a normal man and at least five times as wide. He looked simply too big to be allowed, and so wild – long tangles of bushy black hair and beard hid most of his face, he had hands the size of trash can lids, and his feet in their leather boots were like baby dolphins"			
+
+60	"The questions of whether the universe had a beginning in time and whether it is limited in space ere laterextensively examined by the philosopher Immanuel Kant in his monumental (and very obscure) work Criique ofPure Reason, published in 1781. He called these questions antinomies (that is, contradictions) of pure reason because he felt that there were equally compelling arguments for believing the thesis, that the universe had abeginning, and the antithesis"		
+	
+61	"Borrowed it, Professor Dumbledore, sir"		
+	
+62	"Dumbledore and Professor McGonagall bent forward over the bundle of blankets. Inside, just visible, was a baby boy, fast asleep. Under atuft of jet-black hair over his forehead they could see a curiouslyshaped cut, like a bolt of lightning."	
+		
+63	"They are both based on his unspoken assumption that time continues back forever, whether or not the universe had existed forever. As we shall see, the concept of timehas no meaning before the beginning of the universe. This was first pointed out by St. Augustine. When asked:What did God do before he created the universe? Augustine didn’t reply: He was preparing Hell for peoplewho asked such questions. Instead, he said that time was a property of the universe that God created, andthat time did not exist before the beginning of the universe"	
+		
+64	"When most people believed in an essentially static and unchanging universe, the question of whether or not it had a beginning was really one of metaphysics or theology. One could account for what was observed equally well on the theory that the universe had existed forever or on the theory"			
+
+65	"His argument for the thesis was that if the universe did not have a beginning, there would be an infinite period of time before any event, which he considered absurd. The argument for the antithesis was that if the universe had a beginning, there would be an infinite period of time before it, so why should the universe begin at any one particular time? In fact, his cases for both the thesis and the antithesis are really the same argument."			
+
+66	"This means that at earlier times objects would have been closer together. In fact, it seemed that there was a time, about ten or twenty thousand million years ago, when they were all at exactly  the same place and when, therefore, the density of the universe was infinite. This discovery finally brought the question of the beginning of the universe into the realm of science."		
+	
+67	"Their existence can be ignored because it would have no observational consequences. One may say that time had a beginning at the big bang, in the sense that earlier times simply would not be defined. It should be emphasized that this beginning in time is very different from those that had been considered previously."			
+
+68	"but it allowed an infinite distribution of stars to remain in equilibrium – with the attractive forces between nearby stars balanced by the repulsive forces from those that were farther away. However, we now believe such an equilibrium would be unstable: if the stars in some region got only slightly nearer  ach other, the attractive forces between them would become"	
+		
+69	"Under such conditions all the laws of science, and therefore all ability to predict the future, would break down. If there were events earlier than this time, then they could not affect what happens at the present time. Their existence can be ignored because it would have no observational consequences. One may say that time had a beginning at the big bang, in the sense that earlier times simply would not be defined."			
+
+70	"Hubble’s observations suggested that there was a time, called the big bang, when the universe was infinitesimally small and infinitely dense. Under such conditions all the laws of science, and therefore all ability to predict the future, would break down. If there were events earlier than this time, then they could not affect what happens at the present time. Their existence can be ignored because it would have no observational consequences"			
+
+71	"Professor McGonagall whispered, patting Hagrid gingerly on the arm as Dumbledore stepped over the low garden wall and walked to the front door. He laid Harry gently on the doorstep, took a letter out of his cloak, tucked it inside Harry's blankets, and then came back to the other two"	
+		
+72	"For a full minute the three of them stood and looked at the little bundle; Hagrid's shoulders shook, Professor McGonagall blinked furiously, and the twinkling light that usually shone from Dumbledore's eyes seemed to have gone out"			
+
+73	"God created the universe at literally any time in the past. On the other hand, if the universe is expanding, there may be physical reasons why there had to be a beginning. One could still imagine that God created the universe at the instant of the big bang, or even afterwards in just such a way as to make it look as though there had been a big bang, but it would be meaningless to suppose that it was created before the big bang. An expanding universe does not preclude a creator, but it does place limits on when he might have carried out his job!"			
+
+74	"Wiping his streaming eyes on his jacket sleeve, Hagrid swung himself onto the motorcycle and kicked the engine into life; with a roar it rose into the air and off into the night"		
+	
+75	"Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street"			
+
+76	"It exists only in our minds and does not have any other reality (whatever that might mean). A theory is a good theory if it satisfies two requirements. It must accurately describe a large class of observations on the basis of a model that contains only a few arbitrary elements, and it must make definite predictions about the results of future observations. For example, Aristotle believed Empedocles’s theory that everything was made out of four elements, earth, air, fire, and water"		
+	
+77	"A breeze ruffled the neat hedges of Privet Drive, which lay silent and tidy under the inky sky, the very last place you would expect astonishing things to happen. Harry Potter rolled over"			
+
+78	"One small hand closed on the letter beside him and he slept on, not knowing he was special, not knowing he was famous, not knowing he would be woken in a few hours' time by Mrs. Dursley's scream"			
+
+79	"you have to be clear about what a scientific theory is. I shall take the simpleminded view that a theory is just a model of the universe, or a restricted part of it, and a set of rules that relate quantities in the model to observations that we make. It exists only in our minds and does not have any other reality (whatever that might mean). A theory is a good theory if it satisfies two requirements. It must accurately describe a large class of observations on the basis of a model that contains only a few arbitrary elements, and it must make definite predictions about the results"			
+
+80	"This was simple enough, but did not make any definite predictions. On the other hand, Newton’s theory of gravity was based on an even simpler model, in which bodies attracted each other with a force that was proportional to a quantity called their mass and inversely proportional to the square of the distance between them. Yet it predicts the motions of the sun, the moon, and the planets to a high degree of accuracy."			
+
+81	"A theory is a good theory if it satisfies two requirements. It must accurately describe a large class of observations on the basis of a model that contains only a few arbitrary elements, and it must make definite predictions about the results of future observations. For example, Aristotle believed Empedocles’s theory that everything was made out of four elements, earth, air, fire, and water. This was simple enough, but did not make any definite predictions. On the other hand, Newton’s theory of gravity was based on an even simpler model, in which bodies attracted each other with a force that was proportional to a quantity called their mass and inversely proportional to the square of the distance between them."			
+
+82	"she opened the front door to put out the milk bottles, nor that he would spend the next few weeks being prodded and pinched by his cousin Dudley"		
+	
+83	"He couldn't know that at this very moment, people meeting in secret all over the country were holding up their glasses and saying in hushed voices: To Harry Potter -- the boy who lived!"			
+
+84	"Dumbledore turned and walked back down the street. On the corner he stopped and took out the silver Put-Outer. He clicked it once, and twelve balls of light sped back to their street lamps so that Privet Drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street. He could just see the bundle of blankets on the step of number four."			
+
+85	"Nearly ten years had passed since the Dursleys had woken up to find their nephew on the front step, but Privet Drive had hardly changed at all."			
+
+86	"Any physical theory is always provisional, in the sense that it is only a hypothesis: you can never   rove it. Nomatter how many times the results of experiments agree with some theory, you can never be sure that the next time the result will not contradict the theory. On the other hand, you can disprove a theory by finding even asingle observation that disagrees with the predictions of the theory."			
+
+87	"As philosopher of science Karl Popper has emphasized, a good theory is characterized by the fact that it makes a number of predictions that could in principle be disproved or falsified by observation. Each time new experiments are observed to agree with the predictions the theory survives, and our confidence in it is increased; but if ever a new observation is found to disagree, we have to abandon or modify the theory."			
+
+88	"On the other hand, you can disprove a theory by finding even a single observation that disagrees with the predictions of the theory. As philosopher of science Karl Popper has emphasized, a good theory is characterized by the fact that it makes a number of predictions that could in principle be disproved or falsified by observation."			
+
+89	"The sun rose on the same tidy front gardens and lit up the brass number four on the Dursleys' front door; it crept into their living room, which was almost exactly the same as it had been on the night when Mr. Dursley had seen that fateful news report about the owls"		
+	
+90	"The sun rose on the same tidy front gardens and lit up the brass number four on the Dursleys' front door; it crept into their living room, which was almost exactly the same as it had been on the night when Mr. Dursley had seen that fateful news report about the owls. Only the photographs on the mantelpiece really showed how much time had passed. Ten years ago, there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets"	
+		
+91	"The beginning of the universe had, of course, been discussed long before this. According to a number of early cosmologies and the Jewish/Christian/Muslim tradition, the universe started at a finite, and not very distant, time in the past. One argument for such a beginning was the feeling that it was necessary to have First Cause to explain the existence of the universe. (Within the universe, you always explained one event as being caused by some earlier event, but the existence of the universe itself could be explained in this way only if it had some beginning.)"		
+	
+92	"Dursley was no longer a baby, and now the photographs showed a large blond boy riding his first bicycle, on a carousel at the fair, playing a computer game with his father, being hugged and kissed by his mother. The room held no sign at all that another boy lived in the house, too"	
+		
+93	"Yet Harry Potter was still there, asleep at the moment, but not for long. His Aunt Petunia was awake and it was her shrill voice that made the first noise of the day."			
+
+94	"Einstein’s general theory of relativity predicted a slightly different motion from Newton’s theory. The fact that Einstein’s predictions matched what was seen, while Newton’s did not, was one of the crucial confirmations of the new theory. However, we still use Newton’s theory for all practical purposes because the difference between its predictions and those of general relativity is very small in the situations that we normally deal with. (Newton’s theory also has the great advantage that it is much simpler to work with than Einstein’s!)"			
+
+95	"Second, there is the question of the initial state of the universe. Some people feel that science should be concerned with only the first part; they regard the question of the initial situation as a matter for metaphysics or religion. They would say that God, being omnipotent, could have started the universe off any way he wanted."			
+
+96	"They would say that God, being omnipotent, could have started the universe off any way he wanted. That may be so, but in that case he also could have made it develop in a completely arbitrary way. Yet it appears that he chose to make it evolve in a very regular way according to certain laws. It therefore seems equally reasonable to suppose that there are also laws governing the initial state."			
+
+97	"In practice, what often happens is that a new theory is devised that is really an extension of the previous theory. For example, very accurate observations of the planet Mercury revealed a small difference between its motion and the predictions of Newton’s theory of gravity. Einstein’s general theory of relativity predicted a slightly different motion from Newton’s theory."			
+
+98	"Each of these partial theories describes and predicts a certain limited class of observations, neglecting the effects of other quantities, or representing them by simple sets of numbers. It may be that this approach is completely wrong. If everything in the universedepends on everything else in a fundamental way, it might be impossible to get close to a full solution by investigating parts of the problem in isolation."			
+
+99	"It turns out to be very difficult to devise a theory to describe the universe all in one go. Instead, we break the problem up into bits and invent a number of partial theories. Each of these partial theories describes and predicts a certain limited class of observations, neglecting the effects of other quantities, or representing themby simple sets of numbers"	
+		
+100	"The classic example again is the Newtonian theory of gravity, which tells us that the gravitational force between two bodies depends only on one number associated with each body, its mass, but is otherwiseindependent of what the bodies are made of. Thus one does not need to have a theory of the structure andconstitution of the sun and the planets in order to calculate their orbits."	
+		
+101	"Dudley's birthday -- how could he have forgotten? Harry got slowly outof bed and started looking for socks"			
+
+102	"He found a pair under his bed and,after pulling a spider off one of them, put them on. Harry was used tospiders, because the cupboard under the stairs was full of them, andthat was where he slept."			
+
+103	"Today scientists describe the universe in terms of two basic partial theories – the general theory of relativity and quantum mechanics. They are the great intellectual achievements of the first half of this century. The general theory of relativity describes the force of gravity and the large-scale structure of the universe, that is, the structure on scales from only a few miles to as large as a million million million million (1 with twenty-fourzeros after it) miles, the size of the observable universe. Quantum mechanics, on the other hand, deals withphenomena on extremely small scales"	
+		
+104	"When he was dressed he went down the hall into the kitchen. The tablewas almost hidden beneath all Dudley's birthday presents."			
+
+105	"When he was dressed he went down the hall into the kitchen. The tablewas almost hidden beneath all Dudley's birthday presents. It looked asthough Dudley had gotten the new computer he wanted, not to mention thesecond television and the racing bike."	
+		
+106	"Exactly why Dudley wanted aracing bike was a mystery to Harry, as Dudley was very fat and hated exercise"			
+
+107	"miles, the size of the observable universe. Quantum mechanics, on the other hand, deals withphenomena on extremely small scales, such as a millionth of a millionth of an inch. Unfortunately, owever,these two theories are known to be inconsistent with each other – they cannot both be correct. One of themajor endeavors in physics today, and the major theme of this book, is the search for a new theory that willincorporate them both – a quantum"		
+	
+108	"a quantum theory of gravity. We do not yet have such a theory, and we may still be along way from having one, but we do already know many of the properties that it must have. And we shall see,in later chapters, that we already know a fair amount about the predications a quantum theory of gravity ustmake."			
+
+109	"Now, if you believe that the universe is not arbitrary, but is governed by definite laws, you ultimately have tocombine the partial theories into a complete unified theory that will describe everything in the universe. Butthere is a fundamental paradox in the search for such a complete unified theory. The ideas about scientifictheories outlined above assume we are rational beings who are free to observe the universe as we want and todraw logical deductions from what we see."		
+	
+110	"In such a scheme it is reasonable to suppose that we might progress ever closer toward the laws that governour universe. Yet if there really is a complete unified theory, it would also presumably determine our actions.And so the theory itself would determine the outcome of our search for it! And why should it determine that wecome to the right conclusions from the evidence? Might it not equally well determine that we draw the wrongconclusion.? Or no conclusion at all?"		
+	
+111	"Exactly why Dudley wanted aracing bike was a mystery to Harry, as Dudley was very fat and hatedexercise -- unless of course it involved punching somebody. Dudley'sfavorite punching bag was Harry, but he couldn't often catch him. Harrydidn't look it, but he was very fast."		
+	
+112	"Perhaps it had something to do with living in a dark cupboard, but Harryhad always been small and skinny for his age"		
+	
+113	"Perhaps it had something to do with living in a dark cupboard, but Harryhad always been small and skinny for his age. He looked even smaller andskinnier than he really was because all he had to wear were old clothesof Dudley's"	
+		
+114	"The only answer that I can give to this problem is based on Darwin’s principle of natural selection. he idea isthat in any population of self-reproducing organisms, there will be variations in the genetic material andupbringing that different individuals have. These differences will mean that some individuals are better ablethan others to draw the right conclusions about the world around them and to act accordingly. These individualswill be more likely to survive and reproduce and so their pattern of behavior and thought will come to dominate."	
+		
+115	"It has certainly been true in the past that what we call intelligence and scientific discovery have onveyed asurvival advantage. It is not so clear that this is still the case: our scientific discoveries may well destroy us all,and even if they don’t, a complete unified theory may not make much difference to our chances of survival."			
+
+116	"These differences will mean that some individuals are better ablethan others to draw the right conclusions about the world around them and to act accordingly. These individualswill be more likely to survive and reproduce and so their pattern of behavior and thought will come to dominate.It has certainly been true in the past that what we call intelligence and scientific discovery have conveyed asurvival advantage"			
+
+117	"The only answer that I can give to this problem is based on Darwin’s principle of natural selection. The idea isthat in any population of self-reproducing organisms, there will be variations in the genetic material andupbringing that different individuals have. These differences will mean that some individuals are better ablethan others to draw the right conclusions about the world around them and to act accordingly. These individualswill be more likely to survive and reproduce and so their pattern of behavior and thought will come to dominate."			
+
+118	"It has certainly been true in the past that what we call intelligence and scientific discovery have conveyed asurvival advantage. It is not so clear that this is still the case: our scientific discoveries may well destroy us all,and even if they don’t, a complete unified theory may not make much difference to our chances of survival.However, provided the universe has evolved in a regular way, we might expect that the reasoning abilities thatnatural selection has given us would be valid also in our search for a complete unified theory, and so would notlead us to the wrong conclusions."		
+	
+119	"really was because all he had to wear were old clothesof Dudley's, and Dudley was about four times bigger than he was. Harryhad a thin face,"			
+
+120	"knobbly knees, black hair, and bright green eyes. Hewore round glasses held together with a lot of Scotch tape because ofall the times Dudley had punched him on the nose"	
+		
+121	"The only thing Harryliked about his own appearance was a very thin scar on his forehead thatwas shaped like a bolt of lightning"			
+
+122	"Petunia was how he had gotten it"
+
+123	"Uncle Vernon entered the kitchen as Harry was turning over the bacon"
+	
+124	"About once a week, Uncle Vernon looked over the top of his newspaper and shouted that Harry needed a haircut. Harry must have had more haircuts than the rest of the boys in his class put"			
+
+125	"Harry must have had more haircuts than the rest of the boys in his class put together, but it made no difference, his hair simply grew that way -- all over the place."		
+	
+126	"Harry was frying eggs by the time Dudley arrived in the kitchen with his mother"	
+		
+127	"Harry was frying eggs by the time Dudley arrived in the kitchen with his mother. Dudley looked a lot like Uncle Vernon. He had a large pink face, not much neck, small, watery blue eyes, and thick blond hair that lay smoothly on his thick, fat head."			
+
+128	"did in fact fall at different speeds. It is said that Galileo demonstrated that Aristotle’s belief was false by dropping weights from the leaning tower of Pisa. The story is almost certainly untrue, but Galileo did do something equivalent: he rolled balls of different weights down a smooth slope. The situation is similar to that of heavy bodies falling vertically, but it is easier to observe because the Speeds are smaller. Galileo’s measurements indicated that"			
+
+129	"It is said that Galileo demonstrated that Aristotle’s belief was false by dropping weights from the leaning tower of Pisa. The story is almost certainly untrue, but Galileo did do something equivalent: he rolled balls of different weights down a smooth slope. The situation is similar to that of heavy bodies falling vertically, but it is easier to observe because the Speeds are smaller. Galileo’s measurements indicated that each body increased its speed at the same rate, no matter what its weight"
+			
+130	"The Aristotelian tradition also held that one could work out all the laws that govern the universe by pure thought: it was not necessary to check by observation. So no one until Galileo bothered to see whether bodies of different weight did in fact fall at different speeds."			
+
+131	"Because the partial theories that we already have are sufficient to make accurate predictions in all but the most extreme situations, the search for the ultimate theory of the universe seems difficult to justify on practical grounds. (It is worth noting, though, that similar arguments could have been used against both relativity and quantum mechanics, and these theories have given us both nuclear energy and the microelectronics revolution!)"			
+
+132	"if you let go of a ball on a slope that drops by one meter for every ten meters you go along, the all will be traveling down the slope at a speed of about one meter per second after one second, two meters per second after two seconds, and so on, however heavy the ball. Of course a lead weight would fall faster than a feather, but that is only because a feather is slowed down by air resistance. If one drops two bodies that don’t have much air resistance, such as two different lead weights, they fall at the same rate. On the moon, where there is no air to slow things down, the astronaut David R. Scott performed the feather and lead weight experiment and found that indeed they did hit the ground at the same time."			
+
+133	"For example, if you let go of a ball on a slope that drops by one meter for every ten meters you go along, the ball will be traveling down the slope at a speed of about one meter per second after one second, two meters per second after two seconds, and so on, however heavy the ball. Of course a lead weight would fall faster than a feather, but that is only because a feather is slowed down by air resistance."			
+
+134	"Of course a lead weight would fall faster than a feather, but that is only because a feather is slowed down by air resistance. If one drops two bodies that don’t have much air resistance, such as two different lead weights, they fall at the same rate. On the moon, where there is no air to slow things down, the astronaut David R. Scott performed the feather and lead weight experiment and found that indeed they did hit the ground at the same time"			
+
+135	"Harry was frying eggs by the time Dudley arrived in the kitchen with his"
+	
+136	"mother. Dudley looked a lot like Uncle Vernon. He had a large pink face,"		
+	
+137	"not much neck, small, watery blue eyes, and thick blond hair that lay"			
+
+138	"The discovery of a complete unified theory, therefore, may not aid the survival of our species. It may not even affect our lifestyle. But ever since the dawn of civilization, people have not been content to see events as unconnected and inexplicable. They have craved an understanding of the underlying order in the world. Today we still yearn to know why we are here and where we came from. Humanity’s deepest desire for knowledge is justification enough for our continuing quest. And our goal is nothing less than a complete description of the universe we live in."			
+
+139	"smoothly on his thick, fat head. Aunt Petunia often said that Dudley"		
+	
+140     "looked like a baby angel -- Harry often said that Dudley looked like a"
+
+141	"looked like a baby angel -- Harry often said that Dudley looked like a pig in a wig."
+
+142	"Harry put the plates of egg and bacon on the table, which was difficult as there wasn't much room. Dudley, meanwhile, was counting his presents. His face fell."		
+	
+143	"Galileo’s measurements were used by Newton as the basis of his laws of motion. In Galileo’s experiments, as a body rolled down the slope it was always acted on by the same force (its weight), and the effect was to make it constantly speed up. This showed that the real effect of a force is always to change the speed of a body, rather than just to set it moving, as was previously thought"		
+	
+144	"It also meant that whenever a body is not acted on by any force, it will keep on moving in a straight line at the same speed. This idea was first stated explicitly in Newton’s Principia Mathematica, published in 1687, and is known as Newton’s first law. What happens to a body when a force does act on it is given by Newton’s second law."			
+
+145	"This showed that the real effect of a force is always to change the speed of a body, rather than just to set it moving, as was previously thought. It also meant that whenever a body is not acted on by any force, it will keep on moving in a straight line at the same speed. This idea was first stated explicitly in Newton’s Principia Mathematica, published in 1687, and is known as Newton’s first law"	
+		
+146	"This showed that the real effect of a force is always to change the speed of a body, rather than just to set it moving, as was previously thought. It also meant that whenever a body is not acted on by any force, it will keep on moving in a straight line at the same speed."		
+	
+147	"This is what you might expect because one could think of the new body A as being made of two bodies with the original mass. Each would attract body B with the original force. Thus the total force between A and B would be twice the original force. And if, say, one of the bodies had twice the mass, and the other had three times the mass, then the force would be six times as strong. One can now see why all bodies fall at the same rate: a body of twice the weight will have twice the force of gravity pulling it down, but it will also have twice the mass. According to Newton’s second law, these two effects will exactly cancel each other, so the acceleration will be the same in all cases"	
+		
+148	"In addition to his laws of motion, Newton discovered a law to describe the force of gravity, which states that every body attracts every other body with a force that is proportional to the mass of each body. Thus the force between two bodies would be twice as strong if one of the bodies (say, body A) had its mass doubled."			
+
+149	"The acceleration is also smaller the greater the mass (or quantity of matter) of the body. (The same force acting on a body of twice the mass will produce half the acceleration.) A familiar example is provided by a car: the more powerful the engine, the greater the acceleration, but the heavier the car, the smaller the acceleration for the same engine"		
+	
+150	"Thus the force between two bodies would be twice as strong if one of the bodies (say, body A) had its mass doubled. This is what you might expect because one could think of the new body A as being made of two bodies with the original mass. Each would attract body B with the original force. Thus the total force between A and B would be twice the original force. And if, say, one of the bodies had twice the mass, and the other had three times the mass, then the force would be six times as strong. One can now see why all bodies fall at the same rate:"		
+	
+151	"At that moment the telephone rang and Aunt Petunia went to answer it .while Harry and Uncle Vernon watched Dudley unwrap the racing bike, a video camera, a remote control airplane, sixteen new computer games, and a VCR."	
+		
+152	"At that moment the telephone rang and Aunt Petunia went to answer it while Harry and Uncle Vernon watched Dudley unwrap the racing bike, a video camera, a remote control airplane, sixteen new computer games, and a VCR. He was ripping the paper off a gold wristwatch when Aunt Petunia came back from the telephone looking both angry and worried."	
+			
+153	"At that moment the telephone rang and Aunt Petunia went to answer it while Harry and Uncle Vernon watched Dudley unwrap the racing bike, a video camera, a remote control airplane, sixteen new computer games, and a VCR. He was ripping the paper off a gold wristwatch when Aunt Petunia came back from the telephone looking both angry and worried."	
+		
+154	"Dudley's mouth fell open in horror, but Harry's heart gave a leap. Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies."			
+
+155	"Newton’s law of gravity also tells us that the farther apart the bodies, the smaller the force.  ewton’s law of gravity says that the gravitational attraction of a star is exactly one quarter that of a similar star at half the distance. This law predicts the orbits of the earth, the moon, and the planets with great accuracy. If the law were that the gravitational attraction of a star went down faster or increased more rapidly with distance, the orbits of the planets would not be elliptical, they would either spiral in to the sun or escape from the sun."			
+
+156	"In addition to his laws of motion, Newton discovered a law to describe the force of gravity, which states that every body attracts every other body with a force that is proportional to the mass of each body. Thus the force between two bodies would be twice as strong if one of the bodies (say, body A) had its mass doubled."			
+
+157	"Dudley's mouth fell open in horror, but Harry's heart gave a leap. Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies. Every year, Harry was left behind with Mrs. Figg, a mad old lady who lived two streets away"			
+
+158	"Dudley's mouth fell open in horror, but Harry's heart gave a leap. Every year on Dudley's birthday, his parents took him and a friend out for the day, to adventure parks, hamburger restaurants, or the movies. Every year, Harry was left behind with Mrs. Figg, a mad old lady who lived two streets away. Harry hated it there. The whole house smelled of cabbage and Mrs. Figg made him look at photographs of all the cats she'd ever owned."			
+
+159	"Harry knew he ought to feel sorry that Mrs. Figg had broken her leg, but it wasn't easy when he reminded himself it would be a whole year before he had to look at Tibbles, Snowy, Mr. Paws, and Tufty again."			
+
+160	"The Dursleys often spoke about Harry like this, as though he wasn't there -- or rather, as though he was something very nasty that couldn't understand them, like a slug."
+			
+161	"Dudley began to cry loudly. In fact, he wasn't really crying -- it had been years since he'd really cried -- but he knew that if he screwed up his face and wailed, his mother would give him anything he wanted."			
+
+162	"One could equally well say that body A was at rest and body B was moving at constant speed with respect to body A, or that body B was at rest and body A was moving. For example, if one sets aside for a moment the rotation of the earth and its orbit round the sun, one could say that the earth was at rest and that a train on it was traveling north at ninety miles per hour or that the train was at rest and the earth was moving south at ninety miles per hour. If one carried out experiments with moving bodies on the train, all Newton’s laws would still hold."		
+	
+163	"Petunia frantically -- and a moment later, Dudley's best friend, Piers Polkiss, walked in with his mother. Piers was a scrawny boy with a face like a rat"		
+	
+164	"He was usually the one who held people's arms behind their backs while Dudley hit them. Dudley stopped pretending to cry at once."			
+
+165	"Half an hour later, Harry, who couldn't believe his luck, was sitting in the back of the Dursleys' car with Piers and Dudley, on the way to the zoo"	
+		
+166	"Half an hour later, Harry, who couldn't believe his luck, was sitting in the back of the Dursleys' car with Piers and Dudley, on the way to the zoo for the first time in his life. His aunt and uncle hadn't been able to think of anything else to do with him, but before they'd left, Uncle Vernon had taken Harry aside."			
+
+167	"Newton’s law of gravity also tells us that the farther apart the bodies, the smaller the force.  ewton’s law of gravity says that the gravitational attraction of a star is exactly one quarter that of a similar star at half the distance. This law predicts the orbits of the earth, the moon, and the planets with great accuracy. If the law were that the gravitational attraction of a star went down faster or increased more rapidly with distance, the orbits of the planets would not be elliptical, they would either spiral in to the sun or escape from the sun."			
+
+168	"one could say that the earth was at rest and that a train on it was traveling north at ninety miles per hour or that the train was at rest and the earth was moving south at ninety miles per hour. If one carried out experiments with moving bodies on the train, all Newton’s laws would still hold. For instance, playing Ping-Pong on the train, one would find that the ball obeyed Newton’s laws just like a ball on a table by the track. So there is no way to tell whether it is the train or the earth that is moving."		 	
+
+169	"In the case of light, therefore, means that stars moving away from us will have their spectra shifted toward the red end of the spectrum (red-shifted) and those moving toward us will have their spectra blue-shifted. This relationship between wavelength and speed, which is called the Doppler effect, is an everyday experience. Listen to a car passing on the road: as the car is approaching, its engine sounds at a higher pitch (corresponding to a shorter wavelength and higher frequency of sound waves), and when it passes and goes away, it sounds at a lower pitch"			
+
+170	"hitting the table twice on the same spot one second apart. To someone on the track, the two bounces would seem to take place about forty meters apart, because the train would have traveled that far down the track between the bounces. The nonexistence of absolute rest therefore meant that one could not give an event an absolute position in space, as Aristotle had believed. The positions of events and the distances between them would be different for a person on the train and one on the track, and there would be no reason to prefer one person’s position to the other’s."		
+	
+171	"The lack of an absolute standard of rest meant that one could not determine whether two events that took place at different times occurred in the same position in space. For example, suppose our Ping-Pong ball on the train bounces straight up and down, hitting the table twice on the same spot one second apart. To someone on the track, the two bounces would seem to take place about forty meters apart, because the train would have traveled that far down the track between the bounces"	
+		
+172	"The problem was, strange things often happened around Harry and it was ust no good telling the Dursleys he didn't make them happen."			
+
+173	"Once, Aunt Petunia, tired of Harry coming back from the barbers looking as though he hadn't been at all, had taken a pair of kitchen scissors and cut"			
+
+174	"Newton was very worried by this lack of absolute position, or absolute space, as it was called, because it did not accord with his idea of an absolute God. In fact, he refused to accept lack of absolute space, even though it was implied by his laws. He was severely criticized for this irrational belief by many people, most notably by Bishop Berkeley, a philosopher who believed that all material objects and space and time are an illusion. Whenthe famous Dr. Johnson was told of Berkeley’s opinion, he cried, I refute it thus! and stubbed his toe on a large stone"			
+
+175	"In addition to his laws of motion, Newton discovered a law to describe the force of gravity, which states that every body attracts every other body with a force that is proportional to the mass of each body. Thus the force between two bodies would be twice as strong if one of the bodies (say, body A) had its mass doubled."			
+
+176	"Both Aristotle and Newton believed in absolute time. That is, they believed that one could unambiguously measure the interval of time between two events, and that this time would be the same whoever measured it, provided they used a good clock. Time was completely separate from and independent of space. This is what most people would take to be the commonsense view. However, we have had to change our ideas about space and time."		
+	
+177	"Once, Aunt Petunia, tired of Harry coming back from the barbers looking as though he hadn't been at all, had taken a pair of kitchen scissors and cut his hair so short he was almost bald except for his bangs, which she left"			
+
+178	"Dudley had laughed himself silly at Harry, who spent a sleepless night imagining school the next day, where he was already laughed at for his baggy clothes and taped glasses. Next morning, however, he had gotten"			
+
+179	"Time was completely separate from and independent of space. This is what most people would take to be the commonsense view. However, we have had to change our ideas about space and time. Although our apparently commonsense notions work well when dealing with things like apples, or planets that travel comparatively slowly, they don’t work at all for things moving at or near the speed of light."			
+
+180	"The fact that light travels at a finite, but very high, speed was first discovered in 1676 by the Danish astronomer Ole Christensen Roemer. He observed that the times at which the moons of Jupiter appeared to pass behind Jupiter were not evenly spaced, as one would expect if the moons went round Jupiter at a constant rate. As the earth and Jupiter orbit around the sun, the distance between them varies. Roemer noticed that eclipses of Jupiter’s moons appeared later the farther we were from Jupiter."			
+
+181	"Both Aristotle and Newton believed in absolute time. That is, they believed that one could unambiguously measure the interval of time between two events, and that this time would be the same whoever measured it, provided they used a good clock. Time was completely separate from and independent of space. This is what most people would take to be the commonsense view. However, we have had to change our ideas about space and time."			
+
+182	"Dudley had laughed himself silly at Harry, who spent a sleepless night imagining school the next day, where he was already laughed at for his baggy clothes and taped glasses. Next morning, however, he had gotten up to find his hair exactly as it had been before Aunt Petunia had sheared it off He had been given a week in his cupboard for this, even though he had tried to explain that he couldn't explain how it had grown back so quickly"			
+
+183	"His measurements of the variations in the distance of the earth from Jupiter were, however, not very accurate, and so his value for the speed of light was 140,000 miles per second, compared to the modern value of 186,000 miles per second. Nevertheless, Roemer’s achievement, in not only proving that light travels at a finite speed, but also in measuring that speed, was remarkable – coming as it did eleven years before Newton’s publication of Principia Mathematica. A proper theory of the propagation of light didn’t come until 1865, when the British physicist James Clerk Maxwell succeeded in unifying the partial theories that up to then had been used to describe the forces of electricity and magnetism."			
+
+184	"coming toward them at different speeds, but light's speed relative to the ether would remain  fixed. In particular, as the earth was moving through the ether on its orbit round the sun, the speed of light measured in the direction of the earth's motion through the ether (when we were moving toward the source of the light) should be higher than the speed of light at right angles to that motion (when we are not moving toward the source). In 1887Albert Michelson"	
+	
+185	"its orbit round the sun, the speed of light measured in the direction of the earth's motion through the ether (when we were moving toward the source of the light) should be higher than the speed of light at right angles to that motion (when we are not moving toward the source). In 1887Albert Michelson (who later became the first American to receive the Nobel Prize for physics) and Edward Morley carried out a very careful experiment at the Case School of Applied Science in Cleveland. They compared the speed of light in the direction of the earth's motion with that at right angles to the earth's motion. To their great surprise, they found they were exactly the same!"	
+		
+186	"Roemer noticed that eclipses of Jupiter’s moons appeared later the farther we were from Jupiter. He argued that this was because the light from the moons took longer to reach us when we were farther away. His measurements of the variations in the distance of the earth from Jupiter were, however, not very accurate, and so his value for the speed of light was 140,000 miles per second, compared to the modern value of 186,000 miles per second"		
+	
+187	"Another time, Aunt Petunia had been trying to force him into a revolting old sweater of Dudley's (brown with orange puff balls) -- The harder she tried to pull"		
+	
+188	"Between 1887 and 1905 there were several attempts, most notably by the Dutch physicist Hendrik Lorentz, to explain the result of the Michelson-Morley experiment in terms of objects contracting and clocks slowing down when they moved through the ether."		
+	
+189	"The fundamental postulate of the theory of relativity, as it was called, was that the laws of   science should be the same for all freely moving observers, no matter what their speed. This was true for Newton’s laws of motion, but now the idea was extended to include Maxwell’s theory and the speed of light: all observers shouldmeasure the same speed of light, no matter how fast they are moving. This simple idea has some remarkable consequences."			
+
+190	"observers, no matter what their speed. This was true for Newton’s laws of motion, but now the idea was extended to include Maxwell’s theory and the speed of light: all observers should measure the same speed of light, no matter how fast they are moving. This simple idea has some remarkable consequences. Perhaps the best known are the equivalence of mass and energy, summed up in Einstein’s famous equation E=mc2 (where E is energy,"			
+
+191	"However, in a famous paper in 1905, a hitherto unknown clerk in the Swiss patent office, Albert Einstein, pointed out that the whole idea of an ether was unnecessary, providing one was willing to abandon the idea of absolute time. A similar point was made a few weeks later by a leading French mathematician, Henri Poincare. Einstein’s arguments were closer to physics than those of Poincare, who regarded this problem as mathematical"			
+
+192	"This simple idea has some remarkable consequences. Perhaps the best known are the equivalence of mass and energy, summed up in Einstein’s famous equation E=mc2 (where E is energy, m is mass, and c is the speed of light), and the law that nothing may travel faster than the speed of light. Because of the equivalence of energy and mass, the energy which an object has due to its motion will add to its mass. In other words, it will make"			
+
+193	"old sweater of Dudley's (brown with orange puff balls) -- The harder she tried to pull it over his head, the smaller it seemed to become, until finally it might have fitted a hand puppet, but certainly wouldn't fit Harry"			
+
+194	"Aunt Petunia had decided it must have shrunk in the wash and, to his great relief, Harry wasn't punished."			
+
+195	"Maxwell’s theory predicted that radio or light waves should travel at a certain fixed speed. But  ewton’s theory had got rid of the idea of absolute rest, so if light was supposed to travel at a fixed speed, one would have to say what that fixed speed was to be measured relative to."	
+		
+196	"mass. In other words, it will make it harder to increase its speed. This effect is only really significant for objects moving at speeds close to the speed of light. For example, at 10 percent of the speed of light an object’s mass is only 0.5 percent more than normal, while at 90 percent of the speed of light it would be more than twice its normal mass. As an object approaches the speed of light, its mass rises ever more quickly, so it takes more and more energy to speed it up further. It can in fact never reach the speed of light, because by then its mass would have become"			
+
+197	"more and more energy to speed it up further. It can in fact never reach the speed of light, because by then its mass would have become infinite, and by the equivalence of mass and energy, it would have taken an infinite amount"			
+
+198	"An equally remarkable consequence of relativity is the way it has revolutionized our ideas of space and time. In Newton’s theory, if a pulse of light is sent from one place to another, different observers would agree on the time that the journey took (since time is absolute), but will not always agree on how far the light traveled (since space is not absolute)."		
+	
+199	"Since the speed of the light is just the distance it has traveled divided by the time it has taken, different observers would measure different speeds for the light. In relativity, on the other hand, all observers must agree on how fast light travels. They still, however, do not agree on the distance the light has traveled, so they must therefore now also disagree over the time it has taken. (The time taken is the distance the light has traveled"			
+
+200	"twice its normal mass. As an object approaches the speed of light, its mass rises ever more quickly, so it takes more and more energy to speed it up further. It can in fact never reach the speed of light, because by then its mass would have become infinite, and by the equivalence of mass and energy, it would have taken an infinite amount of energy to get it there. For this reason, any normal object is forever confined by relativity to move at speeds slower than the speed of light. Only light, or other waves that have no intrinsic mass, can move at the speed of light"			
+
+201	"On the other hand, he'd gotten into terrible trouble for being found on the roof of the school kitchens. Dudley's gang had been chasing him as usual when, as much to Harry's surprise as anyone else's, there he was sitting on the chimney"			
+
+202	"which the observers do not agree on – divided by the light’s speed – which they do agree on.) In other words, the theory of relativity put an end to the idea of absolute time! It appeared that each observer must have his own measure of time, as recorded by a clock carried with him, and that identical clocks carried by different observers would not necessarily agree."	
+		
+203	"The Dursleys had received a very angry letter from Harry's headmistress telling them Harry had been climbing school buildings. But all he'd tried to do (as he shouted at Uncle Vernon through the locked door of his cupboard) was jump behind the big trash cans outside the kitchen doors. Harry supposed that the wind must have caught him in mid- jump."			
+
+204	"The time of the event is then said to be the time halfway between when the pulse was sent and the time when the reflection was received back: the distance of the event is half the time taken for this round trip, multiplied by the speed of light. (An event, in this sense, is something that takes place at a single point in space, at a specified point in time.) This idea is shown here, which is an example of a space-time diagram"			
+
+205	"Each observer could use radar to say where and when an event took place by sending out a pulse of light or radio waves. Part of the pulse is reflected back at the event and the observer measures the time at which he receives the echo"			
+
+206	"Since the speed of the light is just the distance it has traveled divided by the time it has taken, different observers would measure different speeds for the light. In relativity, on the other hand, all observers must agree on how fast light travels. They still, however, do not agree on the distance the light has traveled, so they must therefore now also disagree over the time it has taken. (The time taken is the distance the light has traveled"			
+
+207	"Using this procedure, observers who are moving relative to each other will assign different times  nd positions to the same event. No particular observer’s measurements are any more correct than any other observer’s, but all the measurements are related. Any observer can work out precisely what time and position any other observer will assign to an event, provided he knows the other observer’s relative velocity"			
+
+208	"But today, nothing was going to go wrong. It was even worth being with Dudley and Piers to be spending the day somewhere that wasn't school, his cupboard, or Mrs. Figg's cabbage-smelling living room."			
+
+209	"While he drove, Uncle Vernon complained to Aunt Petunia. He liked to complain about things: people at work, Harry, the council, Harry, the bank, and Harry were just a few of his favorite subjects. This morning, it was motorcycles."	
+		
+210	"It is a matter of common experience that one can describe the position of a point in space by  hree numbers, or coordinates. For instance, one can say that a point in a room is seven feet from one wall, three feet from another, and five feet above the floor. Or one could specify that a point was at a certain latitude and longitude and a certain height above sea level. One is free to use any three suitable coordinates, although they have only a limited range of validity"		
+	
+211	"One would not specify the position of the moon in terms of miles north and miles west of Piccadilly Circus and feet above sea level. Instead, one might describe it in terms of distance from the sun, distance from the plane of the orbits of the planets, and the angle between the line joining the moon to  he sun and the line joining the sun to a nearby star such as Alpha Centauri. Even these coordinates would not be of much use in describing the position of the sun in our galaxy or the position of our galaxy in the local group of galaxies."			
+
+212	"Uncle Vernon nearly crashed into the car in front. He turned right around in his seat and yelled at Harry, his face like a gigantic beet with a mustache"			
+
+213	"spatial coordinates and any measure of time. In relativity, there is no real distinction between the space and time coordinates, just as there is no real difference between any two space coordinates.  One could choose a new set of coordinates in which, say, the first space coordinate was a combination of the old first and second space coordinates. For instance, instead of measuring the position of a point on the earth in miles north of Piccadilly and miles west of Piccadilly, one could use miles northeast of Piccadilly, and miles north-west of Piccadilly. Similarly, in relativity, one could use a new time coordinate that was the old time (in seconds) plus the distance (in light-seconds) north of Piccadilly"		
+	
+214	"It is often helpful to think of the four coordinates of an event as specifying its position in a four-dimensional space called space-time. It is impossible to imagine a four-dimensional space. I personally find it hard enough to visualize three-dimensional space! However, it is easy to draw diagrams of two-dimensional spaces, such as the surface of the earth."			
+
+215	"An event is something that happens at a particular point in space and at a particular time. So one can specify it by four numbers or coordinates. Again, the choice of coordinates is arbitrary; one can use any three well-defined spatial coordinates and any measure of time. In relativity, there is no real distinction between the space and time coordinates, just as there is no real difference between any two space coordinates. One could choose a new set of coordinates in which, say, the first space coordinate was a combination of the old first and second space coordinates."		
+	
+216	"The surface of the earth is two-dimensional because the position of a point can be specified by two coordinates, latitude and longitude.) I shall generally use diagrams in which time increases upward and one of the spatial dimensions is shown horizontally. The other two spatial dimensions are ignored or, sometimes, one of them is indicated by perspective. (These are called space-time diagrams, like Figure 2:1.)"			
+
+217	"But he wished he hadn't said anything. If there was one thing the Dursleys hated even more than his asking questions, it was his talking about anything acting in a way it shouldn't, no matter if it was in a dream or even a cartoon -- they seemed to think he might get dangerous ideas"		
+	
+218	"It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop."			
+
+219	"Given an event P, one can divide the other events in the universe into three classes. Those events that can be reached from the event P by a particle or wave traveling at or below the speed of light are said to be in the future of P. They will lie within or on the expanding sphere of light emitted from the event P. Thus they will lie within or on the future light cone of P in the space-time diagram. Only events in the future of P can be affected by what happens at P because nothing can travel faster than light."			
+
+220	"What happens at such events can neither affect nor be affected by what happens at P. For example, if the sun were to cease to shine at this very moment, it would not affect things on earth at the present time because they would be in the elsewhere of the event when the sun went out Figure 2:6."			
+
+221	"As we have seen, Maxwell’s equations predicted that the speed of light should be the same whatever the speed of the source, and this has been confirmed by accurate measurements. It follows from this that if a pulse of light is emitted at a particular time at a particular point in space, then as time goes on it will spread out as a sphere of light whose size and position are independent of the speed of the source. After one millionth of a second the light will"			
+
+222	"We would know about it only after eight minutes, the time it takes light to reach us from the sun. Only then would events on earth lie in the future light cone of the event at which the sun went out. Similarly, we do not know what is happening at the moment farther away in the universe: the light that we see from distant galaxies left them millions of years ago, and in the case of the most distant object that we have seen, the light left some eight thousand million years ago. Thus, when we look at the universe, we are seeing it as it was in the past."			
+
+223	"If one neglects gravitational effects, as Einstein and Poincare did in 1905, one has what is called the special theory of relativity. For every event in space-time we may construct a light cone (the set of all possible paths of light in space-time emitted at that event), and since the speed of light is the same at every event and in every direction, all the light cones will be identical and will all point in the same direction. The theory also tells us that nothing can travel faster than light. This means that the path of any object through space and time must be represented by a line that lies within"	
+		
+224	"speed of light appears the same to all observers (as shown by the Michelson-Morley experiment) and in describing what happens when things move at speeds close to the speed of light. However, it was inconsistent with the Newtonian theory of gravity, which said that objects attracted each other with a force that depended on the distance between them. This meant that if one moved one of the objects, the force on the other one would change instantaneously. Or in other gravitational effects should travel with infinite velocity, instead of at or below the"			
+
+225	"This means that the path of any object through space and time must be represented by a line that lies within the light cone at each event on it (Fig. 2.7). The special theory of relativity was very successful in explaining that the speed of light appears the same to all observers (as shown by the Michelson-Morley experiment) and in describing what happens when things move at speeds close to the speed of light. However, it was inconsistent with the Newtonian theory of gravity, which said that objects attracted each other with a force that depended"		
+	
+226	"It was a very sunny Saturday and the zoo was crowded with families. The Dursleys bought Dudley and Piers large chocolate ice creams at the entrance and then, because the smiling lady in the van had asked Harry what he wanted before they could hurry him away, they bought him a cheap lemon ice pop. It wasn't bad, either, Harry thought, licking it as they watched a gorilla scratching its head who looked remarkably like Dudley, except that it wasn't blond"		
+	
+227	"Harry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting"	
+		
+228	"walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favorite hobby of hitting him. They ate in the zoo restaurant, and"			
+
+229	"hobby of hitting him. They ate in the zoo restaurant, and when Dudley had a tantrum because his knickerbocker glory didn't have enough ice cream on top"		
+	
+230	"Dudley had a tantrum because his knickerbocker glory didn't have enough ice cream on top, Uncle Vernon bought him another one and Harry was allowed to finish the first."	
+		
+231	"Harry felt, afterward, that he should have known it was all too good to last."		
+	
+232	"After lunch they went to the reptile house. It was cool and dark in there, with lit windows all along the walls. Behind the glass, all sorts of lizards"			
+
+233	"at that event), and since the speed of light is the same at every event and in every direction, all the light cones will be identical and will all point in the same direction. The theory also tells us that nothing can travel faster than light. This means that the path of any object through space and time must be represented by a line that lies within the light cone at each event on it (Fig. 2.7). The special theory of relativity was very successful in explaining that the speed of light appears the same to all observers (as shown by the Michelson-Morley experiment) and in"		
+	
+234	"of lizards and snakes were crawling and slithering over bits of wood and stone. Dudley and Piers wanted to see huge, poisonous cobras and thick, man-crushing pythons"	
+		
+235	"the nearest thing to a straight path in a curved space, which is called a geodesic. A geodesic is the shortest (or longest) path between two nearby points. For example, the surface of the earth is a two-dimensional curved space. A geodesic on the earth is called a great circle, and is the shortest route between two points (Fig. 2.8). As the geodesic is the shortest path between any two airports, this is the route an airline navigator will tell the pilot to fly along. In general relativity, bodies always follow straight lines in four-dimensional space-time, but they"			
+
+236	"The mass of the sun curves space-time in such a way that although the earth follows a straight  path in four-dimensional space-time, it appears to us to move along a circular orbit in three-dimensional space. Fact, the orbits of the planets predicted by general relativity are almost exactly the same as those predicted by the Newtonian theory of gravity. However, in the case of Mercury, which, being the nearest planet to the sun, feels the strongest gravitational effects, and has a rather elongated orbit, general relativity predicts that the long axis of the ellipse should"	
+		
+237	"and has a rather elongated orbit, general relativity predicts that the long axis of the ellipse should rotate about the sun at a rate of about one degree in ten thousand years. Small though this effect is, it had been noticed before 1915 and served as one of the first confirmations of Einstein’s theory. In recent years the even smaller deviations of the orbits of the other planets from the Newtonian predictions have been measured by radar and found to agree with the predictions of general relativity."	
+		
+238	"Light rays too must follow geodesics in space-time. Again, the fact that space is curved means that light no longer appears to travel in straight lines in space. So general relativity predicts that light should be bent by gravitational fields. For example, the theory predicts that the light cones of points near the sun would be slightly bent inward, on account of the mass of the sun. This means that light from a distant star that happened to pass near the sun would be deflected through a small angle, causing the star to appear in a different position to an observer on the earth (Fig. 2.9)."		
+	
+239	"Dudley quickly found the largest snake in the place. It could have wrapped its body twice around Uncle Vernon's car and crushed it into a trash can -- but at the moment it didn't look in the mood. In fact, it was fast asleep."			 
+
+240	"planets predicted by general relativity are almost exactly the same as those predicted by the Newtonian theory of gravity. However, in the case of Mercury, which, being the nearest planet to the sun, feels the strongest gravitational effects, and has a rather elongated orbit, general relativity predicts that   the long axis of the ellipse should rotate about the sun at a rate of about one degree in ten thousand years. Small though this effect is, it had been noticed before 1915 and served as one of the first confirmations of Einstein’s theory. In recent years the even smaller deviations"		
+	
+241	"but at the moment it didn't look in the mood. In fact, it was fast asleep. Dudley stood with his nose pressed against the glass, staring at the glistening brown coils."			
+
+242	"Harry moved in front of the tank and looked intently at the snake. He wouldn't have been surprised if it had died of boredom itself – no company"			
+
+243	"must follow geodesics in space-time. Again, the fact that space is curved means that light no longer appears to travel in straight lines in space. So general relativity predicts that light should be bent by gravitational fields. For example, the theory predicts that the light cones of points near the sun would be slightly bent inward, on account of the mass of the sun. This means that light from a distant star that happened to pass near the sun would be deflected through a small angle, causing the star to appear in a different position to an observer on the earth (Fig"	
+		
+244	"it was not until 1919 that a British expedition, observing an eclipse from West Africa, showed that light was indeed deflected by the sun, just as predicted by the theory. This proof of a German theory by British scientists was hailed as a great act of reconciliation between the two countries after the war. It is ionic, therefore, that later examination of the photographs taken on that expedition showed the errors were as great as the effect they were trying to measure. Their measurement had been sheer luck, or a case of knowing the result they wanted to get, not an uncommon occurrence in science. The light deflection has, however, been accurately confirmed by a number of later observations"	
+		
+245	"example, the theory predicts that the light cones of points near the sun would be slightly bent inward, on account of the mass of the sun. This means that light from a distant star that happened to pass near the sun would be deflected through a small angle, causing the star to appear in a different position to an observer on the earth (Fig. 2.9). Of course, if the light from the star always passed close to the sun, we would not be able to tell whether the light was being deflected or if instead the star was really where we see it. However, as the earth orbits around the sun, different stars appear to pass behind the sun and have their light deflected. They therefore change"			
+
+246	"Another prediction of general relativity is that time should appear to slower near a massive body like the earth. This is because there is a relation between the energy of light and its frequency (that is, the number of waves of light per second): the greater the energy, the higher frequency. As light travels upward in the earth’s gravitational field, it loses energy, and so its frequency goes down. (This means that the length of time between one wave crest and the next goes up.) To someone high up, it would appear that everything down below was making longer to happen."	
+		
+247	"sun, different stars appear to pass behind the sun and have their light deflected. They therefore change their apparent position relative to other stars. It is normally very difficult to see this effect, because the light from the sun makes it impossible to observe stars that appear near to the sun the sky. However, it is possible to do so during an eclipse of the sun, when the sun’s light is blocked out by the moon. Einstein’s prediction of light deflection could not be tested immediately in 1915, because the First World War was in progress, and it was not until 1919 that a British expedition, observing an eclipse from West Africa, showed that light was indeed deflected by the sun"		
+	
+248	"Harry moved in front of the tank and looked intently at the snake. He wouldn't have been surprised if it had died of boredom itself – no company except stupid people drumming their fingers on the glass trying to disturb"			
+
+249	"to disturb it all day long. It was worse than having a cupboard as a bedroom, where the only visitor was Aunt Petunia hammering on the door to wake you up; at least he got to visit the rest of the house."			
+
+250	"To someone high up, it would appear that everything down below was making longer to happen. This prediction was tested in 1962, using a pair of very accurate clocks mounted at the top and bottom of a water tower. The clock at the bottom, which was nearer the earth, was found to run slower, in exact agreement with general relativity."			
+
+251	"Newton’s laws of motion put an end to the idea of absolute position in space. The theory of relativity gets rid of absolute time. Consider a pair of twins. Suppose that one twin goes to live on the top of a mountain while the other stays at sea level. The first twin would age faster than the second. Thus, if they met again, one would be older than the other. In this case, the difference in ages would be very small"			
+
+252	"Before 1915, space and time were thought of as a fixed arena in which events took place, but which was not affected by what happened in it."		
+	
+253	"The clock at the bottom, which was nearer the earth, was found to run slower, in exact agreement with general relativity. The difference in the speed of clocks at different heights above the earth is now of considerable practical importance, with the advent of very accurate navigation systems based on signals from satellites. If one ignored the predictions of general relativity, the position that one calculated would be wrong by several miles!"			
+
+254	"The snake suddenly opened its beady eyes. Slowly, very slowly, it raised its head until its eyes were on a level with Harry's."			
+
+255	"It winked. Harry stared. Then he looked quickly around to see if anyone was watching. They weren't. He looked back at the snake and winked, too. The snake jerked its head toward Uncle Vernon and Dudley, then raised its eyes to the ceiling. It gave Harry a look that said quite plainly:"			
+
+256	"The situation, however, is quite different in the general theory of relativity. Space and time are now dynamic quantities: when a body moves, or a force acts, it affects the curvature of space and time – and in turn the structure of space-time affects the way in which bodies move and forces act. Space and time not only affect but also are affected by everything that happens in the universe. Just as one cannot talk about events in the universe without the notions of space and time, so in general relativity it became meaningless to talk about space and time outside the limits of the universe"
+			
+257	"Out of the way, you, he said, punching Harry in the ribs. Caught by surprise, Harry fell hard on the concrete floor. What came next happened so fast no one saw how it happened -- one second, Piers and Dudley were leaning right up close to the glass, the next, they had leapt back with howls of horror"			
+
+258	"Harry sat up and gasped; the glass front of the boa constrictor's tank had vanished. The great snake was uncoiling itself rapidly, slithering out onto the floor. People throughout the reptile house screamed and started running for the exits."			
+
+259	"Harry sat up and gasped; the glass front of the boa constrictor's tank had vanished. The great snake was uncoiling itself rapidly, slithering out onto the floor. People throughout the reptile house screamed and started running for the exits. As the snake slid swiftly past him, Harry could have sworn a low, hissing voice said, Brazil, here I come.... Thanksss, amigo."		
+	
+260	"The zoo director himself made Aunt Petunia a cup of strong, sweet tea while he apologized over and over again. Piers and Dudley could only gibber"		
+	
+261	"The zoo director himself made Aunt Petunia a cup of strong, sweet tea while he apologized over and over again. Piers and Dudley could only gibber. As far as Harry had seen, the snake hadn't done anything except snap playfully"			
+
+262	"Harry had seen, the snake hadn't done anything except snap playfully at their heels as it passed, but by the time they were all back in Uncle Vernon's"	
+		
+263	"Harry had seen, the snake hadn't done anything except snap playfully at their heels as it passed, but by the time they were all back in Uncle Vernon's car, Dudley was telling them how it had nearly bitten off his leg, while Piers was swearing it had tried to squeeze him to death."			
+
+264	"The zoo director himself made Aunt Petunia a cup of strong, sweet tea while he apologized over and over again. Piers and Dudley could only gibber. As far as Harry had seen, the snake hadn't done anything except snap playfully at their heels as it passed, but by the time they were all back in Uncle Vernon's car, Dudley was telling them how it had nearly bitten off his leg, while Piers was swearing it had tried to squeeze him to death. But worst of all, for Harry at least, was Piers calming down enough to say, Harry was talking to it, weren't you, Harry?"			
+
+265	"Uncle Vernon waited until Piers was safely out of the house before starting on Harry. He was so angry he could hardly speak. He managed to say, Go -- cupboard -- stay -- no meals, before he collapsed into a chair, and Aunt Petunia had to run and get him a large brandy."	
+		
+266	"Harry lay in his dark cupboard much later, wishing he had a watch. He didn't know what time it was and he couldn't be sure the Dursleys were asleep yet. Until they were, he couldn't risk sneaking to the kitchen for some food."			
+
+267	"He'd lived with the Dursleys almost ten years, ten miserable years, as long as he could remember, ever since he'd been a baby and his parents had died"		
+	
+268	"He'd lived with the Dursleys almost ten years, ten miserable years, as long as he could remember, ever since he'd been a baby and his parents had died in that car crash. He couldn't remember being in the car when his parents had died. Sometimes, when he strained his memory during long hours in"	
+		
+269	"had died in that car crash. He couldn't remember being in the car when his parents had died. Sometimes, when he strained his memory during long hours in his cupboard, he came up with a strange vision: a blinding flash of green"			
+
+270	"hours in his cupboard, he came up with a strange vision: a blinding flash of green light and a burn- ing pain on his forehead. This, he supposed, was the crash, though he couldn't imagine where all the green light came"			
+
+271	"supposed, was the crash, though he couldn't imagine where all the green light came from. He couldn't remember his parents at all. His aunt and uncle never spoke about them, and of course he was forbidden to ask questions. There were no photographs of them in the house."	
+		
+272	"When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; the Dursleys were his only family. Yet sometimes he thought (or maybe hoped) that strangers in the street seemed to know him. Very strange strangers they were"			
+
+273	"When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; the Dursleys were his only family. Yet sometimes he thought (or maybe hoped) that strangers in the street seemed to know him. Very strange strangers they were, too. A tiny man in a violet top hat had bowed to him once while out shopping"		
+	
+274	"the street seemed to know him. Very strange strangers they were, too. A tiny man in a violet top hat had bowed to him once while out shopping with Aunt Petunia and Dudley. After asking Harry furiously if he knew"			
+
+275	"with Aunt Petunia and Dudley. After asking Harry furiously if he knew the man, Aunt Petunia had rushed them out of the shop without buying anything. A wild-looking old woman dressed all in green had waved merrily at him once on a bus. A bald man in a very long purple coat had actually shaken"			
+
+276	"anything. A wild-looking old woman dressed all in green had waved merrily at him once on a bus. A bald man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word"			 
+
+277	"his hand in the street the other day and then walked away without a word. The weirdest thing about all these people was the way they seemed to vanish the second Harry tried to get a"			
+
+278	"At school, Harry had no one. Everybody knew that Dudley's gang hated that odd Harry Potter in his baggy old clothes and broken glasses, and nobody liked to disagree with Dudley's gang."			
+
+279	"The escape of the Brazilian boa constrictor earned Harry his longest-ever punishment. By the time he was allowed out of his cupboard again, the"			
+
+280	"the summer holidays had started and Dudley had already broken his new video camera, crashed his remote control airplane, and, first time out on his racing"	
+		
+281	"holidays had started and Dudley had already broken his new video camera, crashed his remote control airplane, and, first time out on his racing bike, knocked down old Mrs. Figg as she crossed Privet Drive on her crutches."			
+
+282	"Harry was glad school was over, but there was no escaping Dudley's gang, who visited the house every single day. Piers, Dennis, Malcolm, and Gordon were"		
+	
+283	"the house every single day. Piers, Dennis, Malcolm, and Gordon were all big and stupid, but as Dudley was the biggest and stupidest of the lot, he was the leader. The rest of them were all quite happy to join in Dudley's"			
+
+284	"and stupid, but as Dudley was the biggest and stupidest of the lot, he was the leader. The rest of them were all quite happy to join in Dudley's favorite sport: Harry Hunting."	
+		
+285	"This was why Harry spent as much time as possible out of the house, wandering around and thinking about the end of the holidays, where he could see a tiny ray of hope"		
+	
+286	"When September came he would be going off to secondary school and, for the first time in his life, he wouldn't be with Dudley. Dudley had been accepted at Uncle Vernon's old private school, Smeltings"			 
+
+287	"Dudley had been accepted at Uncle Vernon's old private school, Smeltings. Piers Polkiss was going there too. Harry, on the other hand, was going to Stonewall High, the local public school. Dudley thought this was very funny"			
+
+288	"One day in July, Aunt Petunia took Dudley to London to buy his Smeltings uniform, leaving Harry at Mrs. Figg's. Mrs. Figg wasn 't as bad as usual."		
+	
+289	"and she didn't seem quite as fond of them as before. She let Harry watch television and gave him a bit of chocolate cake that tasted as though she'd had it for several years."	
+		
+290	"That evening, Dudley paraded around the living room for the family in his brand-new uniform. Smeltings' boys wore maroon tailcoats, orange knickerbockers, and flat straw hats called boaters"			
+
+291	"Smeltings' boys wore maroon tailcoats, orange knickerbockers, and flat straw hats called boaters. They also carried knobbly sticks, used for hitting each other while the teachers weren't looking. This was supposed to be good training for later life."			
+
+292	"As he looked at Dudley in his new knickerbockers, Uncle Vernon said gruffly that it was the proudest moment of his life. Aunt Petunia burst into tears and said she couldn't believe it was"			
+
+293	"Uncle Vernon said gruffly that it was the proudest moment of his life. Aunt Petunia burst into tears and said she couldn't believe it was her Ickle Dudleykins, he looked so handsome and grown-up. Harry didn't trust himself to speak. He thought two of his ribs might already have cracked from trying not to laugh."			
+
+294	"Harry didn't trust himself to speak. He thought two of his ribs might already have cracked from trying not to laugh."			
+
+295	"There was a horrible smell in the kitchen the next morning when Harry went in for breakfast. It seemed to be coming from a large metal tub in the sink. He went to have a look. The tub was full of what looked like dirty rags swimming in gray water."		
+	
+296	"Harry seriously doubted this, but thought it best not to argue. He sat down at the table and tried not to think about how he was going to look on his first day at Stonewall High"	
+		
+297	"Dudley and Uncle Vernon came in, both with wrinkled noses because of the smell from Harry's new uniform. Uncle Vernon opened his newspaper as usual and Dudley"		
+	
+298	"Harry dodged the Smelting stick and went to get the mail. Three things lay on the doormat: a postcard from Uncle Vernon's sister Marge, who was vacationing on the Isle of Wight, a brown envelope that looked like a bill, and -- a letter for Harry."			
+
+299	"Harry picked it up and stared at it, his heart twanging like a giant elastic band. No one, ever, in his whole life, had written to him. Who would? He had"			
+
+300	"He had no friends, no other relatives -- he didn't belong to the library, so he'd never even got rude notes asking for books back. Yet here it was, a letter, addressed so plainly there could be no mistake:"			
+
+301	"Harry picked it up and stared at it, his heart twanging like a giant elastic band. No one, ever, in his whole life, had written to him. Who would? He had no friends, no other relatives -- he didn't belong to the library, so he'd never even got rude notes asking for books back. Yet here it was, a letter, addressed so plainly there could"			
+
+302	"The envelope was thick and heavy, made of yellowish parchment, and the address was written in emerald-green ink. There was no stamp. Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger, and a snake surrounding a large letter H."			
+
+303	"Harry went back to the kitchen, still staring at his letter. He handed Uncle Vernon the bill and the postcard, sat down, and slowly began to open the yellow envelope"
+			
+304	"Harry was on the point of unfolding his letter, which was written on the same heavy parchment as the envelope, when it was jerked sharply out of his hand by Uncle Vernon"	
+		
+305	"Dudley tried to grab the letter to read it, but Uncle Vernon held it high out of his reach. Aunt Petunia took it curiously and read the first line. For a moment it looked as though she might faint. She clutched her throat and made a choking noise."			
+
+306	"They stared at each other, seeming to have forgotten that Harry and Dudley were still in the room. Dudley wasn't used to being ignored. He gave his father a sharp tap on the head with his Smelting stick"			
+
+307	"Harry and Dudley promptly had a furious but silent fight over who would listen at the keyhole; Dudley won, so Harry, his glasses dangling from one ear, lay flat on his stomach to listen at the crack between door and floor."			
+
+308	"The Dursleys' house had four bedrooms: one for Uncle Vernon and Aunt Petunia, one for visitors (usually Uncle Vernon's sister, Marge), one where Dudley slept, and one where Dudley kept all the toys and things that wouldn't fit into his first bedroom. It only took Harry one trip upstairs "	
+		
+309	"move everything he owned from the cupboard to this room. He sat down on the bed and stared around him. Nearly everything in here was broken. The month-old video camera was lying on top of a small, working tank Dudley had once driven over the next door neighbor's dog; in the corner was Dudley's first"			 
+
+310	"which he'd put his foot through when his favorite program had been canceled; there was a large birdcage, which had once held a parrot that Dudley had swapped at school for a real air rifle, which was up on a shelf with the end all bent because Dudley had sat on it. Other shelves were full of books. They were the only things in the room that looked as though they'd never been touched."	
+		
+311	"From downstairs came the sound of Dudley bawling at his mother, I don't want him in there... I need that room... make him get out.... Harry sighed and stretched out on the bed. Yesterday he'd have given anything to be up here. Today he'd rather be back in his cupboard with that letter than up here without it."			
+
+312	"Next morning at breakfast, everyone was rather quiet. Dudley was in shock. He'd screamed, whacked his father with his Smelting stick, been sick on purpose, kicked his mother, and thrown his tortoise through the greenhouse roof, and he still didn't have his room back"	
+		
+313	"When the mail arrived, Uncle Vernon, who seemed to be trying to be nice to Harry, made Dudley go and get it. They heard him banging things with his Smelting stick all the way down the hall."			
+
+314	"With a strangled cry, Uncle Vernon leapt from his seat and ran down the hall, Harry right behind him. Uncle Vernon had to wrestle Dudley to the ground to get the letter from him, which was made difficult by the fact that Harry"			
+
+315	"Dudley to the ground to get the letter from him, which was made difficult by the fact that Harry had grabbed Uncle Vernon around the neck from behind. After a minute of confused fighting, in which everyone got hit a lot by the Smelting stick, Uncle Vernon straightened up, gasping for breath, with Harry's letter clutched in his hand"			
+
+316	"Harry walked round and round his new room. Someone knew he had moved out of his cupboard and they seemed to know he hadn't received his first letter. Surely that meant they'd try again? And this time he'd make sure they didn't fail. He had a plan"			
+
+317	"The repaired alarm clock rang at six o'clock the next morning. Harry turned it off quickly and dressed silently. He mustn't wake the Dursleys. He stole downstairs without turning on any of the lights."			
+
+318	"He was going to wait for the postman on the corner of Privet Drive and get the letters for number four first. His heart hammered as he crept across the dark hall toward the front door"	
+		
+319	"Lights clicked on upstairs and to his horror Harry realized that the big, squashy something had been his uncle's face. Uncle Vernon had been lying at the foot of the front door in a sleeping bag, clearly making sure that Harry didn't do exactly what he'd been trying to do"	
+		
+320	"He shouted at Harry for about half an hour and then told him to go and make a cup of tea. Harry shuffled miserably off into the kitchen and by the time he got back, the mail had arrived, right into Uncle Vernon's lap."			 
+
+321	"On Friday, no less than twelve letters arrived for Harry. As they couldn't go through the mail slot they had been pushed under the door, slotted through the sides, and a few even forced through the small window in the downstairs bathroom."			
+
+322	"Uncle Vernon stayed at home again. After burning all the letters, he got out a hammer and nails and boarded up the cracks around the front and back doors so no one could go out. He hummed Tiptoe Through the Tulips as he worked, and jumped at small noises."			
+
+323	"Harry's last month with the Dursleys wasn't fun. True, Dudley was now so scared of Harry he wouldn't stay in the same room, while Aunt Petunia and Uncle Vernon didn't shut Harry in his cupboard, force him to do anything, or shout at him -- in fact, they didn't speak to him at all. Half terrified, half furious, they acted as though any chair with Harry in it were empty. Although this was an improvement in many ways, it did become a bit depressing after a while."			
+
+324	"Harry kept to his room, with his new owl for company. He had decided to call her Hedwig, a name he had found in A History of Magic. His school books were very interesting"			
+
+325	"He lay on his bed reading late into the night, Hedwig swooping in and out of the open window as she pleased. It was lucky that Aunt Petunia didn't come in to vacuum anymore, because Hedwig kept bringing back dead mice. Every night before he went to sleep, Harry ticked off another day on the piece of paper he had pinned to the wall, counting down to September the first."			
+
+326	"On the last day of August he thought he'd better speak to his aunt and uncle about getting to King's Cross station the next day, so he went down to the living room where they were watching a quiz show on television. He cleared his throat to let them know he was there, and Dudley screamed and ran from the room."			 
+
+327	"Harry woke at five o'clock the next morning and was too excited and nervous to go back to sleep. He got up and pulled on his jeans because he didn't want to walk into the station in his wizard's robes -- he'd change on the train. He checked his Hogwarts list yet again to make sure he had everything he needed, saw that Hedwig was shut safely in her cage, and then paced the room, waiting for the Dursleys to get up. Two hours later, Harry's huge, heavy trunk had been loaded into the Dursleys' car, Aunt Petunia had talked Dudley into sitting next to Harry, and they had set off."			
+
+328	"They reached King's Cross at half past ten. Uncle Vernon dumped Harry's trunk onto a cart and wheeled it into the station for him. Harry thought this was strangely kind until Uncle Vernon stopped dead, facing the platforms with a nasty grin on his face"			
+
+329	"He left without another word. Harry turned and saw the Dursleys drive away. All three of them were laughing. Harry's mouth went rather dry. What on earth was he going to do? He was starting to attract a lot of funny looks, because of Hedwig. He'd have to ask someone."			
+
+330	"He stopped a passing guard, but didn't dare mention platform nine and three-quarters. The guard had never heard of Hogwarts and when Harry couldn't even tell him what part of the country it was in, he started to get annoyed, as though Harry was being stupid on purpose"			
+
+331	"Getting desperate, Harry asked for the train that left at eleven o'clock, but the guard said there wasn't one. In the end the guard strode away, muttering about time wasters. Harry was now trying hard not to panic. According to the large clock over the arrivals board, he had ten minutes left to get on the train to Hogwarts and he had no idea how to do it; he was stranded in the middle of a station with a trunk he could hardly lift, a pocket full of wizard money, and a large owl."			
+
+332	"Hagrid must have forgotten to tell him something you had to do, like tapping the third brick on the left to get into Diagon Alley. He wondered if he should get out his wand and start tapping the ticket inspector's stand between platforms nine and ten"			
+
+333	"Harry swung round. The speaker was a plump woman who was talking to four boys, all with flaming red hair. Each of them was pushing a trunk like Harry's in front of him -- and they had an owl."			
+
+334	"What looked like the oldest boy marched toward platforms nine and ten. Harry watched, careful not to blink in case he missed it -- but just as the boy reached the dividing barrier between the two platforms, a large crowd of tourists came swarming in front of him and by the time the last backpack had cleared away, the boy had vanished."			
+
+335	"relative to each other as earth orbits around the sun: they are not really fixed at all! This is because they are comparatively near to us. As the earth goes round the sun, we see them from different positions against the background of more distant stars. This is fortunate, because it enables us to measure directly the distance of these stars from us: the nearer they are, the more they appear to move. The nearest star, called Proxima Centauri, is found to be about four light-years away (the light from it takes about four years to reach earth), or about twenty"			
+
+336	"sun, for comparison, is a mere light-minutes away! The visible stars appear spread all over the night sky, but are particularly concentrated in one band, which we call the Milky Way. As long ago as 1750, some astronomers were suggesting that the appearance of the Milky Way could be explained if most of the visible stars lie in a single disklike configuration, one example of what we now call a spiral galaxy. Only a few decades later, the astronomer Sir William Herschel confirmed this idea by painstakingly cataloging the positions and distances of vast numbers of stars. Even so, the idea gained complete acceptance only early this century."			
+
+337	"background of more distant stars. This is fortunate, because it enables us to measure directly the distance of these stars from us: the nearer they are, the more they appear to move. The nearest star, called Proxima Centauri, is found to be about four light-years away (the light from it takes about four years to reach earth), or about twenty-three million million miles. Most of the other stars that are visible to the naked eye lie within a few hundred light-years of us. Our sun, for comparison, is a mere light-minutes away! The visible stars appear spread all over the night sky, but are particularly concentrated in one band, which we call the Milky Way. As long ago as 1750, some astronomers were suggesting that the appearance of the Milky Way could be explained if most of the visible stars lie in a single disklike configuration, one example of what we now call a spiral galaxy. Only a few decades later, the astronomer Sir William Herschel confirmed this idea by painstakingly cataloging the positions"			
+
+338	"comparatively near to us. As the earth goes round the sun, we see them from different positions against the background of more distant stars. This is fortunate, because it enables us to measure directly  the distance of these stars from us: the nearer they are, the more they appear to move. The nearest star, called Proxima Centauri, is found to be about four light-years away (the light from it takes about four years to reach earth), or about twenty-three million million miles. Most of the other stars that are visible to the naked eye lie within a few hundred light-"			
+
+339	"In the following decades this new understanding of space and time was to revolutionize our view of the universe. The old idea of an essentially unchanging universe that could have existed, and could continue to exist, forever was replaced by the notion of a dynamic, expanding universe that seemed to have begun a finite time ago, and that might end at a finite time in the future. That revolution forms the subject of the next chapter. And years later, it was also to be the starting point for my work in theoretical physics. Roger Penrose and I showed that Einstein’s general theory of relativity implied that the universe must have a beginning and, possibly, an end."			
+
+340	"from us: the nearer they are, the more they appear to move. The nearest star, called Proxima Centauri, is found to be about four light-years away (the light from it takes about four years to reach earth), or about twenty-three million million miles. Most of the other stars that are visible to the naked  eye lie within a few hundred light-years of us. Our sun, for comparison, is a mere light-minutes away! The visible stars appear spread all over the night sky, but are particularly concentrated in one band, which we call the Milky Way. As long ago as 1750, some astronomers were suggesting that the appearance of the Milky Way could be explained if most of the visible stars lie in a single disklike configuration, one example of what we now call a spiral galaxy. Only a few decades"			
+
+341	"unlike nearby stars, they really do appear fixed. Hubble was forced, therefore, to use indirect methods to measure the distances. Now, the apparent brightness of a star depends on two factors: how much light it radiates (its luminosity), and how far it is from us. For nearby stars, we can measure their apparent brightness and their distance, and so we can work out their luminosity. Conversely, if we knew the luminosity of stars in other galaxies,"			
+
+342	"distance, and so we can work out their luminosity. Conversely, if we knew the luminosity of stars in other galaxies, we could work out their distance by measuring their apparent brightness. Hubble noted that certain types of stars always have the same luminosity when they are near enough for us to measure;  therefore, he argued, if we found such stars in another galaxy, we could assume that they had the same luminosity – and so calculate"			
+
+343	"In this way, Edwin Hubble worked out the distances to nine different galaxies. We now know that our galaxy is only one of some hundred thousand million that can be seen using modern telescopes, each galaxy itself containing some hundred thousand million stars. Figure 3:1 shows a picture of one spiral galaxy that is similar to what we think ours must look like to someone living in another galaxy."			
+
+344	"We live in a galaxy that is about one hundred thousand light-years across and is slowly rotating; the stars in its spiral arms orbit around its center about once every several hundred million years. Our sun is just an ordinary, average-sized, yellow star, near the inner edge of one of the spiral arms. We have certainly come a long way since Aristotle and Ptolemy, when thought that the earth was the center of the universe!"			
+
+345	"if we found such stars in another galaxy, we could assume that they had the same luminosity – and so calculate the distance to that galaxy. If we could do this for a number of stars in the same galaxy, and our calculations always gave the same distance, we could be fairly confident of our estimate."			
+
+346	"called a prism, it breaks up into its component colors (its spectrum) as in a rainbow. By focusing a telescope on an individual star or galaxy, one can similarly observe the spectrum of the light from that star or galaxy. Different stars have different spectra, but the relative brightness of the different colors is always exactly what one would expect to find in the light emitted by an object that is glowing red hot. (In fact, the light emitted by any opaque object that is glowing red hot has a characteristic spectrum that depends only on its temperature – a thermal spectrum"			
+
+347	"Stars are so far away that they appear to us to be just pinpoints of light. We cannot see their size or shape. So how can we tell different types of stars apart? For the vast majority of stars, there is only one characteristic feature that we can observe – the color of their light. Newton discovered that if light from the sun passes through a triangular-shaped piece of glass, called a prism, it breaks up into its component colors (its spectrum) as in a rainbow."			
+
+348	"Our modern picture of the universe dates back to only 1924, when the American astronomer Edwin Hubble demonstrated that ours was not the only galaxy. There were in fact many others, with vast tracts of empty space between them. In order to prove this, he needed to determine the distances to these other galaxies, which are so far away that, unlike nearby stars, they really do appear fixed."			
+
+349	"This means that we can tell a star’s temperature from the spectrum of its light.) Moreover, we find that certain very specific colors are missing from stars’ spectra, and these missing colors may vary from star to star. Since we know that each chemical element absorbs a characteristic set of very specific colors, by matching these to those that are missing from a star’s spectrum, we can determine exactly which elements are present in the star’s atmosphere."			
+
+350	"there were the same characteristic sets of missing colors as for stars in our own galaxy, but they were all shifted by the same relative amount toward the red end of the spectrum. To understand the implications of this, we must first understand the Doppler effect. As we have seen, visible light consists of fluctuations, or waves, in the electromagnetic field. The wavelength (or distance from one wave crest to the next) of light is extremely small"			
+
+351	"In the 1920s, when astronomers began to look at the spectra of stars in other galaxies, they found something most peculiar: there were the same characteristic sets of missing colors as for stars in our own galaxy, but they were all shifted by the same relative amount toward the red end of the spectrum. To understand the implications of this, we must first understand the Doppler effect."			
+
+352	"He started to walk toward it. People jostled him on their way to platforms nine and ten. Harry walked more quickly. He was going to smash right into that barrier and then he'd be in trouble -- leaning forward on his cart, he broke into a heavy run -- the barrier was coming nearer and nearer -- he wouldn't be able to stop -- the cart was out of control -- he was a foot away -- he closed his eyes ready for the crash"			
+
+353	"It didn't come... he kept on running... he opened his eyes. A scarlet steam engine was waiting next to a platform packed with people. A sign overhead said Hogwarts Express, eleven O'clock. Harry looked behind him and saw a wrought-iron archway where the barrier had been, with the words Platform Nine and Three-Quarters on it, He had done it."			
+
+354	"Smoke from the engine drifted over the heads of the chattering crowd, while cats of every color wound here and there between their legs. Owls hooted to one another in a disgruntled sort of way over the babble and the scraping of heavy trunks"			
+
+355	"The first few carriages were already packed with students, some hanging out of the window to talk to their families, some fighting over seats. Harry pushed his cart off down the platform in search of an empty seat. He passed a round-faced boy who was saying, Gran, I've lost my toad again.”		
+
+356	"Harry pressed on through the crowd until he found an empty compartment near the end of the train. He put Hedwig inside first and then started to shove and heave his trunk toward the train door. He tried to lift it up the steps but could hardly raise one end and twice he dropped it painfully on his foot."			
+
+357	"the waves we receive will be the same as the wavelength at which they are emitted (the gravitational field of the galaxy will not be large enough to have a significant effect). Suppose now that the source starts moving toward us. When the source emits the next wave crest it will be nearer to us, so the distance between wave crests will be smaller than when the star was stationary."			
+
+358	"stationary. This means that the wavelength of the waves we receive is shorter than when the star was stationary. Correspondingly, if the source is moving away from us, the wavelength of the waves we receive will be longer. In the case of light, therefore, means that stars moving away from us will have their spectra shifted toward the red end of the spectrum (red-shifted) and those moving toward us will have their spectra blue-shifted. This relationship between wavelength and speed, which is called the Doppler effect, is an everyday experience."			
+
+359	"ln the years following his proof of the existence of other galaxies, Rubble spent his time cataloging their distances and observing their spectra. At that time most people expected the galaxies to be moving around quite randomly, and so expected to find as many blue-shifted spectra as red-shifted ones. It was quite a surprise, therefore, to find that most galaxies appeared red-shifted: nearly all were moving away from us! More surprising still was the finding that Hubble published in 1929"			
+
+360	"In the case of light, therefore, means that stars moving away from us will have their spectra shifted toward the red end of the spectrum (red-shifted) and those moving toward us will have their spectra blue-shifted. This relationship between wavelength and speed, which is called the Doppler effect, is an everyday experience. Listen to a car passing on the road: as the car is approaching, its engine sounds at a higher pitch (corresponding to a shorter wavelength and higher frequency of sound waves), and when it passes and goes away, it sounds at a lower pitch"			
+
+361	"Correspondingly, if the source is moving away from us, the wavelength of the waves we receive will be longer. In the case of light, therefore, means that stars moving away from us will have their spectra shifted toward the red end of the spectrum (red-shifted) and those moving toward us will have their spectra blue-shifted."			
+
+362	"Harry sat down next to the window where, half hidden, he could watch the red-haired family on the platform and hear what they were saying. Their mother had just taken out her handkerchief."			
+
+363	"The oldest boy came striding into sight. He had already changed into his billowing black Hogwarts robes, and Harry noticed a shiny silver badge on his chest with the letter P on it."			
+
+364	"The discovery that the universe is expanding was one of the great intellectual revolutions of the twentieth century. With hindsight, it is easy wonder why no one had thought of it before. Newton, and others should have realized that a static universe would soon start to contract under the influence of gravity. But suppose instead that the universe is expanding."			
+
+365	"If it has a fairly low speed, gravity will eventually stop the rocket and it will start falling back. On the other hand, if the rocket has more than a certain critical speed (about seven miles per second), gravity will not be strong enough to pull it back, so it will keep going away from the earth forever. This behavior of the universe could have been predicted from Newton’s theory of gravity at any time in the nineteenth, the eighteenth, or even the late seventeenth century."			
+
+366	"If it was expanding fairly slowly, the force of gravity would cause it eventually to stop expanding and then to start contracting. However, if it was expanding at more than a certain critical rate, gravity would never be strong enough to stop it, and the universe would continue to expand forever. This is a bit like what happens when one fires a rocket upward from the surface of the earth. If it has a fairly low speed, gravity will eventually stop the rocket and it will start falling back."			
+
+367	"and so expected to find as many blue-shifted spectra as red-shifted ones. It was quite a surprise, therefore, to find that most galaxies appeared red-shifted: nearly all were moving away from us! More surprising still was the finding that Hubble published in 1929: even the size of a galaxy’s red shift is not random, but is directly proportional to the galaxy’s distance from us. Or, in other words, the farther a galaxy is, the faster it is moving away! And that meant that the universe could"			
+
+368	"The train began to move. Harry saw the boys' mother waving and their sister, half laughing, half crying, running to keep up with the train until it gathered too much speed, then she fell back and waved. Harry watched the girl and her mother disappear as the train rounded the corner. Houses flashed past the window. Harry felt a great leap of excitement. He didn't know what he was going to but it had to be better than what he was leaving behind"			
+
+369	"Harry shook his head and the boy sat down. He glanced at Harry and then looked quickly out of the window, pretending he hadn't looked. Harry saw he still had a black mark on his nose."			
+
+370	"There was no doubt about it, Hagrid definitely didn't meet Harry's eyes this time. He grunted and offered him another rock cake. Harry read the story again. The vault that was searched had in fact been emptied earlier that same day. Hagrid had emptied vault seven hundred and thirteen, if you could call it emptying, taking out that grubby little package. Had that been what the thieves were looking for?"			
+
+371	"As Harry and Ron walked back to the castle for dinner, their pockets weighed down with rock cakes they'd been too polite to refuse, Harry thought that none of the lessons he'd had so far had given him as much to think about as tea with Hagrid. Had Hagrid collected that package just in time? Where was it now? And did Hagrid know something about Snape that he didn't want to tell Harry?"	
+		
+372	"Harry had never believed he would meet a boy he hated more than Dudley, but that was before he met Draco Malfoy. Still, first-year Gryffindors only had Potions with the Slytherins, so they didn't have to put up with Malfoy much."			
+
+373	"Malfay certainly did talk about flying a lot. He complained loudly about first years never getting on the house Quidditch teams and told long, boastful stories that always seemed to end with him narrowly escaping Muggles in helicopters"			
+
+374	"He wasn't the only one, though: the way Seamus Finnigan told it, he'd spent most of his childhood zooming around the countryside on his broomstick. Even Ron would tell anyone who'd listen about the time he'd almost hit a hang glider on Charlie's old broom. Everyone from wizarding families talked about Quidditch constantly"			 
+
+375	"Ron had already had a big argument with Dean Thomas, who shared their dormitory, about soccer. Ron couldn't see what was exciting about a game with only one ball where no one was allowed to fly. Harry had caught Ron prodding Dean's poster of West Ham soccer team, trying to make the players move."			
+
+376	"Neville had never been on a broomstick in his life, because his grandmother had never let him near one. Privately, Harry felt she'd had good reason, because Neville managed to have an extraordinary number of accidents even with both feet on the ground."			
+
+377	"Hermione Granger was almost as nervous about flying as Neville was. This was something you couldn't learn by heart out of a book -- not that she hadn't tried. At breakfast on Thursday she bored them all stupid with flying tips she'd gotten out of a library book called Quidditch Through the Ages"			
+
+378	"Hermione Granger was almost as nervous about flying as Neville was. This was something you couldn't learn by heart out of a book -- not that she hadn't tried. At breakfast on Thursday she bored them all stupid with flying tips she'd gotten out of a library book called Quidditch Through the Ages. Neville was hanging on to her every word, desperate for anything that might help him hang on to his broomstick later, but everybody else was very pleased when Hermione's lecture was interrupted by the arrival of the mail."			
+
+379	"Harry hadn't had a single letter since Hagrid's note, something that Malfoy had been quick to notice, of course. Malfoy's eagle owl was always bringing him packages of sweets from home, which he opened gloatingly at the Slytherin table"			
+
+380	"Neville was trying to remember what he'd forgotten when Draco Malfoy, who was passing the Gryffindor table, snatched the Remembrall out of his hand. Harry and Ron jumped to their feet. They were half hoping for a reason to fight Malfay, but Professor McGonagall, who could spot trouble quicker than any teacher in the school, was there in a flash."			
+
+381	"At three-thirty that afternoon, Harry, Ron, and the other Gryffindors hurried down the front steps onto the grounds for their first flying lesson. It was a clear, breezy day, and the grass rippled under their feet as they marched down the sloping lawns toward a smooth, flat lawn on the opposite side of the grounds to the forbidden forest, whose trees were swaying darkly in the distance."			
+
+382	"The Slytherins were already there, and so were twenty broomsticks lying in neat lines on the ground. Harry had heard Fred and George Weasley complain about the school brooms, saying that some of them started to vibrate if you flew too high, or always flew slightly to the left."			
+
+383	"Harry's broom jumped into his hand at once, but it was one of the few that did. Hermione Granger's had simply rolled over on the ground, and Neville's hadn't moved at all. Perhaps brooms, like horses, could tell when you were afraid, thought Harry; there was a quaver in Neville's voice that said only too clearly that he wanted to keep his feet on the ground."			
+
+384	"Madam Hooch then showed them how to mount their brooms without sliding off the end, and walked up and down the rows correcting their grips. Harry and Ron were delighted when she told Malfoy he'd been doing it wrong for years"			
+
+385	"he modified his theory to make this possible, introducing a so-called cosmological constant into his equations. Einstein introduced a new antigravity force, which, unlike other forces, did not come from any particular source but was built into the very fabric of space-time. He claimed that space-time had an inbuilt tendency to expand, and this could be made to balance exactly the attraction of all the matter in the universe, so that a static universe would result. Only one man, it seems, was willing to take general relativity at face value, and while"			
+
+386	"Only one man, it seems, was willing to take general relativity at face value, and while Einstein and other physicists were looking for ways of avoiding general relativity’s prediction of a nonstatic universe, the Russian physicist and mathematician Alexander Friedmann instead set about explaining it."			
+
+387	"Newton’s theory of gravity at any time in the nineteenth, the eighteenth, or even the late seventeenth century. Yet so strong was the belief in a static universe that it persisted into the early twentieth century. Even Einstein, when he formulated the general theory of relativity in 1915, was so sure that the universe had to be static that he modified his theory to make this possible, introducing a so-called cosmological constant into his equations."			
+
+388	"Friedmann made two very simple assumptions about the universe: that the universe looks identical in whichever direction we look, and that this would also be true if we were observing the universe from anywhere else. From these two ideas alone, Friedmann showed that we should not expect the universe to be static. In fact, in 1922, several years before Edwin Hubble’s discovery, Friedmann predicted exactly what Hubble found!"			
+
+389	"The assumption that the universe looks the same in every direction is clearly not true in reality. For example, as we have seen, the other stars in our galaxy form a distinct band of light across the night sky, called the Milky Way. But if we look at distant galaxies, there seems to be more or less the same number of them. So the universe does seem to be roughly the same in every direction, provided one views it on a large scale compared to the distance between galaxies, and ignores the differences on small scales"			
+
+390	"WHAM -- a thud and a nasty crack and Neville lay facedown on the grass in a heap. His broomstick was still rising higher and higher, and started to drift lazily toward the forbidden forest and out of sight."			
+
+391	"Harry ignored her. Blood was pounding in his ears. He mounted the broom and kicked hard against the ground and up, up he soared; air rushed through his hair, and his robes whipped out behind him -and in a rush of fierce joy he realized he'd found something he could do without being taught -- this was easy, this was wonderful"			
+
+392	"In 1965 two American physicists at the Bell Telephone Laboratories in New Jersey, Arno Penzias and Robert Wilson, were testing a very sensitive microwave detector. (Microwaves are just like light waves, but with a wavelength of around a centimeter.) Penzias and Wilson were worried when they found that their detector was picking up more noise than it ought to."			
+
+393	"They knew that any noise from within the atmosphere would be stronger when the detector was not pointing straight up than when it was, because light rays travel through much more atmosphere when received from near the horizon than when received from directly overhead. The extra noise was the same whichever direction the detector was pointed, so it must come from outside the atmosphere. It was also the same day and night and throughout the year, even though the earth was rotating on its axis and orbiting around the sun"			
+
+394	"Penzias and Wilson were worried when they found that their detector was picking up more noise than it ought to. The noise did not appear to be coming from any particular direction. First they discovered bird droppings in their detector and checked for other possible malfunctions, but soon ruled these out. They knew that any noise from within the atmosphere would be stronger when the detector was not pointing straight up than when it was, because light rays travel through much more atmosphere when received from near the horizon than when received from directly overhead"			
+
+395	"He pulled his broomstick up a little to take it even higher, and heard screams and gasps of girls back on the ground and an admiring whoop from Ron."			
+
+396	"Harry saw, as though in slow motion, the ball rise up in the air and then start to fall. He leaned forward and pointed his broom handle down -- next second he was gathering speed in a steep dive, racing the ball -- wind whistled in his ears, mingled with the screams of people watching -- he stretched out his hand -- a foot from the ground he caught it, just in time to pull his broom straight, and he toppled gently onto the grass with the Remembrall clutched safely in his fist."			
+
+397	"In 1965 two American physicists at the Bell Telephone Laboratories in New Jersey, Arno Penzias and Robert Wilson, were testing a very sensitive microwave detector. (Microwaves are just like light waves, but with a wavelength of around a centimeter.) Penzias and Wilson were worried when they found that their detector was picking up more noise than it ought to."			
+
+398	"They were working on a suggestion, made by George Gamow (once a student of Alexander Friedmann), that the early universe should have been very hot and dense, glowing white hot. Dicke and Peebles argued that we should still be able to see the glow of the early universe, because light from very distant parts of it would only just be reaching us now"			
+
+399	"However, because the universe is not exactly the same in every direction, but only on average on a large scale, the microwaves cannot be exactly the same in every direction either. There have to be slight variations between different directions. These were first detected in 1992 by the Cosmic Background Explorer satellite, or COBE, at a level of about one part in a hundred thousand. Small though these variations are, they are very important, as will be explained in Chapter 8."			
+
+400	"In fact, we know that the radiation must have traveled to us across most of the observable universe, and since it appears to be the same in different directions, the universe must also be the same in every direction, if only on a large scale. We now know that whichever direction we look, this noise never varies by more than a tiny fraction: so Penzias and Wilson had unwittingly stumbled across a remarkably accurate confirmation of Friedmann’s first assumption"			
+
+401	"Harry caught sight of Malfoy, Crabbe, and Goyle's triumphant faces as he left, walking numbly in Professor McGonagall's wake as she strode toward the castle. He was going to be expelled, he just knew it. He wanted to say something to defend himself, but there seemed to be something wrong with his voice. Professor McGonagall was sweeping along without even looking at him; he had to jog to keep up. Now he'd done it. He hadn't even lasted two weeks. He'd be packing his bags in ten minutes. What would the Dursleys say when he turned up on the doorstep?"			
+
+402	"Up the front steps, up the marble staircase inside, and still Professor McGonagall didn't say a word to him. She wrenched open doors and marched along corridors with Harry trotting miserably behind her. Maybe she was taking him to Dumbledore. He thought of Hagrid, expelled but allowed to stay on as gamekeeper. Perhaps he could be Hagrid's assistant. His stomach twisted as he imagined it, watching Ron and the others becoming wizards, while he stumped around the grounds carrying Hagrid's bag."			
+
+403	"I shall speak to Professor Dumbledore and see if we can't bend the first-year rule. Heaven knows, we need a better team than last year. Flattened in that last match by Slytherin, I couldn't look Severus Snape in the face for weeks."			
+
+404	"It was dinnertime. Harry had just finished telling Ron what had happened when he'd left the grounds with Professor McGonagall. Ron had a piece of steak and kidney pie halfway to his mouth, but he'd forgotten all about it."			
+
+405	"All the same, it wasn't what you'd call the perfect end to the day, Harry thought, as he lay awake much later listening to Dean and Seamus falling asleep (Neville wasn't back from the hospital wing). Ron had spent all evening giving him advice such as If he tries to curse you, you'd better dodge it, because I can't remember how to block them."			
+
+406	"The approximations I used to derive the emission from black holes should work well when the black hole has a mass greater than a fraction of a gram. However, they will break down at the end of the black hole’s life when its mass gets very small. The most likely outcome seems to be that the black hole will just disappear, at least from our region of the universe, taking with it the astronaut and any singularity there might be inside it, if indeed there is one"			
+
+407	"They were working on a suggestion, made by George Gamow (once a student of Alexander Friedmann), that the early universe should have been very hot and dense, glowing white hot. Dicke and Peebles argued that we should still be able to see the glow of the early universe, because light from very distant parts of it would only just be reaching us now. However, the expansion of the universe meant that  this light should be so greatly red-shifted that it would appear to us now as microwave radiation. Dicke and Peebles were preparing to look for this radiation when Penzias and Wilson heard about their work and realized that they had already found it."			
+
+408	"At roughly the same time as Penzias and Wilson were investigating noise in their detector, two American physicists at nearby Princeton University, Bob Dicke and Jim Peebles, were also taking an interest in microwaves. They were working on a suggestion, made by George Gamow (once a student of Alexander Friedmann), that the early universe should have been very hot and dense, glowing white hot. Dicke and Peebles argued that we should still be able to see the glow of the early universe, because light from very distant parts of it would only just be reaching us now"			
+
+409	"The existence of radiation from black holes seems to imply that gravitational collapse is not as  final and irreversible as we once thought. If an astronaut falls into a black hole, its mass will increase, but eventually the energy equivalent of that extra mass will be returned to the universe in the form of radiation"			
+
+410	"The idea of radiation from black holes was the first example of a prediction that depended in an essential way on both the great theories of this century, general relativity and quantum mechanics. It aroused a lot of opposition initially because it upset the existing viewpoint: How can a black hole emit anything? "			
+
+411	"There was a very good chance they were going to get caught by Filch or Mrs. Norris, and Harry felt he was pushing his luck, breaking another school rule today. On the other hand, Malfoys sneering face kept looming up out of the darkness - this was his big chance to beat Malfoy face-to-face. He couldn't miss it."			
+
+412	"One such black hole could run ten large power stations, if only we could harness its power. This would be rather difficult, however: the black hole would have the mass of a mountain compressed into less than a million millionth of an inch, the size of the nucleus of an atom! If you had one of these black holes on the surface of the earth, there would be no way to stop it from falling through the floor to the center of the earth"			
+
+413	"So the only place to put such a black hole, in which one might use the energy that it emitted, would be in orbit around the earth – and the only way that one could get it to orbit the earth would be to attract it there by towing a large mass in front of it, rather like a carrot in front of a donkey. This does not sound like a very practical proposition, at least not in the immediate future"			
+
+414	"mass of a mountain compressed into less than a million millionth of an inch, the size of the nucleus of an atom! If you had one of these black holes on the surface of the earth, there would be no way to stop it from falling through the floor to the center of the earth. It would oscillate through the earth and back, until eventually it settled down at the center. So the only"			
+
+415	"Malfoy couldn't believe his eyes when he saw that Harry and Ron were still at Hogwarts the next day, looking tired but perfectly cheerful. Indeed, by the next morning Harry and Ron thought that meeting the three-headed dog had been an excellent adventure, and they were quite keen to have another one. In the meantime, Harry filled Ron in about the package that seemed to have been moved from Gringotts to Hogwarts, and they spent a lot of time wondering what could possibly need such heavy protection. It's either really valuable or really dangerous, said Ron. Or both, said Harry"			
+
+416	"But as all they knew for sure about the mysterious object was that it was about two inches long, they didn't have much chance of guessing what it was without further clues. Neither Neville nor Hermione showed the slightest interest in what lay underneath the dog and the trapdoor. All Neville cared about was never going near the dog again"			
+
+417	"Hermione was now refusing to speak to Harry and Ron, but she was such a bossy know-it-all that they saw this as an added bonus. All they really wanted now was a way of getting back at Malfoy, and to their great delight, just such a thing arrived in the mail about a week later."			
+
+418	"Our subjective sense of the direction of time, the psychological arrow of time, is therefore determined within our brain by the thermodynamic arrow of time. Just like a computer, we must remember things in the order in which entropy increases. This makes the second law of thermodynamics almost trivial"			
+
+419	"As I shall describe, the prospects for finding such a theory seem to be much better now because we know so much more about the universe. But we must beware of overconfidence – we have had false dawns before! At the beginning of this century, for example, it was thought that everything could be explained in terms of the properties of continuous matter, such as elasticity and heat conduction"			
+
+420	"Suddenly I realized that the paths of these light rays could never approach one another. If they did they must eventually run into one another. It would be like meeting someone else running away from the police in the opposite direction – you would both be caught!"			
+
+421	"When one tried to unify gravity with quantum mechanics, one had to introduce the idea of imaginary time. Imaginary time is indistinguishable from directions in space. If one can go north, one can turn around and head south; equally, if one can go forward in imaginary time, one ought to be able to turn round and go backward. This means that there can be no important difference between the forward and backward directions of imaginary time."			
+
+422	"Godel got to know about general relativity when he and Einstein spent their later years at the Institute for Advanced Study in Princeton. His space-time had the curious property that the whole universe was rotating. One might ask: Rotating with respect to what? The answer is that distant matter would be rotating with respect to directions that little tops or gyroscopes point in"			
+
+423	"As the owls flooded into the Great Hall as usual, everyone's attention was caught at once by a long, thin package carried by six large screech owls. Harry was just as interested as everyone else to see what was in this large parcel, and was amazed when the owls soared down and dropped it right in front of him, knocking his bacon to the floor. They had hardly fluttered out of the way when another owl dropped a letter on top of the parcel."			
+
+424	"It contains your new Nimbus Two Thousand, but I don't want everybody knowing you've got a broomstick or they'll all want one. Oliver Wood will meet you tonight on the Quidditch field at seven o'clock for your first training session."			
+
+425	"When one tried to unify gravity with quantum mechanics, one had to introduce the idea of  imaginary time. Imaginary time is indistinguishable from directions in space. If one can go north, one can turn around and head south; equally, if one can go forward in imaginary time, one ought to be able to turn round and go backward. This means that there can be no important difference between the forward and backward directions of imaginary time"			
+
+426	"If the rays of light that form the event horizon, the boundary of the black hole, can never approach each other, the area of the event horizon might stay the same or increase with time, but it could never decrease because that would mean that at least some of the rays of light in the boundary would have to be approaching each other. In fact, the area would increase whenever matter or radiation fell into the black hole Figure 7:2."			
+
+427	"signaled an end to Laplace’s dream of a theory of science, a model of the universe that would be completely deterministic: one certainly cannot predict future events exactly if one cannot even measure the present state of the universe precisely! We could still imagine that there is a set of laws that determine events completely for some supernatural being, who could observe the present state of the universe without disturbing it. However, such models of the universe are not of much interest to"			
+
+428	"They left the hall quickly, wanting to unwrap the broomstick in private before their first class, but halfway across the entrance hall they found the way upstairs barred by Crabbe and Goyle. Malfoy seized the package from Harry and felt it."			
+
+429	"The remarkable thing is that one gets exactly the same kind of fringes if one replaces the source of light by a source of particles such as electrons with a definite speed (this means that the corresponding waves have a definite length). It seems the more peculiar because if one only has one slit, one does not get any fringes, just a uniform distribution of electrons across the screen."			
+
+430	"A familiar example of interference in the case of light is the colors that are often seen in soap bubbles. These are caused by reflection of light from the two sides of the thin film of water forming the bubble. White light consists of light waves of all different wavelengths, or colors, For certain wavelengths the crests of the waves reflected from one side of the soap film coincide with the troughs reflected from the other side"			
+
+431	"A partial solution to this problem was found by the Danish scientist Niels Bohr in 1913. He suggested that maybe the electrons were not able to orbit at just any distance from the central nucleus but only at certain specified distances. If one also supposed that only one or two electrons could orbit at any one of these distances, this would solve the problem of the collapse of the atom, because the electrons could not spiral in any farther than to fill up the orbits with e least distances and energies."			
+
+432	"Harry and Ron headed upstairs, smothering their laughter at Malfoy's obvious rage and confusion. Well, it's true, Harry chortled as they reached the top of the marble staircase, If he hadn't stolen Neville's Remembrall I wouln't be on the team....”			
+
+433	"Harry had a lot of trouble keeping his mind on his lessons that day. It kept wandering up to the dormitory where his new broomstick was lying under his bed, or straying off to the Quidditch field where he'd be learning to play that night. He bolted his dinner that evening without noticing what he was eating, and then rushed upstairs with Ron to unwrap the Nimbus Two Thousand at last."			
+
+434	"Even Harry, who knew nothing about the different brooms, thought it looked wonderful. Sleek and shiny, with a mahogany handle, it had a long tail of neat, straight twigs and Nimbus Two Thousand written in gold near the top."			
+
+435	"As seven o'clock drew nearer, Harry left the castle and set off in the dusk toward the Quidditch field. Held never been inside the stadium before. Hundreds of seats were raised in stands around the field so that the spectators were high enough to see what was going on."			
+
+436	"who could observe the present state of the universe without disturbing it. However, such models of the universe are not of much interest to us ordinary mortals. It seems better to employ the principle of economy known as Occam’s razor and cut out all the features of the theory that cannot be observed. This approach led Heisenberg, Erwin Schrodinger, and Paul Dirac in the 1920s"			
+
+437	"Rayleigh and Sir James Jeans suggested that a hot object, or body, such as a star, must radiate energy at an infinite rate. According to the laws we believed at the time, a hot body ought to give off electromagnetic waves (such as radio waves, visible light, or X rays) equally at all frequencies"			
+
+438	"The obvious way to do this is to shine light on the particle. Some of the waves of light will be scattered by the particle and this will indicate its position. However, one will not be able to determine the position of the particle more accurately than the distance between the wave crests of light, so one needs to use light of a short wavelength in order to measure the position of the particle precisely. Now, by Planck’s quantum hypothesis, one cannot use an arbitrarily small amount of light"			
+
+439	"Although light is made up of waves, Planck’s quantum hypothesis tells us that in some ways it behaves as if it were composed of particles: it can be emitted or absorbed only in packets, or quanta. Equally, Heisenberg’s uncertainty principle implies that particles behave in some respects like waves: they do not have a definite position but are smeared out with a certain probability distribution"			
+
+440	"Too eager to fly again to wait for Wood, Harry mounted his broomstick and kicked off from the ground. What a feeling -- he swooped in and out of the goal posts and then sped up and down the field. The Nimbus Two Thousand turned wherever he wanted at his lightest touch."			
+
+441	"He pulled a bag of ordinary golf balls out of his pocket and a few minutes later, he and Harry were up in the air, Wood throwing the golf balls as hard as he could in every direction for Harry to catch"			
+
+442	"hypothesis explained the observed rate of emission of radiation from hot bodies very well, but its implications for determinism were not realized until 1926, when another German scientist, Werner Heisenberg, formulated his famous uncertainty principle. In order to predict the future position and velocity of a particle, one has to be able to measure its present position and"			
+
+443	"In order to avoid this obviously ridiculous result, the German scientist Max Planck suggested in 1900 that light, X rays, and other waves could not be emitted at an arbitrary rate, but only in certain packets that he called quanta. Moreover, each quantum had a certain amount of energy that was greater the higher the frequency of the waves, so at a high enough frequency the emission of a single quantum would require more energy than was available. Thus  the radiation at high frequencies would be reduced, and so the rate at which the body lost energy would be finite."			
+
+444	"position and velocity accurately. The obvious way to do this is to shine light on the particle. Some of the waves of light will be scattered by the particle and this will indicate its position. However, one will not be able to determine the position of the particle more accurately than the distance between the wave crests of light, so one needs to use light of a short wavelength in order to measure the position of the particle precisely. Now, by Planck’s quantum hypothesis, one cannot use an arbitrarily small amount of light; one has to use at least one quantum. This quantum will disturb the particle and change its velocity"			
+
+445	"Perhaps it was because he was now so busy, what with Quidditch practice three evenings a week on top of all his homework, but Harry could hardly believe it when he realized that he'd already been at Hogwarts two months. The castle felt more like home than Privet Drive ever had. His lessons, too, were becoming more and more interesting now that they had mastered the basics"			
+
+446	"The doctrine of scientific determinism was strongly resisted by many people, who felt that it  nfringed God’s freedom to intervene in the world, but it remained the standard assumption of science until the early years of this century. One of the first indications that this belief would have to be abandoned came when calculations by the British scientists Lord Rayleigh and Sir James Jeans suggested that a hot object, or body, such as a star, must radiate energy at an infinite rate."			
+
+447	"Bekenstein found out about it, he would use it as a further argument to support his ideas about the entropy of black holes, which I still did not like. However, the more I thought about it, the more it seemed that the approximations really ought to hold. But what finally convinced me that the emission was real was that the spectrum of the emitted particles was exactly that which would be emitted by a hot body, and that the black hole was emitting particles at exactly the correct rate to prevent violations of the second law. Since then the calculations have been repeated in a number of different forms by other"			
+
+448	"On Halloween morning they woke to the delicious smell of baking pumpkin wafting through the corridors. Even better, Professor Flitwick announced in Charms that he thought they were ready to start making objects fly, something they had all been dying to try since they'd seen him make Neville's toad zoom around the classroom"			
+
+449	"Professor Flitwick put the class into pairs to practice. Harry's partner was Seamus Finnigan (which was a relief, because Neville had been trying to catch his eye). Ron, however, was to be working with Hermione Granger. It was hard to tell whether Ron or Hermione was angrier about this. She hadn't spoken to either of them since the day Harry's broomstick had arrived"			
+
+450	"It was very difficult. Harry and Seamus swished and flicked, but the feather they were supposed to be sending skyward just lay on the desktop. Seamus got so impatient that he prodded it with his wand and set fire to it -- Harry had to put it out with his hat."			
+
+451	"Hubble’s discovery that the universe was expanding, and the realization of the insignificance of our own planet in the vastness of the universe, were just the starting point. As experimental and theoretical evidence mounted, it became more and more clear that the universe must have had a beginning in time, until in 1970 this was finally proved by Penrose and myself, on the basis of Einstein’s general theory of relativity."			
+
+452	"However, general relativity claims to be only a partial theory, so what the singularity theorems really show is that there must have been a time in the very early universe when the universe was so small that one could no longer ignore the small-scale effects of the other great partial theory of the twentieth century, quantum mechanics."			
+
+453	"We have seen in this chapter how, in less than half a century, man’s view of the universe formed over millennia has been transformed. Hubble’s discovery that the universe was expanding, and the realization of the insignificance of our own planet in the vastness of the universe, were just the starting point. As experimental and theoretical evidence mounted,"			
+
+454	"Ron was in a very bad mood by the end of the class. It's no wonder no one can stand her, he said to Harry as they pushed their way into the crowded corridor, she's a nightmare, honestly. Someone knocked into Harry as they hurried past him. It was Hermione. Harry caught a glimpse of her face -- and was startled to see that she was in tears."			
+
+455	"a problem with which to complete my Ph.D. thesis. Two years before, I had been diagnosed as suffering from ALS, commonly known as Lou Gehrig’s disease, or motor neuron disease, and given to understand that I had only one or two more years to live. In these circumstances there had not seemed much point in working on my Ph.D.–"			
+
+456	"During the next few years I developed new mathematical techniques to remove this and other technical conditions from the theorems that proved that singularities must occur. The final result was a joint paper by Penrose and myself in 1970"			
+
+457	"much point in working on my Ph.D.– I did not expect to survive that long. Yet two years had gone by and I was not that much worse. In fact, things were going rather well for me and I had gotten engaged to a very nice girl, Jane Wilde. But in order to get married, I needed a job, and in order to get a job, I needed a Ph.D."			
+
+458	"Hermione didn't turn up for the next class and wasn't seen all afternoon. On their way down to the Great Hall for the Halloween feast, Harry and Ron overheard Parvati Patil telling her friend Lavender that Hermione was crying in the girls' bathroom and wanted to be left alone. Ron looked still more awkward at this, but a moment later they had entered the Great Hall, where the Halloween decorations put Hermione out of their minds"			
+
+459	"In 1965 I read about Penrose’s theorem that any body undergoing gravitational collapse must eventually form a singularity. I soon realized that if one reversed the direction of time in Penrose’s theorem, so that the collapse became an expansion, the conditions of his theorem would still hold, provided the universe were roughly like a Friedmann model on large scales at the present time"			
+
+460	"At first sight, Penrose’s result applied only to stars; it didn’t have anything to say about the question of whether the entire universe had a big bang singularity in its past. However, at the time that Penrose produced his theorem, I was a research student desperately looking for a problem with which to complete my Ph.D. thesis. Two years before, I had been diagnosed as suffering from ALS"			
+
+461	"A thousand live bats fluttered from the walls and ceiling while a thousand more swooped over the tables in low black clouds, making the candles in the pumpkins stutter. The feast appeared suddenly on the golden plates, as it had at the start-of-term banquet. Harry was just helping himself to a baked potato when Professor Quirrell came sprinting into the hall, his turban askew and terror on his face. Everyone stared as he reached Professor Dumbledore's chair, slumped against the table, and gasped, roll -- in the dungeons -- thought you ought to know"			
+
+462	"Ducking down, they joined the Hufflepuffs going the other way, slipped down a deserted side corridor, and hurried off toward the girls' bathroom. They had just turned the corner when they heard quick footsteps behind them"			
+
+463	"The present evidence therefore suggests that the universe will probably expand forever, but all we can really be sure of is that even if the universe is going to recollapse, it won’t do so for at least another ten thousand million years, since it has already been expanding for at least that long. This should not unduly worry us: by that time, unless we have colonized beyond the Solar System, mankind will long since have died out, extinguished along with our sun!"			
+
+464	"The present evidence therefore suggests that the universe will probably expand forever, but all we can really be sure of is that even if the universe is going to recollapse, it won’t do so for at least another ten thousand million years, since it has already been expanding for at least that long. This should not unduly worry us: by that time, unless we have colonized beyond the Solar System, mankind will long since have died out, extinguished along with our sun!"			
+
+465	"Correspondingly, if, as is the case, we know only what has happened since the big bang, we could not determine what happened beforehand. As far as we are concerned, events before the big bang can have no consequences, so they should not form part of a scientific model of the universe. We should therefore cut them out of the model and say that time had a beginning at the big bang."			
+
+466	"Harry sniffed and a foul stench reached his nostrils, a mixture of old socks and the kind of public toilet no one seems to clean. And then they heard it -- a low grunting, and the shuffling footfalls of gigantic feet. Ron pointed -- at the end of a passage to the left, something huge was moving toward them. They shrank into the shadows and watched as it emerged into a patch of moonlight."			
+
+467	"In Friedmann’s models, the galaxies are all moving directly away from each other – so it is not surprising that at some time in the past they were all at the same place. In the real universe, however, the galaxies are not just moving directly away from each other – they also have small sideways velocities. So in reality they need never have been all at exactly the same place, only very close together. Perhaps then the current expanding universe resulted not from a big bang singularity, but from an earlier contracting phase; as the universe had collapsed the particles in it might not have all collided, but had flown past and then away from each other"			
+
+468	"We can determine the present rate of expansion by measuring the velocities at which other galaxies are moving away from us, using the Doppler effect. This can be done very accurately. However, the distances to the galaxies are not very well known because we can only measure them indirectly. So all we know is that the universe is expanding by between 5 percent and 10 percent every thousand million years"			
+
+469	"but they claimed that this was still only possible in certain exceptional models in which the galaxies were all moving in just the right way. They argued that since there seemed to be infinitely more Friedmann-like models without a big bang singularity than there were with one, we should conclude that there had not in reality been a big bang."			
+
+470	"producing the present expansion of the the universe that were roughly like Friedmann’s models but took account of the irregularities and random velocities of galaxies in the real universe. They showed that such models could start with a big bang, even though the galaxies were no longer always moving directly away from each other"			
+
+471	"Another attempt to avoid the conclusion that there must have been a big bang, and therefore a  eginning of time, was made by two Russian scientists, Evgenii Lifshitz and Isaac Khalatnikov, in 1963. They suggested that the big bang might be a peculiarity of Friedmann’s models alone, which after all were only approximations to the real universe. Perhaps, of all the models that were roughly like the real universe, only Friedmann’s would contain a big bang singularity"			
+
+472	"Many people do not like the idea that time has a beginning, probably because it smacks of divine intervention. (The Catholic Church, on the other hand, seized on the big bang model and in 1951officially pronounced it to be in accordance with the Bible.) There were therefore a number of attempts to avoid the conclusion that there had been a big bang. The proposal that gained widest support was called the steady state theory. It was suggested in 1948 by two refugees from Nazi-occupied Austria, Hermann Bondi and Thomas Gold"			
+
+473	"It was a horrible sight. Twelve feet tall, its skin was a dull, granite gray, its great lumpy body like a boulder with its small bald head perched on top like a coconut. It had short legs thick as tree trunks with flat, horny feet. The smell coming from it was incredible. It was holding a huge wooden club, which dragged along the floor because its arms were so long"			
+
+474	"It was the last thing they wanted to do, but what choice did they have? Wheeling around, they sprinted back to the door and turned the key, fumbling in their panic. Harry pulled the door open and they ran inside. Hermione Granger was shrinking against the wall opposite, looking as if she was about to faint. The troll was advancing on her, knocking the sinks off the walls as it went."			
+
+475	"The shouting and the echoes seemed to be driving the troll berserk. It roared again and started toward Ron, who was nearest and had no way to escape."			
+
+476	"we still get only about one tenth of the amount required to halt the expansion. However, we cannot exclude the possibility that there might be some other form of matter, distributed almost uniformly throughout the universe, that we have not yet detected and that might still raise the average density of the universe up to the critical value needed to halt the expansion"			
+
+477	"In the first kind of Friedmann model, space is just like this, but with three dimensions instead of two for the earth’s surface. The fourth dimension, time, is also finite in extent, but it is like a line with two ends or boundaries, a beginning and an end. We shall see later that when one combines general relativity with the uncertainty principle of quantum mechanics, it is possible for both space and time to be finite without any edges or boundaries."			
+
+478	"All of the Friedmann solutions have the feature that at some time in the past (between ten and twenty thousand million years ago) the distance between neighboring galaxies must have been zero. At that time, which we call the big bang, the density of the universe and the curvature of space-time would have been infinite. Because mathematics cannot really handle infinite numbers, this means that the general theory of relativity (on which Friedmann’s solutions are based) predicts that there is a point in the universe where the theory itself breaks down."			
+
+479	"The shouting and the echoes seemed to be driving the troll berserk. It roared again and started toward Ron, who was nearest and had no way to escape. Harry then did something that was both very brave and very stupid: He took a great running jump and managed to fasten his arms around the troll's neck from behind. The troll couldn't feel Harry hanging there, but even a troll will notice if you stick a long bit of wood up its nose, and Harry's wand had still been in his hand when he'd jumped – it had gone straight up one of the troll's nostrils."			 
+
+480	"Hermione had sunk to the floor in fright; Ron pulled out his own wand -- not knowing what he was going to do he heard himself cry the first spell that came into his head: ingardium Leviosa! The club flew suddenly out of the troll's hand, rose high, high up into the air, turned slowly over -- and dropped, with a sickening crack, onto its owner's head. The troll swayed on the spot and then fell flat on its face, with a thud that made the whole room tremble"			
+
+481	"A sudden slamming and loud footsteps made the three of them look up. They hadn't realized what a racket they had been making, but of course, someone downstairs must have heard the crashes and the troll's roars. A moment later, Professor McGonagall had come bursting into the room, closely followed by Snape, with Quirrell bringing up the rear. Quirrell took one look at the troll, let out a faint whimper, and sat quickly down on a toilet, clutching his heart."			
+
+482	"In the first kind of Friedmann model, which expands and recollapses, space is bent in on itself,  ike the surface of the earth. It is therefore finite in extent. In the second kind of model, which expands forever, space is bent the other way, like the surface of a saddle. So in this case space is infinite. Finally, in the third kind of Friedmann model, with just the critical rate of expansion, space is flat (and therefore is also infinite)."			
+
+483	"A remarkable feature of the first kind of Friedmann model is that in it the universe is not infinite in space, but neither does space have any boundary. Gravity is so strong that space is bent round onto itself, making it rather like the surface of the earth. If one keeps traveling in a certain direction on the surface of the earth, one never comes up against an impassable barrier or falls over the edge, but eventually comes back to where one started."			
+
+484	"The idea that one could go right round the universe and end up where one started makes good science fiction, but it doesn’t have much practical significance, because it can be shown that the universe would recollapse to zero size before one could get round. You would need to travel faster than light in order to end up where you started before the universe came to an end – and that is not allowed!"			
+
+485	"Snape bent over the troll. Professor McGonagall was looking at Ron and Harry. Harry had never seen her look so angry. Her lips were white. Hopes of winning fifty points for Gryffindor faded quickly from Harry's mind."			
+
+486	"I went looking for the troll because I -- I thought I could deal with it on my own -- you know, because I've read all about them. Ron dropped his wand. Hermione Granger, telling a downright lie to a teacher? If they hadn't found me, I'd be dead now. Harry stuck his wand up its nose and Ron knocked it out with its own club. They didn't have time to come and fetch anyone. It was about to finish me off when they arrived."			
+
+487	"As the balloon expands, the distance between any two spots increases, but there is no spot that can be said to be the center of the expansion. Moreover, the farther apart the spots are, the faster they will be moving apart. Similarly, in Friedmann’s model the speed at which any two galaxies are moving apart is proportional to the distance between them. So it predicted that the red shift of a galaxy should be directly proportional to its distance from us, exactly as Hubble found"			
+
+488	"Although Friedmann found only one, there are in fact three different kinds of models that obey Friedmann’s two fundamental assumptions. In the first kind (which Friedmann found) the universe is expanding sufficiently slowly that the gravitational attraction between the different galaxies causes the expansion to slow down and eventually to stop."			
+
+489	"Despite the success of his model and his prediction of Hubble’s observations, Friedmann’s work remained largely unknown in the West until similar models were discovered in 1935 by the American physicist Howard Robertson and the British mathematician Arthur Walker, in response to Hubble’s discovery of the uniform expansion of the universe."			
+
+490	"This, as we have seen, was Friedmann’s second assumption. We have no scientific evidence for, or against, this assumption. We believe it only on grounds of modesty: it would be most remarkable if the universe looked the same in every direction around us, but not around other points in the universe! In Friedmann’s model, all the galaxies are moving directly away from each other"			
+
+491	"Hermione hung her head. Harry was speechless. Hermione was the last person to do anything against the rules, and here she was, pretending she had, to get them out of trouble. It was as if Snape had started handing out sweets."			
+
+492	"We believe it only on grounds of modesty: it would be most remarkable if the universe looked the same in every direction around us, but not around other points in the universe! In Friedmann’s model, all the galaxies are moving directly away from each other."			 
+
+493	"In Friedmann’s model, all the galaxies are moving directly away from each other. The situation is rather like a balloon with a number of spots painted on it being steadily blown up. As the balloon expands, the distance between any two spots increases, but there is no spot that can be said to be the center of the expansion."			
+
+494	"other galaxies to be moving away from us, then we must be at the center of the universe. There is, however, an alternate explanation: the universe might look the same in every direction as seen from any other galaxy too. This, as we have seen, was Friedmann’s second assumption. We have no scientific evidence for, or against, this assumption"			
+
+495	"He saw his reflection, pale and scared-looking at first. But a moment later, the reflection smiled at him. It put its hand into its pocket and pulled out a blood-red stone. It winked and put the Stone back in its pocket -- and as it did so, Harry felt something heavy drop into his real pocket. Somehow -- incredibly -- he'd gotten the Stone."			
+
+496	"Harry felt as if Devil's Snare was rooting him to the spot. He couldn't move a muscle. Petrified, he watched as Quirrell reached up and began to unwrap his turban. What was going on? The turban fell away. Quirrell's head looked strangely small without it. Then he turned slowly on the spot."			
+
+497	"Now at first sight, all this evidence that the universe looks the same whichever direction we look in might seem to suggest there is something special about our place in the universe. In particular, it might seem that if we observe all other galaxies to be moving away from us, then we must be at the center of the universe. There is, however, an alternate explanation: the universe might look the same in every direction as seen from any other galaxy too."		
+	
+498	"And suddenly, their wardrobes were empty, their trunks were packed, Neville's toad was found lurking in a corner of the toilets; notes were handed out to all students, warning them not to use magic over the holidays (I always hope they'll forget to give us these, said Fred Weasley sadly); Hagrid was there to take them down to the fleet of boats that sailed across the lake; they were boarding the Hogwarts Express; talking and laughing as the countryside became greener and tidier; eating Bettie Bott's Every Flavor Beans as they sped past Muggle towns; pulling off their wizard robes and putting on jackets and coats; pulling into platform nine and three-quarters at King's Cross Station."
+			
+499	"with it. However, a real particle close to a massive body has less energy than if it were far away, because it would take energy to lift it far away against the gravitational attraction of the body. Normally, the energy of the particle is still positive, but"			
+
+500	"with it. However, a real particle close to a massive body has less energy than if it were far away, because it would take energy to lift it far away against the gravitational attraction of the body. Normally, the energy of the particle is still positive, but"			
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
